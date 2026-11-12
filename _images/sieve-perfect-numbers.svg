@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="euclid-graphic" data-graphic-id="sieve-perfect-numbers" width="820" height="474" viewBox="0 0 820 474" role="img">
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -8 12 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="16" orient="auto">
+      <line x1="0" y1="-5.5" x2="0" y2="5.5" stroke="#e2b553" stroke-width="1.6" stroke-linecap="round"/>
+    </marker>
+    <marker id="geom-tick-2" viewBox="-8 -8 16 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="auto">
+      <line x1="-2.4" y1="-5.5" x2="-2.4" y2="5.5" stroke="#e2b553" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="2.4" y1="-5.5" x2="2.4" y2="5.5" stroke="#e2b553" stroke-width="1.5" stroke-linecap="round"/>
+    </marker>
+    <marker id="geom-tick-3" viewBox="-10 -8 20 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="20" markerHeight="16" orient="auto">
+      <line x1="-4.2" y1="-5.5" x2="-4.2" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+      <line x1="0" y1="-5.5" x2="0" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+      <line x1="4.2" y1="-5.5" x2="4.2" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+    </marker>
+    <marker id="arrow-accent" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#e2b553"/>
+    </marker>
+    <marker id="arrow-muted" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#9a9488"/>
+    </marker>
+  </defs>
+  <style>
+    .euclid-graphic { font-family: "Gentium Plus", "Palatino Linotype", "Book Antiqua", Georgia, serif; }
+    .euclid-graphic .title { fill: #e8e2d5; font-size: 16px; font-weight: 700; letter-spacing: 0.02em; }
+    .euclid-graphic .subtitle { fill: #a8a195; font-size: 12px; font-style: italic; }
+    .euclid-graphic .lbl { fill: #e8e2d5; font-size: 13px; }
+    .euclid-graphic .lbl-b { fill: #e8e2d5; font-size: 13.5px; font-weight: 700; }
+    .euclid-graphic .lbl-sm { fill: #a8a195; font-size: 11.5px; }
+    .euclid-graphic .lbl-gr { fill: #e2b553; font-size: 13px; font-style: italic; }
+    .euclid-graphic .lbl-accent { fill: #e2b553; font-weight: 700; }
+    .euclid-graphic .lbl-blue { fill: #6ba9d8; }
+    .euclid-graphic .lbl-green { fill: #78c491; }
+    .euclid-graphic .lbl-rose { fill: #dc7d7d; }
+    .euclid-graphic .lbl-violet { fill: #b48ee0; }
+    .euclid-graphic .mono { font-family: "JetBrains Mono", "Fira Code", monospace; font-size: 12px; fill: #e8e2d5; }
+    .euclid-graphic .construct { stroke: #e8e2d5; stroke-width: 1.75; fill: none; }
+    .euclid-graphic .guide { stroke: #9a9488; stroke-width: 1.2; stroke-dasharray: 5 4; fill: none; }
+    .euclid-graphic .guide-accent { stroke: #e2b553; stroke-width: 1.6; stroke-dasharray: 5 4; fill: none; }
+    .euclid-graphic .accent-line { stroke: #e2b553; stroke-width: 2.2; fill: none; }
+    .euclid-graphic .blue-line { stroke: #6ba9d8; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .green-line { stroke: #78c491; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .rose-line { stroke: #dc7d7d; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .violet-line { stroke: #b48ee0; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .grid-line { stroke: #9a9488; stroke-opacity: 0.25; stroke-width: 0.85; fill: none; }
+    .euclid-graphic .card { fill: #202026; fill-opacity: 0.72; stroke: #8e887c; stroke-width: 1.15; }
+    .euclid-graphic .card-accent { fill: #202026; fill-opacity: 0.78; stroke: #e2b553; stroke-width: 1.85; }
+    .euclid-graphic .card-blue { fill: #202026; fill-opacity: 0.78; stroke: #6ba9d8; stroke-width: 1.7; }
+    .euclid-graphic .card-green { fill: #202026; fill-opacity: 0.78; stroke: #78c491; stroke-width: 1.7; }
+    .euclid-graphic .card-violet { fill: #202026; fill-opacity: 0.78; stroke: #b48ee0; stroke-width: 1.7; }
+    .euclid-graphic .card-rose { fill: #202026; fill-opacity: 0.78; stroke: #dc7d7d; stroke-width: 1.7; }
+    .euclid-graphic .pt { fill: #e8e2d5; }
+    .euclid-graphic .pt-accent { fill: #e2b553; stroke: #18181c; stroke-width: 1.1; }
+    .euclid-graphic .alpha-pebble { font-size: 15px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+  </style>
+  <g id="highlights"/>
+  <text x="410" y="28" text-anchor="middle" class="title">Nicomachus I.13 &amp; I.16 — The Odd Koskinon of Eratosthenes &amp; Perfect Numbers</text>
+  <text x="410" y="48" text-anchor="middle" class="subtitle">Top: Sieving odd numbers by strides of 3 and 5 · Bottom: Dyadic Euclid–Nicomachus generation of 6, 28, 496, 8128</text>
+  <rect x="20" y="62" width="780" height="148" rx="8" class="card"/>
+  <text x="36" y="84" class="lbl-b">I.13 · Odd Progression (3 … 35): Stride-3 arcs (rose) &amp; Stride-5 arcs (blue)</text>
+  <g data-ref="SIEVE3">
+    <path d="M 42.0 110.0 Q 110.2 82.0 178.5 110.0" fill="none" class="rose-line"/>
+    <path d="M 178.5 110.0 Q 246.8 82.0 315.0 110.0" fill="none" class="rose-line"/>
+    <path d="M 315.0 110.0 Q 383.2 82.0 451.5 110.0" fill="none" class="rose-line"/>
+    <path d="M 451.5 110.0 Q 519.8 82.0 588.0 110.0" fill="none" class="rose-line"/>
+    <path d="M 588.0 110.0 Q 656.2 82.0 724.5 110.0" fill="none" class="rose-line"/>
+  </g>
+  <g data-ref="SIEVE5">
+    <path d="M 87.5 146.0 Q 201.2 182.0 315.0 146.0" fill="none" class="blue-line"/>
+    <path d="M 315.0 146.0 Q 428.8 182.0 542.5 146.0" fill="none" class="blue-line"/>
+    <path d="M 542.5 146.0 Q 656.2 182.0 770.0 146.0" fill="none" class="blue-line"/>
+  </g>
+  <g data-ref="P3">
+    <circle cx="42.0" cy="128.0" r="16" class="card-accent"/>
+    <text x="42.0" y="132.0" text-anchor="middle" class="mono">3</text>
+  </g>
+  <g data-ref="P5">
+    <circle cx="87.5" cy="128.0" r="16" class="card-accent"/>
+    <text x="87.5" y="132.0" text-anchor="middle" class="mono">5</text>
+  </g>
+  <g data-ref="P7">
+    <circle cx="133.0" cy="128.0" r="16" class="card-accent"/>
+    <text x="133.0" y="132.0" text-anchor="middle" class="mono">7</text>
+  </g>
+  <g>
+    <circle cx="178.5" cy="128.0" r="16" class="card"/>
+    <line x1="168.5" y1="138.0" x2="188.5" y2="118.0" stroke="#dc7d7d" stroke-width="1.4"/>
+    <text x="178.5" y="132.0" text-anchor="middle" class="mono">9</text>
+  </g>
+  <g>
+    <circle cx="224.0" cy="128.0" r="16" class="card-accent"/>
+    <text x="224.0" y="132.0" text-anchor="middle" class="mono">11</text>
+  </g>
+  <g>
+    <circle cx="269.5" cy="128.0" r="16" class="card-accent"/>
+    <text x="269.5" y="132.0" text-anchor="middle" class="mono">13</text>
+  </g>
+  <g data-ref="P15">
+    <circle cx="315.0" cy="128.0" r="16" class="card-violet"/>
+    <line x1="305.0" y1="138.0" x2="325.0" y2="118.0" stroke="#dc7d7d" stroke-width="1.4"/>
+    <text x="315.0" y="132.0" text-anchor="middle" class="mono">15</text>
+  </g>
+  <g>
+    <circle cx="360.5" cy="128.0" r="16" class="card-accent"/>
+    <text x="360.5" y="132.0" text-anchor="middle" class="mono">17</text>
+  </g>
+  <g>
+    <circle cx="406.0" cy="128.0" r="16" class="card-accent"/>
+    <text x="406.0" y="132.0" text-anchor="middle" class="mono">19</text>
+  </g>
+  <g>
+    <circle cx="451.5" cy="128.0" r="16" class="card"/>
+    <line x1="441.5" y1="138.0" x2="461.5" y2="118.0" stroke="#dc7d7d" stroke-width="1.4"/>
+    <text x="451.5" y="132.0" text-anchor="middle" class="mono">21</text>
+  </g>
+  <g>
+    <circle cx="497.0" cy="128.0" r="16" class="card-accent"/>
+    <text x="497.0" y="132.0" text-anchor="middle" class="mono">23</text>
+  </g>
+  <g>
+    <circle cx="542.5" cy="128.0" r="16" class="card"/>
+    <line x1="532.5" y1="138.0" x2="552.5" y2="118.0" stroke="#dc7d7d" stroke-width="1.4"/>
+    <text x="542.5" y="132.0" text-anchor="middle" class="mono">25</text>
+  </g>
+  <g>
+    <circle cx="588.0" cy="128.0" r="16" class="card"/>
+    <line x1="578.0" y1="138.0" x2="598.0" y2="118.0" stroke="#dc7d7d" stroke-width="1.4"/>
+    <text x="588.0" y="132.0" text-anchor="middle" class="mono">27</text>
+  </g>
+  <g>
+    <circle cx="633.5" cy="128.0" r="16" class="card-accent"/>
+    <text x="633.5" y="132.0" text-anchor="middle" class="mono">29</text>
+  </g>
+  <g>
+    <circle cx="679.0" cy="128.0" r="16" class="card-accent"/>
+    <text x="679.0" y="132.0" text-anchor="middle" class="mono">31</text>
+  </g>
+  <g>
+    <circle cx="724.5" cy="128.0" r="16" class="card"/>
+    <line x1="714.5" y1="138.0" x2="734.5" y2="118.0" stroke="#dc7d7d" stroke-width="1.4"/>
+    <text x="724.5" y="132.0" text-anchor="middle" class="mono">33</text>
+  </g>
+  <g>
+    <circle cx="770.0" cy="128.0" r="16" class="card"/>
+    <line x1="760.0" y1="138.0" x2="780.0" y2="118.0" stroke="#dc7d7d" stroke-width="1.4"/>
+    <text x="770.0" y="132.0" text-anchor="middle" class="mono">35</text>
+  </g>
+  <text x="36" y="198" class="lbl-sm">Gold circles = Prime &amp; incomposite (πρῶτοι καὶ ἀσύνθετοι) · Crossed = Secondary &amp; composite (δεύτεροι καὶ σύνθετοι; 9 = 3², 15 = 3×5)</text>
+  <rect x="20" y="222" width="780" height="236" rx="8" class="card"/>
+  <text x="36" y="246" class="lbl-b">I.16 · Perfect Numbers (τέλειοι): Equal to the Sum of Their Proper Aliquot Parts</text>
+  <g data-ref="PERF6">
+    <text x="36" y="274" class="lbl-b">6 = 2¹(2² − 1) = 1 + 2 + 3</text>
+    <rect x="36" y="284" width="60" height="28" fill="#e2b553" fill-opacity="0.24" stroke="#e2b553" stroke-width="1.2"/>
+    <rect x="96" y="284" width="120" height="28" fill="#6ba9d8" fill-opacity="0.24" stroke="#6ba9d8" stroke-width="1.2"/>
+    <rect x="216" y="284" width="180" height="28" fill="#78c491" fill-opacity="0.24" stroke="#78c491" stroke-width="1.2"/>
+    <text x="66" y="303" text-anchor="middle" class="mono">1</text>
+    <text x="156" y="303" text-anchor="middle" class="mono">2</text>
+    <text x="306" y="303" text-anchor="middle" class="mono">3</text>
+    <path d="M 36.00 322.00 L 216.00 322.00 L 396.00 322.00" fill="none" class="accent-line" marker-mid="url(#geom-tick-1)"/>
+    <text x="216" y="339" text-anchor="middle" class="lbl-sm">Whole = 6 (first perfect number, in units)</text>
+  </g>
+  <g data-ref="PERF28">
+    <text x="36" y="368" class="lbl-b">28 = 2²(2³ − 1) = 1 + 2 + 4 + 7 + 14</text>
+    <rect x="36" y="378" width="13" height="28" fill="#e2b553" fill-opacity="0.24" stroke="#e2b553" stroke-width="1.2"/>
+    <rect x="49" y="378" width="26" height="28" fill="#6ba9d8" fill-opacity="0.24" stroke="#6ba9d8" stroke-width="1.2"/>
+    <rect x="75" y="378" width="51" height="28" fill="#78c491" fill-opacity="0.24" stroke="#78c491" stroke-width="1.2"/>
+    <rect x="126" y="378" width="90" height="28" fill="#b48ee0" fill-opacity="0.24" stroke="#b48ee0" stroke-width="1.2"/>
+    <rect x="216" y="378" width="180" height="28" fill="#dc7d7d" fill-opacity="0.24" stroke="#dc7d7d" stroke-width="1.2"/>
+    <text x="55" y="397" text-anchor="middle" class="mono">1+2</text>
+    <text x="100" y="397" text-anchor="middle" class="mono">4</text>
+    <text x="171" y="397" text-anchor="middle" class="mono">7</text>
+    <text x="306" y="397" text-anchor="middle" class="mono">14</text>
+    <path d="M 36.00 416.00 L 216.00 416.00 L 396.00 416.00" fill="none" class="green-line" marker-mid="url(#geom-tick-2)"/>
+    <text x="216" y="434" text-anchor="middle" class="lbl-sm">Whole = 28 (second perfect number, in tens)</text>
+  </g>
+  <g data-ref="MERSENNE">
+    <rect x="424" y="258" width="360" height="182" rx="8" class="card-accent"/>
+    <text x="604" y="280" text-anchor="middle" class="lbl-b">Dyadic Rule: P = 2ᵖ⁻¹ · (2ᵖ − 1)</text>
+    <text x="440" y="306" class="mono">p = 2 : 1+2 = 3 (prime)     → 2·3    = 6</text>
+    <text x="440" y="328" class="mono">p = 3 : 1+2+4 = 7 (prime)   → 4·7    = 28</text>
+    <text x="440" y="350" class="mono">p = 5 : 2⁵ − 1 = 31 (prime) → 16·31  = 496</text>
+    <text x="440" y="372" class="mono">p = 7 : 2⁷ − 1 = 127 (prime)→ 64·127 = 8128</text>
+    <line x1="440" y1="386" x2="768" y2="386" class="guide"/>
+    <text x="440" y="408" class="mono lbl-rose">p = 11: 2¹¹ − 1 = 2047 = 23 × 89</text>
+    <text x="440" y="426" class="lbl-sm">Composite! Breaks naive 10⁴ alternation</text>
+  </g>
+</svg>

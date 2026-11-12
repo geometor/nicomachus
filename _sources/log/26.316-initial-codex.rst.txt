@@ -1,0 +1,17 @@
+:type: log
+:date: 2026-11-12
+:author: phi
+
+============================================================================================================
+Initial Codex & Symbolic Engine — *Introductio Arithmetica* (Hoche 1866 Teubner & D'Ooge 1926 Critical Text)
+============================================================================================================
+
+Established ``geometor/nicomachus`` (``v0.1.0``) as a synchronized four-track **Book Codex** (``:layout: book``) paired with a 100% exact ``SymPy`` and Rational Trigonometry modeling package (``geometor.nicomachus``) for :person:`Nicomachus of Gerasa's <nicomachus>` *Introduction to Arithmetic* (*Ἀριθμητικὴ Εἰσαγωγή*, Books I–II).
+
+Highlights of the Initial Edition
+---------------------------------
+
+* **Archival Folio Verification & Primary Witnesses**: Grounded the four-track edition in :person:`Richard Hoche's <hoche>` 1866 Teubner Greek critical edition (:cite:`hoche:1866`, SHA-256 verified TEI-XML + 300 DPI page scan verification) and :person:`Martin Luther D'Ooge's <dooge>` 1926 University of Michigan English translation & mathematical commentary (:cite:`dooge:1926`), systematically cross-referenced to :person:`Boethius's <boethius>` *De Institutione Arithmetica* (:cite:`boethius:friedlein:1867`).
+* **Four-Track Synchronized Book Codex**: Registered the ``-el`` (**Greek (Hoche 1866)**) track alongside **English**, **Summary**, and **Critical Notes** across four comprehensive units covering Philosophy & the *Mathemata*/*Quadrivium*, the Odd Sieve & Perfect Numbers, the Five Species of Inequality & the Equality Unfolding Tree, Polygonal Gnomons & Nicomachus's Sum-of-Cubes Theorem, and the Ten Neo-Pythagorean Means crowned by the Cube's *Most Perfect Proportion* (:math:`6 : 8 :: 9 : 12`).
+* **Exact Symbolic Algebra & Rational Trigonometry**: Implemented ``equality_tree``, ``figurate_gnomons``, and ``ten_means_and_cube`` using exact ``SymPy`` rationals and quadratic radicals (:math:`\mathbb{Q}(\sqrt{ab})`) and ``Model(..., auto_intersect=False)`` propositions with zero ``float`` or ``sp.Float`` approximations.
+* **Nine Interactive ``.euclid-graphic`` Diagrams**: Built deterministic light/dark theme-adaptive SVGs via ``scripts/build_figures.py`` wired to ``:g:`` and ``:eq:`` prose roles while maintaining strict content/code separation (zero inline ``py_file`` directives in treatise tracks).

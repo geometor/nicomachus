@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="euclid-graphic" data-graphic-id="quadrivium-tetrad" width="820" height="480" viewBox="0 0 820 480" role="img">
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -8 12 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="16" orient="auto">
+      <line x1="0" y1="-5.5" x2="0" y2="5.5" stroke="#e2b553" stroke-width="1.6" stroke-linecap="round"/>
+    </marker>
+    <marker id="geom-tick-2" viewBox="-8 -8 16 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="auto">
+      <line x1="-2.4" y1="-5.5" x2="-2.4" y2="5.5" stroke="#e2b553" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="2.4" y1="-5.5" x2="2.4" y2="5.5" stroke="#e2b553" stroke-width="1.5" stroke-linecap="round"/>
+    </marker>
+    <marker id="geom-tick-3" viewBox="-10 -8 20 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="20" markerHeight="16" orient="auto">
+      <line x1="-4.2" y1="-5.5" x2="-4.2" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+      <line x1="0" y1="-5.5" x2="0" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+      <line x1="4.2" y1="-5.5" x2="4.2" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+    </marker>
+    <marker id="arrow-accent" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#e2b553"/>
+    </marker>
+    <marker id="arrow-muted" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#9a9488"/>
+    </marker>
+  </defs>
+  <style>
+    .euclid-graphic { font-family: "Gentium Plus", "Palatino Linotype", "Book Antiqua", Georgia, serif; }
+    .euclid-graphic .title { fill: #e8e2d5; font-size: 16px; font-weight: 700; letter-spacing: 0.02em; }
+    .euclid-graphic .subtitle { fill: #a8a195; font-size: 12px; font-style: italic; }
+    .euclid-graphic .lbl { fill: #e8e2d5; font-size: 13px; }
+    .euclid-graphic .lbl-b { fill: #e8e2d5; font-size: 13.5px; font-weight: 700; }
+    .euclid-graphic .lbl-sm { fill: #a8a195; font-size: 11.5px; }
+    .euclid-graphic .lbl-gr { fill: #e2b553; font-size: 13px; font-style: italic; }
+    .euclid-graphic .lbl-accent { fill: #e2b553; font-weight: 700; }
+    .euclid-graphic .lbl-blue { fill: #6ba9d8; }
+    .euclid-graphic .lbl-green { fill: #78c491; }
+    .euclid-graphic .lbl-rose { fill: #dc7d7d; }
+    .euclid-graphic .lbl-violet { fill: #b48ee0; }
+    .euclid-graphic .mono { font-family: "JetBrains Mono", "Fira Code", monospace; font-size: 12px; fill: #e8e2d5; }
+    .euclid-graphic .construct { stroke: #e8e2d5; stroke-width: 1.75; fill: none; }
+    .euclid-graphic .guide { stroke: #9a9488; stroke-width: 1.2; stroke-dasharray: 5 4; fill: none; }
+    .euclid-graphic .guide-accent { stroke: #e2b553; stroke-width: 1.6; stroke-dasharray: 5 4; fill: none; }
+    .euclid-graphic .accent-line { stroke: #e2b553; stroke-width: 2.2; fill: none; }
+    .euclid-graphic .blue-line { stroke: #6ba9d8; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .green-line { stroke: #78c491; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .rose-line { stroke: #dc7d7d; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .violet-line { stroke: #b48ee0; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .grid-line { stroke: #9a9488; stroke-opacity: 0.25; stroke-width: 0.85; fill: none; }
+    .euclid-graphic .card { fill: #202026; fill-opacity: 0.72; stroke: #8e887c; stroke-width: 1.15; }
+    .euclid-graphic .card-accent { fill: #202026; fill-opacity: 0.78; stroke: #e2b553; stroke-width: 1.85; }
+    .euclid-graphic .card-blue { fill: #202026; fill-opacity: 0.78; stroke: #6ba9d8; stroke-width: 1.7; }
+    .euclid-graphic .card-green { fill: #202026; fill-opacity: 0.78; stroke: #78c491; stroke-width: 1.7; }
+    .euclid-graphic .card-violet { fill: #202026; fill-opacity: 0.78; stroke: #b48ee0; stroke-width: 1.7; }
+    .euclid-graphic .card-rose { fill: #202026; fill-opacity: 0.78; stroke: #dc7d7d; stroke-width: 1.7; }
+    .euclid-graphic .pt { fill: #e8e2d5; }
+    .euclid-graphic .pt-accent { fill: #e2b553; stroke: #18181c; stroke-width: 1.1; }
+    .euclid-graphic .alpha-pebble { font-size: 15px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+  </style>
+  <g id="highlights"/>
+  <text x="410" y="30" text-anchor="middle" class="title">Nicomachus I.3 — Ontological Division of Quantity &amp; the Four Mathemata</text>
+  <text x="410" y="50" text-anchor="middle" class="subtitle">Boethius's Quadrivium ("fourfold path" from sense-perception to intelligible wisdom)</text>
+  <g data-ref="QUANT">
+    <rect x="285" y="68" width="250" height="52" rx="8" class="card-accent"/>
+    <text x="410" y="90" text-anchor="middle" class="lbl-b">BEING / QUANTITY (τὸ ποσόν)</text>
+    <text x="410" y="109" text-anchor="middle" class="lbl-sm">Objects of Wisdom (σοφία)</text>
+  </g>
+  <path d="M 355 120 L 215 168" fill="none" class="accent-line" marker-end="url(#arrow-accent)"/>
+  <path d="M 465 120 L 605 168" fill="none" class="blue-line" marker-end="url(#arrow-muted)"/>
+  <g data-ref="MULT">
+    <rect x="90" y="172" width="250" height="56" rx="8" class="card-accent"/>
+    <text x="215" y="195" text-anchor="middle" class="lbl-b">MULTITUDE (τὸ πλῆθος)</text>
+    <text x="215" y="214" text-anchor="middle" class="lbl-sm">Discrete · Rooted in Monad, advancing infinitely</text>
+  </g>
+  <g data-ref="MAGN">
+    <rect x="480" y="172" width="250" height="56" rx="8" class="card-blue"/>
+    <text x="605" y="195" text-anchor="middle" class="lbl-b">MAGNITUDE (τὸ μέγεθος)</text>
+    <text x="605" y="214" text-anchor="middle" class="lbl-sm">Continuous · Bounded whole, infinitely divisible</text>
+  </g>
+  <path d="M 165 228 L 115 284" fill="none" class="accent-line" marker-end="url(#arrow-accent)"/>
+  <path d="M 265 228 L 315 284" fill="none" class="accent-line" marker-end="url(#arrow-accent)"/>
+  <path d="M 555 228 L 505 284" fill="none" class="blue-line" marker-end="url(#arrow-muted)"/>
+  <path d="M 655 228 L 705 284" fill="none" class="blue-line" marker-end="url(#arrow-muted)"/>
+  <g data-ref="ARITH">
+    <rect x="25" y="288" width="180" height="104" rx="8" class="card-accent"/>
+    <text x="115" y="311" text-anchor="middle" class="lbl-gr">I · καθ’ ἑαυτό (Per se)</text>
+    <text x="115" y="333" text-anchor="middle" class="lbl-b">ARITHMETIC</text>
+    <text x="115" y="351" text-anchor="middle" class="lbl-sm">Ἀριθμητική</text>
+    <text x="115" y="370" text-anchor="middle" class="lbl-sm">Even, Odd, Prime, Perfect</text>
+    <text x="115" y="385" text-anchor="middle" class="mono">Sovereign Mother (I.4–5)</text>
+  </g>
+  <g data-ref="MUSIC">
+    <rect x="225" y="288" width="180" height="104" rx="8" class="card-green"/>
+    <text x="315" y="311" text-anchor="middle" class="lbl-gr">II · πρὸς ἄλλο (Ad aliud)</text>
+    <text x="315" y="333" text-anchor="middle" class="lbl-b">MUSIC (HARMONICS)</text>
+    <text x="315" y="351" text-anchor="middle" class="lbl-sm">Μουσική</text>
+    <text x="315" y="370" text-anchor="middle" class="lbl-sm">2:1 · 3:2 · 4:3 · 9:8</text>
+    <text x="315" y="385" text-anchor="middle" class="mono">Relative Ratio</text>
+  </g>
+  <g data-ref="GEOM">
+    <rect x="420" y="288" width="180" height="104" rx="8" class="card-blue"/>
+    <text x="510" y="311" text-anchor="middle" class="lbl-gr">III · ἐν μονῇ (At rest)</text>
+    <text x="510" y="333" text-anchor="middle" class="lbl-b">GEOMETRY</text>
+    <text x="510" y="351" text-anchor="middle" class="lbl-sm">Γεωμετρία</text>
+    <text x="510" y="370" text-anchor="middle" class="lbl-sm">Triangle, Square, Cube</text>
+    <text x="510" y="385" text-anchor="middle" class="mono">Stationary Form</text>
+  </g>
+  <g data-ref="ASTRON">
+    <rect x="615" y="288" width="180" height="104" rx="8" class="card-violet"/>
+    <text x="705" y="311" text-anchor="middle" class="lbl-gr">IV · ἐν κινήσει (In motion)</text>
+    <text x="705" y="333" text-anchor="middle" class="lbl-b">ASTRONOMY</text>
+    <text x="705" y="351" text-anchor="middle" class="lbl-sm">Σφαιρική</text>
+    <text x="705" y="370" text-anchor="middle" class="lbl-sm">Ordered Revolutions</text>
+    <text x="705" y="385" text-anchor="middle" class="mono">Celestial Harmony</text>
+  </g>
+  <g data-ref="PRIORITY">
+    <path d="M 115 398 C 165 434, 265 434, 315 398" fill="none" class="guide-accent" marker-end="url(#arrow-accent)"/>
+    <path d="M 115 398 C 220 452, 410 452, 510 398" fill="none" class="guide-accent" marker-end="url(#arrow-accent)"/>
+    <path d="M 510 398 C 560 434, 655 434, 705 398" fill="none" class="guide" marker-end="url(#arrow-muted)"/>
+    <text x="410" y="462" text-anchor="middle" class="lbl-sm">Ontological Priority (συναναιρεῖ μὲν, οὐ συναναιρεῖται δέ): Arithmetic precedes Music, Geometry, and Sphaerics</text>
+  </g>
+</svg>

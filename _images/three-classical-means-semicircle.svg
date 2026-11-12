@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="euclid-graphic" data-graphic-id="three-classical-means-semicircle" width="880" height="440" viewBox="0 0 880 440" role="img">
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -8 12 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="16" orient="auto">
+      <line x1="0" y1="-5.5" x2="0" y2="5.5" stroke="#e2b553" stroke-width="1.6" stroke-linecap="round"/>
+    </marker>
+    <marker id="geom-tick-2" viewBox="-8 -8 16 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="auto">
+      <line x1="-2.4" y1="-5.5" x2="-2.4" y2="5.5" stroke="#e2b553" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="2.4" y1="-5.5" x2="2.4" y2="5.5" stroke="#e2b553" stroke-width="1.5" stroke-linecap="round"/>
+    </marker>
+    <marker id="geom-tick-3" viewBox="-10 -8 20 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="20" markerHeight="16" orient="auto">
+      <line x1="-4.2" y1="-5.5" x2="-4.2" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+      <line x1="0" y1="-5.5" x2="0" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+      <line x1="4.2" y1="-5.5" x2="4.2" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+    </marker>
+    <marker id="arrow-accent" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#e2b553"/>
+    </marker>
+    <marker id="arrow-muted" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#9a9488"/>
+    </marker>
+  </defs>
+  <style>
+    .euclid-graphic { font-family: "Gentium Plus", "Palatino Linotype", "Book Antiqua", Georgia, serif; }
+    .euclid-graphic .title { fill: #e8e2d5; font-size: 16px; font-weight: 700; letter-spacing: 0.02em; }
+    .euclid-graphic .subtitle { fill: #a8a195; font-size: 12px; font-style: italic; }
+    .euclid-graphic .lbl { fill: #e8e2d5; font-size: 13px; }
+    .euclid-graphic .lbl-b { fill: #e8e2d5; font-size: 13.5px; font-weight: 700; }
+    .euclid-graphic .lbl-sm { fill: #a8a195; font-size: 11.5px; }
+    .euclid-graphic .lbl-gr { fill: #e2b553; font-size: 13px; font-style: italic; }
+    .euclid-graphic .lbl-accent { fill: #e2b553; font-weight: 700; }
+    .euclid-graphic .lbl-blue { fill: #6ba9d8; }
+    .euclid-graphic .lbl-green { fill: #78c491; }
+    .euclid-graphic .lbl-rose { fill: #dc7d7d; }
+    .euclid-graphic .lbl-violet { fill: #b48ee0; }
+    .euclid-graphic .mono { font-family: "JetBrains Mono", "Fira Code", monospace; font-size: 12px; fill: #e8e2d5; }
+    .euclid-graphic .construct { stroke: #e8e2d5; stroke-width: 1.75; fill: none; }
+    .euclid-graphic .guide { stroke: #9a9488; stroke-width: 1.2; stroke-dasharray: 5 4; fill: none; }
+    .euclid-graphic .guide-accent { stroke: #e2b553; stroke-width: 1.6; stroke-dasharray: 5 4; fill: none; }
+    .euclid-graphic .accent-line { stroke: #e2b553; stroke-width: 2.2; fill: none; }
+    .euclid-graphic .blue-line { stroke: #6ba9d8; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .green-line { stroke: #78c491; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .rose-line { stroke: #dc7d7d; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .violet-line { stroke: #b48ee0; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .grid-line { stroke: #9a9488; stroke-opacity: 0.25; stroke-width: 0.85; fill: none; }
+    .euclid-graphic .card { fill: #202026; fill-opacity: 0.72; stroke: #8e887c; stroke-width: 1.15; }
+    .euclid-graphic .card-accent { fill: #202026; fill-opacity: 0.78; stroke: #e2b553; stroke-width: 1.85; }
+    .euclid-graphic .card-blue { fill: #202026; fill-opacity: 0.78; stroke: #6ba9d8; stroke-width: 1.7; }
+    .euclid-graphic .card-green { fill: #202026; fill-opacity: 0.78; stroke: #78c491; stroke-width: 1.7; }
+    .euclid-graphic .card-violet { fill: #202026; fill-opacity: 0.78; stroke: #b48ee0; stroke-width: 1.7; }
+    .euclid-graphic .card-rose { fill: #202026; fill-opacity: 0.78; stroke: #dc7d7d; stroke-width: 1.7; }
+    .euclid-graphic .pt { fill: #e8e2d5; }
+    .euclid-graphic .pt-accent { fill: #e2b553; stroke: #18181c; stroke-width: 1.1; }
+    .euclid-graphic .alpha-pebble { font-size: 15px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+  </style>
+  <g id="highlights"/>
+  <text x="435" y="28" text-anchor="middle" class="title">Nicomachus II.21–28 — The Three Classical Archetypes &amp; Synoptic Decad of Ten Means</text>
+  <text x="435" y="48" text-anchor="middle" class="subtitle">Left: Semicircle on PQ = 6, QR = 12 proving A ≥ G ≥ H &amp; A · H = G² · Right: Hoche p. 144 Ten Means</text>
+  <rect x="20" y="66" width="405" height="356" rx="8" class="card"/>
+  <text x="222" y="90" text-anchor="middle" class="lbl-b">Semicircle Construction (a = 6, c = 12)</text>
+  <path d="M 42.00 356.00 A 180.00 180.00 0 0 1 402.00 356.00" fill="none" class="construct" data-ref="SEMICIRC"/>
+  <path d="M 42.00 356.00 L 132.00 356.00 L 222.00 356.00" fill="none" class="construct" marker-mid="url(#geom-tick-1)" data-ref="PO"/>
+  <path d="M 222.00 356.00 L 312.00 356.00 L 402.00 356.00" fill="none" class="construct" marker-mid="url(#geom-tick-1)" data-ref="OR"/>
+  <path d="M 222.00 356.00 L 192.00 271.15 L 162.00 186.29" fill="none" class="accent-line" marker-mid="url(#geom-tick-1)" data-ref="OS"/>
+  <line x1="162.00" y1="356.00" x2="162.00" y2="186.29" class="green-line" data-ref="QS"/>
+  <line x1="162.00" y1="356.00" x2="215.33" y2="337.14" class="guide"/>
+  <path d="M 162.00 186.29 L 188.67 261.72 L 215.33 337.14" fill="none" class="blue-line" marker-mid="url(#geom-tick-2)" data-ref="SF"/>
+  <circle cx="42.00" cy="356.00" r="3.8" class="pt-accent"/>
+  <text x="42.00" y="376.00" text-anchor="middle" class="mono">P(0)</text>
+  <circle cx="162.00" cy="356.00" r="3.8" class="pt-accent"/>
+  <text x="162.00" y="376.00" text-anchor="middle" class="mono">Q(6)</text>
+  <circle cx="222.00" cy="356.00" r="3.8" class="pt-accent"/>
+  <text x="222.00" y="376.00" text-anchor="middle" class="mono">O(9)</text>
+  <circle cx="402.00" cy="356.00" r="3.8" class="pt-accent"/>
+  <text x="402.00" y="376.00" text-anchor="middle" class="mono">R(18)</text>
+  <circle cx="162.00" cy="186.29" r="3.8" class="pt-accent"/>
+  <text x="162.00" y="174.29" text-anchor="middle" class="mono">S</text>
+  <circle cx="215.33" cy="337.14" r="3.8" class="pt-accent"/>
+  <text x="215.33" y="329.14" text-anchor="middle" class="mono">F</text>
+  <text x="100.0" y="271.1" class="mono lbl-green">G = 6√2</text>
+  <text x="246.0" y="293.1" class="mono lbl-accent">A = 9</text>
+  <text x="239.3" y="253.7" class="mono lbl-blue">H = 8</text>
+  <text x="222" y="404" text-anchor="middle" class="mono">A = 9 &gt; G = √72 ≈ 8.49 &gt; H = 8  ·  A·H = 72 = G²</text>
+  <g data-ref="TENMEANS">
+    <rect x="440" y="66" width="420" height="356" rx="8" class="card"/>
+    <text x="650" y="90" text-anchor="middle" class="lbl-b">Synoptic Decad Table (Book II.28.11, Hoche p. 144)</text>
+    <g>
+      <text x="454" y="118.0" class="lbl-sm">1. Arithmetic</text>
+      <text x="620" y="118.0" class="lbl-gr">α, β, γ</text>
+      <text x="680" y="118.0" class="mono">(1, 2, 3)</text>
+      <text x="750" y="118.0" class="lbl-sm">(z−m):(m−x) = 1</text>
+    </g>
+    <g>
+      <text x="454" y="147.5" class="lbl-sm">2. Geometric</text>
+      <text x="620" y="147.5" class="lbl-gr">α, β, δ</text>
+      <text x="680" y="147.5" class="mono">(1, 2, 4)</text>
+      <text x="750" y="147.5" class="lbl-sm">(z−m):(m−x) = z:m</text>
+    </g>
+    <g>
+      <text x="454" y="177.0" class="lbl-sm">3. Harmonic</text>
+      <text x="620" y="177.0" class="lbl-gr">γ, δ, ϛ</text>
+      <text x="680" y="177.0" class="mono">(3, 4, 6)</text>
+      <text x="750" y="177.0" class="lbl-sm">(z−m):(m−x) = z:x</text>
+    </g>
+    <g>
+      <text x="454" y="206.5" class="lbl-sm">4. Subcontr. Harmonic</text>
+      <text x="620" y="206.5" class="lbl-gr">γ, ε, ϛ</text>
+      <text x="680" y="206.5" class="mono">(3, 5, 6)</text>
+      <text x="750" y="206.5" class="lbl-sm">(m−x):(z−m) = z:x</text>
+    </g>
+    <g>
+      <text x="454" y="236.0" class="lbl-sm">5. Subcontr. Geom. I</text>
+      <text x="620" y="236.0" class="lbl-gr">β, δ, ε</text>
+      <text x="680" y="236.0" class="mono">(2, 4, 5)</text>
+      <text x="750" y="236.0" class="lbl-sm">(m−x):(z−m) = m:x</text>
+    </g>
+    <g>
+      <text x="454" y="265.5" class="lbl-sm">6. Subcontr. Geom. II</text>
+      <text x="620" y="265.5" class="lbl-gr">α, δ, ϛ</text>
+      <text x="680" y="265.5" class="mono">(1, 4, 6)</text>
+      <text x="750" y="265.5" class="lbl-sm">(m−x):(z−m) = z:m</text>
+    </g>
+    <g>
+      <text x="454" y="295.0" class="lbl-sm">7. Neo-Pythagorean I</text>
+      <text x="620" y="295.0" class="lbl-gr">ϛ, η, ϑ</text>
+      <text x="680" y="295.0" class="mono">(6, 8, 9)</text>
+      <text x="750" y="295.0" class="lbl-sm">(z−x):(m−x) = z:x</text>
+    </g>
+    <g>
+      <text x="454" y="324.5" class="lbl-sm">8. Neo-Pythagorean II</text>
+      <text x="620" y="324.5" class="lbl-gr">ϛ, ζ, ϑ</text>
+      <text x="680" y="324.5" class="mono">(6, 7, 9)</text>
+      <text x="750" y="324.5" class="lbl-sm">(z−x):(z−m) = z:x</text>
+    </g>
+    <g>
+      <text x="454" y="354.0" class="lbl-sm">9. Neo-Pythagorean III</text>
+      <text x="620" y="354.0" class="lbl-gr">δ, ϛ, ζ</text>
+      <text x="680" y="354.0" class="mono">(4, 6, 7)</text>
+      <text x="750" y="354.0" class="lbl-sm">(z−x):(m−x) = m:x</text>
+    </g>
+    <g data-ref="MEAN10">
+      <text x="454" y="383.5" class="lbl-sm lbl-accent">10. Additive / Fibonacci</text>
+      <text x="620" y="383.5" class="lbl-gr">γ, ε, η</text>
+      <text x="680" y="383.5" class="mono lbl-accent">(3, 5, 8)</text>
+      <text x="750" y="383.5" class="lbl-sm">(z−x):(z−m) = m:x</text>
+    </g>
+  </g>
+</svg>
