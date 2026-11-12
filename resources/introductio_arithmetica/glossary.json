@@ -1,0 +1,272 @@
+{
+  "philosophia": {
+    "headword": "philosophia (φιλοσοφία)",
+    "translation": "love of wisdom",
+    "term": "philosophia",
+    "greek": "φιλοσοφία",
+    "latin": "philosophia / amor sapientiae",
+    "english": "love of wisdom",
+    "definition": "Term coined according to Nicomachus (I.1.1) by Pythagoras, restricting 'wisdom' (σοφία) to exact scientific knowledge of eternal, immaterial realities.",
+    "hoche_loci": "I.1 (pp. 1–2)"
+  },
+  "poson": {
+    "headword": "poson / plethos (ποσόν / πλῆθος)",
+    "translation": "discrete quantity / multitude",
+    "term": "poson",
+    "greek": "τὸ ποσόν / τὸ πλῆθος",
+    "latin": "multitudo / quantitas discreta",
+    "english": "multitude / discrete quantity",
+    "definition": "Discontinuous assemblage rooted in a definite minimum (the monad) and advancing indefinitely by addition without upper bound; object of arithmetic (per se) and music (ad aliud).",
+    "hoche_loci": "I.2.4–5, I.3.1 (pp. 4–6)"
+  },
+  "pelikon": {
+    "headword": "pelikon / megethos (πηλίκον / μέγεθος)",
+    "translation": "continuous quantity / magnitude",
+    "term": "pelikon",
+    "greek": "τὸ πηλίκον / τὸ μέγεθος",
+    "latin": "magnitudo / quantitas continua",
+    "english": "magnitude / continuous quantity",
+    "definition": "Coherent spatial extension bounded as a finite whole yet infinitely divisible without reaching a minimum part; object of geometry (stationary) and sphaerics/astronomy (in motion).",
+    "hoche_loci": "I.2.4–5, I.3.1–2 (pp. 4–6)"
+  },
+  "mathemata": {
+    "headword": "tessares methodoi / mathemata (τέσσαρες μέθοδοι / μαθήματα)",
+    "translation": "the four mathematical sciences (Quadrivium)",
+    "term": "mathemata",
+    "greek": "τέσσαρες μέθοδοι / μαθήματα",
+    "latin": "quadrivium (Boethius, De Inst. Arith. I.1)",
+    "english": "the four mathematical sciences / Quadrivium",
+    "definition": "Arithmetic, Music, Geometry, and Astronomy (Sphaerics): the 'ladders and bridges' (κλίμακες καὶ γέφυραι, I.3.6) conducting the eye of the soul from sensible flux to intelligible being.",
+    "hoche_loci": "I.3–5 (pp. 5–12)"
+  },
+  "synanairein": {
+    "headword": "synanairei men, ou synanaireitai de (συναναιρεῖ μὲν, οὐ συναναιρεῖται δέ)",
+    "translation": "co-eliminates without being co-eliminated (ontological priority)",
+    "term": "synanairein",
+    "greek": "συναναιρεῖ μὲν, οὐ συναναιρεῖται δέ",
+    "latin": "simul perimit sed non simul perimitur",
+    "english": "ontological priority by non-reciprocal elimination",
+    "definition": "Criterion establishing Arithmetic as 'mother' (μητρόπολις) of the Quadrivium: abolishing absolute number abolishes relative ratio (Music) and numbered figures (Geometry), whereas abolishing triangle or octave leaves pure number intact.",
+    "hoche_loci": "I.4–5 (pp. 9–12)"
+  },
+  "arithmos": {
+    "headword": "arithmos (ἀριθμός)",
+    "translation": "number",
+    "term": "arithmos",
+    "greek": "ἀριθμός",
+    "latin": "numerus",
+    "english": "number",
+    "definition": "Defined threefold by Nicomachus (I.7.1): limited multitude (πλῆθος ὡρισμένον), a combination of monads (μονάδων σύστημα), or a flow of quantity composed of monads (ποσότητος χύμα ἐκ μονάδων συγκείμενον).",
+    "hoche_loci": "I.7.1 (p. 13)"
+  },
+  "monas": {
+    "headword": "monas (μονάς)",
+    "translation": "monad / unity",
+    "term": "monas",
+    "greek": "μονάς",
+    "latin": "unitas",
+    "english": "monad / unit",
+    "definition": "The indivisible principle and seed (σπέρμα) of all number, containing potentially (δυνάμει) every even, odd, polygonal, and solid form prior to actualization.",
+    "hoche_loci": "I.7–8, II.6–7 (pp. 13–15, 82–85)"
+  },
+  "koskinon": {
+    "headword": "koskinon Eratosthenous (κόσκινον Ἐρατοσθένους)",
+    "translation": "Sieve of Eratosthenes",
+    "term": "koskinon",
+    "greek": "κόσκινον Ἐρατοσθένους",
+    "latin": "cribrum Eratosthenis",
+    "english": "Sieve of Eratosthenes",
+    "definition": "Algorithmic winnowing of the odd progression 3, 5, 7, 9, 11, … by striding p places from each odd prime p to mark off secondary/composite numbers and isolate primes.",
+    "hoche_loci": "I.13.2–9 (pp. 29–35)"
+  },
+  "protos-asynthetos": {
+    "headword": "protos kai asynthetos (πρῶτος καὶ ἀσύνθετος)",
+    "translation": "prime and incomposite number",
+    "term": "protos-asynthetos",
+    "greek": "πρῶτος καὶ ἀσύνθετος",
+    "latin": "primus et incompositus",
+    "english": "prime and incomposite",
+    "definition": "An odd number measured solely by the common monad (1) and receiving no proper fractional part besides the paronymous fraction named from itself (e.g. 3 has only 1/3; 5 has only 1/5).",
+    "hoche_loci": "I.11 (pp. 25–27)"
+  },
+  "teleios": {
+    "headword": "teleios arithmos (τέλειος ἀριθμός)",
+    "translation": "perfect number",
+    "term": "teleios",
+    "greek": "τέλειος ἀριθμός",
+    "latin": "numerus perfectus",
+    "english": "perfect number",
+    "definition": "A number exactly equal to the sum of its proper aliquot divisors, standing in virtuous equality between abundant (ὑπερτελής) excess and deficient (ἐλλιπής) defect: 6, 28, 496, 8128, … generated by 2^(p−1)(2^p − 1) when 2^p − 1 is prime.",
+    "hoche_loci": "I.14–16 (pp. 36–44)"
+  },
+  "isotes": {
+    "headword": "isotes (ἰσότης)",
+    "translation": "equality",
+    "term": "isotes",
+    "greek": "ἰσότης",
+    "latin": "aequalitas",
+    "english": "equality",
+    "definition": "Unvarying 1 : 1 relation admitting no species or subdivision; proved in I.23 and II.1–2 to be the primordial 'mother and root' (μήτηρ καὶ ῥίζα) from which all five species of inequality unfold and into which all resolve.",
+    "hoche_loci": "I.17, I.23, II.1–2 (pp. 44, 64–75)"
+  },
+  "pollaplasios": {
+    "headword": "pollaplasios (πολλαπλάσιος)",
+    "translation": "multiple ratio (Multiplex)",
+    "term": "pollaplasios",
+    "greek": "πολλαπλάσιος",
+    "latin": "multiplex",
+    "english": "multiple ratio",
+    "definition": "First species of greater inequality (k : 1 for k >= 2: duple 2:1, triple 3:1, quadruple 4:1, …), where the greater contains the lesser an exact integer number of times.",
+    "hoche_loci": "I.18 (pp. 46–49)"
+  },
+  "epimorios": {
+    "headword": "epimorios (ἐπιμόριος)",
+    "translation": "superparticular ratio",
+    "term": "epimorios",
+    "greek": "ἐπιμόριος",
+    "latin": "superparticularis",
+    "english": "superparticular / epimoric ratio",
+    "definition": "Second species of greater inequality ((n + 1) : n), containing the whole lesser term plus one aliquot part 1/n: hemiolios 3:2 (fifth), epitritos 4:3 (fourth), epogdoos 9:8 (whole tone).",
+    "hoche_loci": "I.19 (pp. 49–55)"
+  },
+  "hemiolios": {
+    "headword": "hemiolios (ἡμιόλιος)",
+    "translation": "sesquialter (3 : 2)",
+    "term": "hemiolios",
+    "greek": "ἡμιόλιος",
+    "latin": "sesquialter",
+    "english": "sesquialter (one-and-a-half, 3 : 2)",
+    "definition": "First species of superparticular ratio (1 + 1/2 = 3 : 2), governing the Pythagorean musical consonance of the Fifth (διὰ πέντε, e.g. 9 : 6 and 12 : 8).",
+    "hoche_loci": "I.19, II.29"
+  },
+  "epitritos": {
+    "headword": "epitritos (ἐπίτριτος)",
+    "translation": "sesquitertian (4 : 3)",
+    "term": "epitritos",
+    "greek": "ἐπίτριτος",
+    "latin": "sesquitertius",
+    "english": "sesquitertian (one-and-a-third, 4 : 3)",
+    "definition": "Second species of superparticular ratio (1 + 1/3 = 4 : 3), governing the Pythagorean musical consonance of the Fourth (διὰ τεσσάρων, e.g. 8 : 6 and 12 : 9).",
+    "hoche_loci": "I.19, II.29"
+  },
+  "epogdoos": {
+    "headword": "epogdoos (ἐπόγδοος)",
+    "translation": "sesquioctave (9 : 8)",
+    "term": "epogdoos",
+    "greek": "ἐπόγδοος",
+    "latin": "sesquioctavus",
+    "english": "sesquioctave (9 : 8, the whole tone)",
+    "definition": "Superparticular ratio 9 : 8 measuring the musical whole tone (τόνος), the exact quotient separating the Fifth (3 : 2) from the Fourth (4 : 3) between 9 and 8 in 6 : 8 :: 9 : 12.",
+    "hoche_loci": "I.19, II.29 (pp. 145–147)"
+  },
+  "epimeres": {
+    "headword": "epimeres (ἐπιμερής)",
+    "translation": "superpartient ratio",
+    "term": "epimeres",
+    "greek": "ἐπιμερής",
+    "latin": "superpartiens",
+    "english": "superpartient ratio",
+    "definition": "Third species of greater inequality ((n + r) : n with 2 <= r < n and gcd(n, r) = 1), containing the whole lesser plus several aliquot parts, e.g. epidimoiros 5 : 3 (1 + 2/3), epitrimoiros 7 : 4 (1 + 3/4).",
+    "hoche_loci": "I.20–21 (pp. 55–59)"
+  },
+  "pollaplasiepimorios": {
+    "headword": "pollaplasiepimorios & pollaplasiepimeres",
+    "translation": "multiple superparticular & multiple superpartient",
+    "term": "pollaplasiepimorios",
+    "greek": "πολλαπλασιεπιμόριος / πολλαπλασιεπιμερής",
+    "latin": "multiplex superparticularis / multiplex superpartiens",
+    "english": "multiple superparticular (kn + 1 : n) & multiple superpartient (kn + r : n)",
+    "definition": "Fourth and fifth species of greater inequality (k >= 2), completing Nicomachus's exhaustive fivefold taxonomy of every rational inequality m : n > 1.",
+    "hoche_loci": "I.22–23 (pp. 59–71)"
+  },
+  "anastrophe": {
+    "headword": "anastrophe (ἀναστροφή)",
+    "translation": "reversal of order",
+    "term": "anastrophe",
+    "greek": "ἀναστροφή",
+    "latin": "conversio ordinis",
+    "english": "reversal of terms",
+    "definition": "Reversing a geometric triple (a, b, c) -> (c, b, a) before applying Nicomachus's three-term command N1, yielding N2(a, b, c) = (c, b+c, a+2b+c) and branching multiples into superparticulars and superpartients.",
+    "hoche_loci": "I.23.8–15 (pp. 66–71)"
+  },
+  "gnomon": {
+    "headword": "gnomon (γνώμων)",
+    "translation": "arithmetic / figurate gnomon",
+    "term": "gnomon",
+    "greek": "γνώμων",
+    "latin": "gnomon",
+    "english": "gnomon",
+    "definition": "Each successive term g(s, k) = 1 + (s − 2)(k − 1) of an arithmetic progression whose border-addition preserves self-similar s-gonal figure from one rank to the next.",
+    "hoche_loci": "II.7–12 (pp. 85–99)"
+  },
+  "polygonos": {
+    "headword": "polygonos arithmos (πολύγωνος ἀριθμός)",
+    "translation": "polygonal figurate number",
+    "term": "polygonos",
+    "greek": "πολύγωνος ἀριθμός",
+    "latin": "numerus polygonius",
+    "english": "polygonal number",
+    "definition": "Plane number P(s, n) = n + (s − 2)n(n − 1)/2 generated by summing n terms of the arithmetic progression with step d = s − 2; decomposes into T_n + (s − 3)T_{n−1} (II.12).",
+    "hoche_loci": "II.8–12 (pp. 86–99)"
+  },
+  "heteromekes": {
+    "headword": "heteromekes (ἑτερομήκης)",
+    "translation": "heteromecic / oblong number n(n + 1)",
+    "term": "heteromekes",
+    "greek": "ἑτερομήκης",
+    "latin": "parte altera longior",
+    "english": "heteromecic / oblong number",
+    "definition": "Plane product n(n + 1) whose sides differ by exactly unity (2, 6, 12, 20, 30, …), generated by summing consecutive even numbers 2 + 4 + … + 2n = 2T_n; strictly distinguished from general promecic rectangles n(n + k) with k >= 2.",
+    "hoche_loci": "II.17–19 (pp. 108–117)"
+  },
+  "tauton-thateron": {
+    "headword": "tauton kai thateron (ταὐτὸν καὶ θάτερον)",
+    "translation": "the Same and the Other",
+    "term": "tauton-thateron",
+    "greek": "ταὐτὸν καὶ θάτερον",
+    "latin": "idem et alterum",
+    "english": "the Same and the Other",
+    "definition": "Pythagorean–Platonic principles manifested arithmetically: odd numbers and squares n^2 embody Sameness (constant 1:1 side ratio), while even numbers and heteromecics n(n+1) embody Otherness (changing side ratio n:(n+1)).",
+    "hoche_loci": "II.17–20 (pp. 108–119)"
+  },
+  "analogia": {
+    "headword": "analogia / mesotes (ἀναλογία / μεσότης)",
+    "translation": "proportion / mean",
+    "term": "analogia",
+    "greek": "ἀναλογία / μεσότης",
+    "latin": "proportio / medietas",
+    "english": "proportion / mean",
+    "definition": "Strictly, the identity or binding together of two or more ratios (λόγων σύλληψις), unfolding across three classical archetypes (arithmetic, geometric, harmonic) and seven subcontrary/Neo-Pythagorean means to reach the Pythagorean Decad of Ten Means.",
+    "hoche_loci": "II.21–28 (pp. 119–144)"
+  },
+  "harmonike": {
+    "headword": "harmonike mesotes (ἁρμονικὴ μεσότης)",
+    "translation": "harmonic mean",
+    "term": "harmonike",
+    "greek": "ἁρμονικὴ μεσότης",
+    "latin": "medietas harmonica",
+    "english": "harmonic mean",
+    "definition": "Third classical mean (z − m):(m − x) = z:x, or m = 2xz/(x + z); called 'subcontrary' by earlier Pythagoreans and renamed 'harmonic' by Archytas and Hippasus because it generates musical consonances and governs the Cube (6, 8, 12).",
+    "hoche_loci": "II.25–26 (pp. 131–136)"
+  },
+  "hypenantia": {
+    "headword": "hypenantia (ὑπεναντία)",
+    "translation": "subcontrary mean",
+    "term": "hypenantia",
+    "greek": "ὑπεναντία",
+    "latin": "subcontraria",
+    "english": "subcontrary mean",
+    "definition": "Originally the archaic name for the harmonic mean; in II.28 applied specifically to the Fourth Mean (m − x):(z − m) = z:x, e.g. (3, 5, 6), where m = (x^2 + z^2)/(x + z), and analogously to the 5th and 6th means.",
+    "hoche_loci": "II.25.1, II.28.3–5 (pp. 131, 139–141)"
+  },
+  "teleiotate-analogia": {
+    "headword": "teleiotate analogia (τελειοτάτη ἀναλογία)",
+    "translation": "the Most Perfect Proportion (6 : 8 :: 9 : 12)",
+    "term": "teleiotate-analogia",
+    "greek": "τελειοτάτη καὶ μουσικωτάτη ἀναλογία",
+    "latin": "perfectissima proportio / maxima et perfecta symphonia",
+    "english": "the Most Perfect Proportion",
+    "definition": "Four-term solid proportion 6 : 8 :: 9 : 12 (ϛ, η, ϑ, ιβ) crowning Book II, Ch. 29: three-dimensional, uniting Arithmetic (9), Harmonic (8), and Geometric (6·12 = 8·9 = 72) symmetry, the Cube (6 faces, 8 vertices, 12 edges), and all Pythagorean consonances (2:1, 3:2, 4:3, 9:8).",
+    "hoche_loci": "II.29 (pp. 144–147)"
+  }
+}

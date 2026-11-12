@@ -1,0 +1,62 @@
+{
+  "work": {
+    "slug": "introductio_arithmetica",
+    "title_gr": "Ἀριθμητικὴ Εἰσαγωγή",
+    "title_la": "Introductio Arithmetica",
+    "title_en": "Introduction to Arithmetic",
+    "author": "Nicomachus of Gerasa (c. 60–120 CE)",
+    "books": 2,
+    "tracks": ["en", "el", "summary", "notes"]
+  },
+  "primary_sources": [
+    {
+      "id": "hoche_1866_1st1K_grc1_xml",
+      "citation_key": "hoche:1866",
+      "role": "Primary Greek TEI-XML text witness",
+      "title": "Nicomachi Geraseni Pythagorei Introductionis Arithmeticae Libri II (ed. Ricardus Hoche)",
+      "publisher": "B. G. Teubner, Leipzig",
+      "year": 1866,
+      "rights": "Public Domain (1866 critical edition; Open Greek and Latin First1KGreek TEI-XML CC-BY-SA / PD source text)",
+      "local_path": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml",
+      "bytes": 442420,
+      "sha256": "c66b2acadd790ddd046003bf58d4cce10211c897550ac2ab5029f1e14ec95a54",
+      "upstream_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0358/tlg001/tlg0358.tlg001.1st1K-grc1.xml"
+    },
+    {
+      "id": "hoche_1866_teubner_pdf",
+      "citation_key": "hoche:1866",
+      "role": "Archival Greek critical edition facsimile (300 DPI multimodal scan verification)",
+      "title": "Nicomachi Geraseni Pythagorei Introductionis Arithmeticae Libri II (ed. Ricardus Hoche)",
+      "publisher": "B. G. Teubner, Leipzig",
+      "year": 1866,
+      "rights": "Public Domain (published 1866)",
+      "local_gitignored_path": "resources/introductio_arithmetica/pdfs/hoche_1866_teubner.pdf",
+      "page_offset_formula": "pdf_page = hoche_page + 18",
+      "archive_identifier": "introductionisar00nicouoft",
+      "upstream_url": "https://archive.org/details/introductionisar00nicouoft"
+    },
+    {
+      "id": "dooge_1926_michigan_pdf",
+      "citation_key": "dooge:1926",
+      "role": "Primary English translation & mathematical commentary facsimile (300 DPI multimodal scan verification)",
+      "title": "Nicomachus of Gerasa: Introduction to Arithmetic (trans. Martin Luther D'Ooge; studies by F. E. Robbins & L. C. Karpinski)",
+      "publisher": "Macmillan Company / University of Michigan Studies, Humanistic Series, Vol. XVI, New York",
+      "year": 1926,
+      "rights": "Public Domain in the United States (published 1926; >95 years pre-1931 threshold)",
+      "local_gitignored_path": "resources/introductio_arithmetica/pdfs/dooge_1926_michigan.pdf",
+      "page_offset_formula": "pdf_page = dooge_page + 16",
+      "archive_identifier": "NicomachusIntroToArithmetic",
+      "upstream_url": "https://archive.org/details/NicomachusIntroToArithmetic"
+    },
+    {
+      "id": "boethius_friedlein_1867",
+      "citation_key": "boethius:friedlein:1867",
+      "role": "Latin Quadrivium transmission & apparatus parallel",
+      "title": "Anicii Manlii Torquati Severini Boetii De Institutione Arithmetica Libri Duo (ed. Godofredus Friedlein)",
+      "publisher": "B. G. Teubner, Leipzig",
+      "year": 1867,
+      "rights": "Public Domain (published 1867)",
+      "upstream_url": "https://archive.org/details/deinstitutionear00boetuoft"
+    }
+  ]
+}

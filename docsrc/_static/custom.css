@@ -1,0 +1,333 @@
+/* =========================================================================
+   GEOMETOR • Nicomachus — Introductio Arithmetica (Ἀριθμητικὴ Εἰσαγωγή)
+   Polytonic Greek Typography, Hoche/D'Ooge Apparatus & Adaptive SVG Styling
+   Complements foundation theme's book_layout.html, _book.scss & geometor_interactive.js
+   ========================================================================= */
+
+:root {
+  --nico-accent: #b45309;
+  --nico-accent-soft: rgba(180, 83, 9, 0.10);
+  --nico-border: rgba(100, 116, 139, 0.25);
+  --nico-folio-fg: #64748b;
+  --nico-greek-font: "Gentium Plus", "GFS Porson", "New Athena Unicode",
+    "Palatino Linotype", "Noto Serif", "Times New Roman", Georgia, serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --nico-accent: #e2b553;
+    --nico-accent-soft: rgba(226, 181, 83, 0.12);
+    --nico-border: rgba(148, 163, 184, 0.24);
+    --nico-folio-fg: #94a3b8;
+  }
+}
+
+html[data-theme="dark"] {
+  --nico-accent: #e2b553;
+  --nico-accent-soft: rgba(226, 181, 83, 0.12);
+  --nico-border: rgba(148, 163, 184, 0.24);
+  --nico-folio-fg: #94a3b8;
+}
+
+html[data-theme="light"] {
+  --nico-accent: #b45309;
+  --nico-accent-soft: rgba(180, 83, 9, 0.10);
+  --nico-border: rgba(100, 116, 139, 0.25);
+  --nico-folio-fg: #64748b;
+}
+
+/* Polytonic Greek readability on synchronized -el track pages and epigraphs */
+.book-content :lang(el),
+.book-track-el .book-body p,
+.book-body blockquote em {
+  font-family: var(--nico-greek-font);
+  line-height: 1.84;
+  letter-spacing: 0.005em;
+}
+
+/* Subtle styling for Hoche / D'Ooge folio markers */
+.folio-marker,
+.book-folio {
+  color: var(--nico-folio-fg);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.03em;
+}
+
+/* Concordance and apparatus table refinement */
+.book-body table.docutils,
+main table.docutils {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25rem 0 1.75rem;
+  font-size: 0.94rem;
+}
+
+.book-body table.docutils th,
+main table.docutils th {
+  border-bottom: 2px solid var(--nico-border);
+  text-align: left;
+  padding: 0.55rem 0.7rem;
+}
+
+.book-body table.docutils td,
+main table.docutils td {
+  border-bottom: 1px solid var(--nico-border);
+  padding: 0.55rem 0.7rem;
+  vertical-align: top;
+}
+
+/* =========================================================================
+   Interactive .euclid-graphic SVG Styling (Light & Dark Adaptive)
+   Inline .. picture:: SVGs strip embedded <style> so theme switching works
+   cleanly via html[data-theme] and prefers-color-scheme.
+   ========================================================================= */
+
+.euclid-graphic {
+  --svg-ink: #1e293b;
+  --svg-muted: #57534e;
+  --svg-accent: #b45309;
+  --svg-blue: #0369a1;
+  --svg-green: #15803d;
+  --svg-rose: #be123c;
+  --svg-violet: #6d28d9;
+  --svg-card-bg: #f8fafc;
+  --svg-card-stroke: #94a3b8;
+  --svg-pt-stroke: #ffffff;
+  font-family: "Gentium Plus", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (prefers-color-scheme: dark) {
+  .euclid-graphic {
+    --svg-ink: #e8e2d5;
+    --svg-muted: #a8a195;
+    --svg-accent: #e2b553;
+    --svg-blue: #6ba9d8;
+    --svg-green: #78c491;
+    --svg-rose: #dc7d7d;
+    --svg-violet: #b48ee0;
+    --svg-card-bg: #202026;
+    --svg-card-stroke: #8e887c;
+    --svg-pt-stroke: #18181c;
+  }
+}
+
+html[data-theme="dark"] .euclid-graphic {
+  --svg-ink: #e8e2d5;
+  --svg-muted: #a8a195;
+  --svg-accent: #e2b553;
+  --svg-blue: #6ba9d8;
+  --svg-green: #78c491;
+  --svg-rose: #dc7d7d;
+  --svg-violet: #b48ee0;
+  --svg-card-bg: #202026;
+  --svg-card-stroke: #8e887c;
+  --svg-pt-stroke: #18181c;
+}
+
+html[data-theme="light"] .euclid-graphic {
+  --svg-ink: #1e293b;
+  --svg-muted: #57534e;
+  --svg-accent: #b45309;
+  --svg-blue: #0369a1;
+  --svg-green: #15803d;
+  --svg-rose: #be123c;
+  --svg-violet: #6d28d9;
+  --svg-card-bg: #f8fafc;
+  --svg-card-stroke: #94a3b8;
+  --svg-pt-stroke: #ffffff;
+}
+
+.euclid-graphic .title {
+  fill: var(--svg-ink);
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.euclid-graphic .subtitle {
+  fill: var(--svg-muted);
+  font-size: 12px;
+  font-style: italic;
+}
+
+.euclid-graphic .lbl {
+  fill: var(--svg-ink);
+  font-size: 13px;
+}
+
+.euclid-graphic .lbl-b {
+  fill: var(--svg-ink);
+  font-size: 13.5px;
+  font-weight: 700;
+}
+
+.euclid-graphic .lbl-sm {
+  fill: var(--svg-muted);
+  font-size: 11.5px;
+}
+
+.euclid-graphic .lbl-gr {
+  fill: var(--svg-accent);
+  font-size: 13px;
+  font-style: italic;
+}
+
+.euclid-graphic .lbl-accent {
+  fill: var(--svg-accent);
+  font-weight: 700;
+}
+
+.euclid-graphic .lbl-blue {
+  fill: var(--svg-blue);
+}
+
+.euclid-graphic .lbl-green {
+  fill: var(--svg-green);
+}
+
+.euclid-graphic .lbl-rose {
+  fill: var(--svg-rose);
+}
+
+.euclid-graphic .lbl-violet {
+  fill: var(--svg-violet);
+}
+
+.euclid-graphic .mono {
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  font-size: 12px;
+  fill: var(--svg-ink);
+}
+
+.euclid-graphic .construct {
+  stroke: var(--svg-ink);
+  stroke-width: 1.75;
+  fill: none;
+}
+
+.euclid-graphic .guide {
+  stroke: var(--svg-muted);
+  stroke-width: 1.2;
+  stroke-dasharray: 5 4;
+  fill: none;
+}
+
+.euclid-graphic .guide-accent {
+  stroke: var(--svg-accent);
+  stroke-width: 1.6;
+  stroke-dasharray: 5 4;
+  fill: none;
+}
+
+.euclid-graphic .accent-line {
+  stroke: var(--svg-accent);
+  stroke-width: 2.2;
+  fill: none;
+}
+
+.euclid-graphic .blue-line {
+  stroke: var(--svg-blue);
+  stroke-width: 2.0;
+  fill: none;
+}
+
+.euclid-graphic .green-line {
+  stroke: var(--svg-green);
+  stroke-width: 2.0;
+  fill: none;
+}
+
+.euclid-graphic .rose-line {
+  stroke: var(--svg-rose);
+  stroke-width: 2.0;
+  fill: none;
+}
+
+.euclid-graphic .violet-line {
+  stroke: var(--svg-violet);
+  stroke-width: 2.0;
+  fill: none;
+}
+
+.euclid-graphic .grid-line {
+  stroke: var(--svg-muted);
+  stroke-opacity: 0.25;
+  stroke-width: 0.85;
+  fill: none;
+}
+
+.euclid-graphic .card {
+  fill: var(--svg-card-bg);
+  fill-opacity: 0.82;
+  stroke: var(--svg-card-stroke);
+  stroke-width: 1.15;
+}
+
+.euclid-graphic .card-accent {
+  fill: var(--svg-card-bg);
+  fill-opacity: 0.88;
+  stroke: var(--svg-accent);
+  stroke-width: 1.85;
+}
+
+.euclid-graphic .card-blue {
+  fill: var(--svg-card-bg);
+  fill-opacity: 0.88;
+  stroke: var(--svg-blue);
+  stroke-width: 1.7;
+}
+
+.euclid-graphic .card-green {
+  fill: var(--svg-card-bg);
+  fill-opacity: 0.88;
+  stroke: var(--svg-green);
+  stroke-width: 1.7;
+}
+
+.euclid-graphic .card-violet {
+  fill: var(--svg-card-bg);
+  fill-opacity: 0.88;
+  stroke: var(--svg-violet);
+  stroke-width: 1.7;
+}
+
+.euclid-graphic .card-rose {
+  fill: var(--svg-card-bg);
+  fill-opacity: 0.88;
+  stroke: var(--svg-rose);
+  stroke-width: 1.7;
+}
+
+.euclid-graphic .pt {
+  fill: var(--svg-ink);
+}
+
+.euclid-graphic .pt-accent {
+  fill: var(--svg-accent);
+  stroke: var(--svg-pt-stroke);
+  stroke-width: 1.1;
+}
+
+.euclid-graphic .alpha-pebble {
+  font-size: 15px;
+  font-weight: 700;
+  text-anchor: middle;
+  dominant-baseline: central;
+}
+
+.euclid-graphic #geom-tick-1 line,
+.euclid-graphic #geom-tick-2 line,
+.euclid-graphic #geom-tick-3 line {
+  stroke: var(--svg-accent);
+}
+
+.euclid-graphic #arrow-accent path {
+  fill: var(--svg-accent);
+}
+
+.euclid-graphic #arrow-muted path {
+  fill: var(--svg-muted);
+}

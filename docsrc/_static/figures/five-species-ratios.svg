@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="euclid-graphic" data-graphic-id="five-species-ratios" width="850" height="476" viewBox="0 0 850 476" role="img">
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -8 12 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="16" orient="auto">
+      <line x1="0" y1="-5.5" x2="0" y2="5.5" stroke="#e2b553" stroke-width="1.6" stroke-linecap="round"/>
+    </marker>
+    <marker id="geom-tick-2" viewBox="-8 -8 16 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="auto">
+      <line x1="-2.4" y1="-5.5" x2="-2.4" y2="5.5" stroke="#e2b553" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="2.4" y1="-5.5" x2="2.4" y2="5.5" stroke="#e2b553" stroke-width="1.5" stroke-linecap="round"/>
+    </marker>
+    <marker id="geom-tick-3" viewBox="-10 -8 20 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="20" markerHeight="16" orient="auto">
+      <line x1="-4.2" y1="-5.5" x2="-4.2" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+      <line x1="0" y1="-5.5" x2="0" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+      <line x1="4.2" y1="-5.5" x2="4.2" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+    </marker>
+    <marker id="arrow-accent" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#e2b553"/>
+    </marker>
+    <marker id="arrow-muted" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#9a9488"/>
+    </marker>
+  </defs>
+  <style>
+    .euclid-graphic { font-family: "Gentium Plus", "Palatino Linotype", "Book Antiqua", Georgia, serif; }
+    .euclid-graphic .title { fill: #e8e2d5; font-size: 16px; font-weight: 700; letter-spacing: 0.02em; }
+    .euclid-graphic .subtitle { fill: #a8a195; font-size: 12px; font-style: italic; }
+    .euclid-graphic .lbl { fill: #e8e2d5; font-size: 13px; }
+    .euclid-graphic .lbl-b { fill: #e8e2d5; font-size: 13.5px; font-weight: 700; }
+    .euclid-graphic .lbl-sm { fill: #a8a195; font-size: 11.5px; }
+    .euclid-graphic .lbl-gr { fill: #e2b553; font-size: 13px; font-style: italic; }
+    .euclid-graphic .lbl-accent { fill: #e2b553; font-weight: 700; }
+    .euclid-graphic .lbl-blue { fill: #6ba9d8; }
+    .euclid-graphic .lbl-green { fill: #78c491; }
+    .euclid-graphic .lbl-rose { fill: #dc7d7d; }
+    .euclid-graphic .lbl-violet { fill: #b48ee0; }
+    .euclid-graphic .mono { font-family: "JetBrains Mono", "Fira Code", monospace; font-size: 12px; fill: #e8e2d5; }
+    .euclid-graphic .construct { stroke: #e8e2d5; stroke-width: 1.75; fill: none; }
+    .euclid-graphic .guide { stroke: #9a9488; stroke-width: 1.2; stroke-dasharray: 5 4; fill: none; }
+    .euclid-graphic .guide-accent { stroke: #e2b553; stroke-width: 1.6; stroke-dasharray: 5 4; fill: none; }
+    .euclid-graphic .accent-line { stroke: #e2b553; stroke-width: 2.2; fill: none; }
+    .euclid-graphic .blue-line { stroke: #6ba9d8; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .green-line { stroke: #78c491; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .rose-line { stroke: #dc7d7d; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .violet-line { stroke: #b48ee0; stroke-width: 2.0; fill: none; }
+    .euclid-graphic .grid-line { stroke: #9a9488; stroke-opacity: 0.25; stroke-width: 0.85; fill: none; }
+    .euclid-graphic .card { fill: #202026; fill-opacity: 0.72; stroke: #8e887c; stroke-width: 1.15; }
+    .euclid-graphic .card-accent { fill: #202026; fill-opacity: 0.78; stroke: #e2b553; stroke-width: 1.85; }
+    .euclid-graphic .card-blue { fill: #202026; fill-opacity: 0.78; stroke: #6ba9d8; stroke-width: 1.7; }
+    .euclid-graphic .card-green { fill: #202026; fill-opacity: 0.78; stroke: #78c491; stroke-width: 1.7; }
+    .euclid-graphic .card-violet { fill: #202026; fill-opacity: 0.78; stroke: #b48ee0; stroke-width: 1.7; }
+    .euclid-graphic .card-rose { fill: #202026; fill-opacity: 0.78; stroke: #dc7d7d; stroke-width: 1.7; }
+    .euclid-graphic .pt { fill: #e8e2d5; }
+    .euclid-graphic .pt-accent { fill: #e2b553; stroke: #18181c; stroke-width: 1.1; }
+    .euclid-graphic .alpha-pebble { font-size: 15px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+  </style>
+  <g id="highlights"/>
+  <text x="425" y="28" text-anchor="middle" class="title">Nicomachus I.17–22 — Equality &amp; the Five Species of Relative Inequality</text>
+  <text x="425" y="48" text-anchor="middle" class="subtitle">Every greater ratio m : n = q + r/n classifies uniquely by quotient q and remainder r</text>
+  <g data-ref="EQ11">
+    <text x="24" y="94.0" class="lbl-b">0 · Equality (ἰσότης)</text>
+    <text x="24" y="113.0" class="mono">1 : 1</text>
+    <rect x="265.0" y="80.0" width="78.0" height="18" fill="#8e887c" fill-opacity="0.18" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="265.0" y="102.0" width="78.0" height="14" fill="#6ba9d8" fill-opacity="0.20" stroke="#9a9488" stroke-width="1.0"/>
+    <path d="M 265.00 122.00 L 304.00 122.00 L 343.00 122.00" fill="none" class="accent-line" marker-mid="url(#geom-tick-1)"/>
+    <text x="355.0" y="95.0" class="mono">m = 1, n = 1</text>
+  </g>
+  <g data-ref="SP1">
+    <text x="24" y="158.0" class="lbl-b">1 · Multiplex (πολλαπλάσιος)</text>
+    <text x="24" y="177.0" class="mono">2 : 1 (duple)</text>
+    <rect x="265.0" y="144.0" width="78.0" height="18" fill="#8e887c" fill-opacity="0.18" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="343.0" y="144.0" width="78.0" height="18" fill="#e2b553" fill-opacity="0.28" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="265.0" y="166.0" width="78.0" height="14" fill="#6ba9d8" fill-opacity="0.20" stroke="#9a9488" stroke-width="1.0"/>
+    <path d="M 265.00 186.00 L 304.00 186.00 L 343.00 186.00" fill="none" class="blue-line" marker-mid="url(#geom-tick-1)"/>
+    <text x="433.0" y="159.0" class="mono">m = 2, n = 1</text>
+  </g>
+  <g data-ref="SP2">
+    <text x="24" y="222.0" class="lbl-b">2 · Superparticularis (ἐπιμόριος)</text>
+    <text x="24" y="241.0" class="mono">3 : 2 (hemiolios)</text>
+    <rect x="265.0" y="208.0" width="78.0" height="18" fill="#8e887c" fill-opacity="0.18" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="343.0" y="208.0" width="78.0" height="18" fill="#8e887c" fill-opacity="0.18" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="421.0" y="208.0" width="78.0" height="18" fill="#e2b553" fill-opacity="0.28" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="265.0" y="230.0" width="78.0" height="14" fill="#6ba9d8" fill-opacity="0.20" stroke="#9a9488" stroke-width="1.0"/>
+    <rect x="343.0" y="230.0" width="78.0" height="14" fill="#6ba9d8" fill-opacity="0.20" stroke="#9a9488" stroke-width="1.0"/>
+    <path d="M 265.00 250.00 L 343.00 250.00 L 421.00 250.00" fill="none" class="green-line" marker-mid="url(#geom-tick-2)"/>
+    <text x="511.0" y="223.0" class="mono">m = 3, n = 2</text>
+  </g>
+  <g data-ref="SP3">
+    <text x="24" y="286.0" class="lbl-b">3 · Superpartiens (ἐπιμερής)</text>
+    <text x="24" y="305.0" class="mono">5 : 3 (epidimoiros)</text>
+    <rect x="265.0" y="272.0" width="78.0" height="18" fill="#8e887c" fill-opacity="0.18" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="343.0" y="272.0" width="78.0" height="18" fill="#8e887c" fill-opacity="0.18" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="421.0" y="272.0" width="78.0" height="18" fill="#8e887c" fill-opacity="0.18" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="499.0" y="272.0" width="78.0" height="18" fill="#e2b553" fill-opacity="0.28" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="577.0" y="272.0" width="78.0" height="18" fill="#e2b553" fill-opacity="0.28" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="265.0" y="294.0" width="78.0" height="14" fill="#6ba9d8" fill-opacity="0.20" stroke="#9a9488" stroke-width="1.0"/>
+    <rect x="343.0" y="294.0" width="78.0" height="14" fill="#6ba9d8" fill-opacity="0.20" stroke="#9a9488" stroke-width="1.0"/>
+    <rect x="421.0" y="294.0" width="78.0" height="14" fill="#6ba9d8" fill-opacity="0.20" stroke="#9a9488" stroke-width="1.0"/>
+    <path d="M 265.00 314.00 L 382.00 314.00 L 499.00 314.00" fill="none" class="violet-line" marker-mid="url(#geom-tick-3)"/>
+    <text x="667.0" y="287.0" class="mono">m = 5, n = 3</text>
+  </g>
+  <g data-ref="SP4">
+    <text x="24" y="350.0" class="lbl-b">4 · Mult. superparticularis</text>
+    <text x="24" y="369.0" class="mono">5 : 2 (2 + 1/2)</text>
+    <rect x="265.0" y="336.0" width="78.0" height="18" fill="#8e887c" fill-opacity="0.18" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="343.0" y="336.0" width="78.0" height="18" fill="#8e887c" fill-opacity="0.18" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="421.0" y="336.0" width="78.0" height="18" fill="#e2b553" fill-opacity="0.28" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="499.0" y="336.0" width="78.0" height="18" fill="#e2b553" fill-opacity="0.28" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="577.0" y="336.0" width="78.0" height="18" fill="#e2b553" fill-opacity="0.28" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="265.0" y="358.0" width="78.0" height="14" fill="#6ba9d8" fill-opacity="0.20" stroke="#9a9488" stroke-width="1.0"/>
+    <rect x="343.0" y="358.0" width="78.0" height="14" fill="#6ba9d8" fill-opacity="0.20" stroke="#9a9488" stroke-width="1.0"/>
+    <path d="M 265.00 378.00 L 343.00 378.00 L 421.00 378.00" fill="none" class="rose-line" marker-mid="url(#geom-tick-2)"/>
+    <text x="667.0" y="351.0" class="mono">m = 5, n = 2</text>
+  </g>
+  <g data-ref="SP5">
+    <text x="24" y="414.0" class="lbl-b">5 · Mult. superpartiens</text>
+    <text x="24" y="433.0" class="mono">8 : 3 (2 + 2/3)</text>
+    <rect x="265.0" y="400.0" width="50.7" height="18" fill="#8e887c" fill-opacity="0.18" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="315.7" y="400.0" width="50.7" height="18" fill="#8e887c" fill-opacity="0.18" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="366.4" y="400.0" width="50.7" height="18" fill="#8e887c" fill-opacity="0.18" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="417.1" y="400.0" width="50.7" height="18" fill="#e2b553" fill-opacity="0.28" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="467.8" y="400.0" width="50.7" height="18" fill="#e2b553" fill-opacity="0.28" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="518.5" y="400.0" width="50.7" height="18" fill="#e2b553" fill-opacity="0.28" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="569.2" y="400.0" width="50.7" height="18" fill="#e2b553" fill-opacity="0.28" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="619.9" y="400.0" width="50.7" height="18" fill="#e2b553" fill-opacity="0.28" stroke="#c8c1b4" stroke-width="1.1"/>
+    <rect x="265.0" y="422.0" width="50.7" height="14" fill="#6ba9d8" fill-opacity="0.20" stroke="#9a9488" stroke-width="1.0"/>
+    <rect x="315.7" y="422.0" width="50.7" height="14" fill="#6ba9d8" fill-opacity="0.20" stroke="#9a9488" stroke-width="1.0"/>
+    <rect x="366.4" y="422.0" width="50.7" height="14" fill="#6ba9d8" fill-opacity="0.20" stroke="#9a9488" stroke-width="1.0"/>
+    <path d="M 265.00 442.00 L 341.05 442.00 L 417.10 442.00" fill="none" class="accent-line" marker-mid="url(#geom-tick-3)"/>
+    <text x="682.6" y="415.0" class="mono">m = 8, n = 3</text>
+  </g>
+</svg>
