@@ -1,0 +1,141 @@
+{
+  "hoche:1866": {
+    "author": "Nicomachus of Gerasa (ed. Richard Hoche)",
+    "work": "Nicomachi Geraseni Pythagorei Introductionis Arithmeticae Libri II",
+    "locus": "Leipzig: B. G. Teubner, 1866 (pp. i–xi, 1–147; CTS urn:cts:greekLit:tlg0358.tlg001.1st1K-grc1)",
+    "year": "1866",
+    "category": "edition",
+    "note": "Standard critical Teubner Greek edition collated from Munich (Cizensis, Monacensis G), Göttingen, Hamburg, and Paris manuscripts, preserving ancient α-pebble figurate diagrams and the synoptic table of Ten Means.",
+    "url": "https://archive.org/details/nicomachigerasen00nicouoft"
+  },
+  "dooge:1926": {
+    "author": "Martin Luther D'Ooge (trans.), with F. E. Robbins & L. C. Karpinski",
+    "work": "Nicomachus of Gerasa: Introduction to Arithmetic",
+    "locus": "New York: Macmillan / University of Michigan Studies, Humanistic Series Vol. XVI, 1926 (pp. 181–286)",
+    "year": "1926",
+    "category": "edition",
+    "note": "First English translation of Nicomachus (Public Domain: published 1926, >95 years in US), accompanied by Studies in Greek Arithmetic (pp. 3–177) and critical mathematical footnotes.",
+    "url": "https://archive.org/details/NicomachusIntroToArithmetic"
+  },
+  "boethius:friedlein:1867": {
+    "author": "Anicius Manlius Severinus Boethius (ed. Gottfried Friedlein)",
+    "work": "De Institutione Arithmetica Libri Duo, De Institutione Musica Libri Quinque",
+    "locus": "Leipzig: B. G. Teubner, 1867 (pp. 1–173)",
+    "year": "c. 505 CE / ed. 1867",
+    "category": "edition",
+    "note": "Boethius's authoritative Latin adaptation of Nicomachus, coining the term quadrivium (I.1, p. 7 Friedlein) and transmitting Nicomachean ratio species, equality unfolding, figurate numbers, and the Ten Means to the Latin West.",
+    "url": "https://archive.org/details/deinstitutionear00boetuoft"
+  },
+  "iamblichus:pistelli:1894": {
+    "author": "Iamblichus of Chalcis (ed. Ermenegildo Pistelli)",
+    "work": "In Nicomachi Arithmeticam Introductionem Liber",
+    "locus": "Leipzig: B. G. Teubner, 1894",
+    "year": "c. 300 CE / ed. 1894",
+    "category": "ancient",
+    "note": "Fourth book of Iamblichus's On Pythagoreanism, preserving crucial historical testimonies on Archytas, Eudoxus, Hippasus, Myonides, Euphranor, and Eratosthenes' equality rule."
+  },
+  "philoponus:hoche:1864": {
+    "author": "John Philoponus (ed. Richard Hoche)",
+    "work": "Ioannis Philoponi in Nicomachi Arithmeticam Introductionem Libri Duo",
+    "locus": "Wesel / Berlin: Bagel & Calvary, 1864–1867",
+    "year": "6th cent. CE / ed. 1864–1867",
+    "category": "ancient",
+    "note": "Extensive Alexandrian Neoplatonic lecture commentary on Books I and II of Nicomachus edited by Richard Hoche immediately prior to his 1866 Teubner edition."
+  },
+  "theon:hiller:1878": {
+    "author": "Theon of Smyrna (ed. Eduard Hiller)",
+    "work": "Expositio Rerum Mathematicarum ad Legendum Platonem Utilium",
+    "locus": "Leipzig: B. G. Teubner, 1878 (pp. 107–111 on Adrastos & Equality)",
+    "year": "2nd cent. CE / ed. 1878",
+    "category": "ancient",
+    "note": "Parallel Middle Platonic mathematical handbook preserving Adrastos of Aphrodisias's proof of the three-term equality unfolding and side-and-diagonal numbers."
+  },
+  "archytas:dk47b1": {
+    "author": "Archytas of Tarentum",
+    "work": "Harmonics, Fragment B1 & B2 (DK 47 B1–B2)",
+    "locus": "apud Nicomachum I.3.4 (Hoche pp. 6–7) & Porphyry In Ptol. Harm.",
+    "year": "c. 390 BCE",
+    "category": "ancient",
+    "note": "Authentic Doric fragment quoted by Nicomachus declaring astronomy, geometry, arithmetic, and music to be 'sister sciences' (ἀδελφεαὶ τὰ μαθήματα), plus definition of the three classical means."
+  },
+  "plato:timaeus:27d-36d": {
+    "author": "Plato",
+    "work": "Timaeus",
+    "locus": "27d–28a, 31b–32c, 35a–36d (`geometor/plato`)",
+    "year": "c. 360 BCE",
+    "category": "ancient",
+    "note": "Quoted verbatim by Nicomachus at I.2.3 (27d: eternal Being vs. continual Becoming) and expounded across II.18–29 (Same & Other, two cubic means, and harmonic division of the World-Soul)."
+  },
+  "plato:rep:vii-525a-534e": {
+    "author": "Plato",
+    "work": "Republic",
+    "locus": "VII, 525a–534e & VIII, 546b–c (`geometor/plato`)",
+    "year": "c. 375 BCE",
+    "category": "ancient",
+    "note": "Quoted by Nicomachus at I.3.7 (527d–e: purifying the 'eye of the soul' blinded by other pursuits) and II.24 (Nuptial Number)."
+  },
+  "plato:epinomis:991d-992a": {
+    "author": "Plato (or Philip of Opus)",
+    "work": "Epinomis",
+    "locus": "991d–992a",
+    "year": "c. 347 BCE",
+    "category": "ancient",
+    "note": "Quoted by Nicomachus at I.3.5 on the 'single natural bond' (δεσμὸς πεφυκώς) uniting all mathematical sciences and rendering the learner blessed."
+  },
+  "aristotle:cat:4b20": {
+    "author": "Aristotle",
+    "work": "Categories & Posterior Analytics",
+    "locus": "Cat. 6, 4b20–5b10; Cat. 12, 14a29; Anal. Post. I.27, 87a31 (`geometor/aristotle`)",
+    "year": "c. 335 BCE",
+    "category": "ancient",
+    "note": "Foundational distinction between discrete and continuous quantity and ontological priority by non-reciprocal elimination (συναναιρεῖ μὲν, οὐ συναναιρεῖται δέ) underlying Nicomachus I.2–5."
+  },
+  "euclid:elements:vii-ix": {
+    "author": "Euclid",
+    "work": "Elements (Στοιχεῖα), Books V, VI, VII–IX",
+    "locus": "VI.13, VII.1–2, VII.Def.22, IX.20, IX.35–36 (`geometor/euclid`, `geometor/elements`)",
+    "year": "c. 300 BCE",
+    "category": "companion",
+    "note": "Euclidean deductive counterparts to Nicomachus: mutual subtraction/anthyphairesis (VII.1–2), infinitude of primes (IX.20), geometric series sum & even perfect numbers (IX.35–36), and geometric mean construction (VI.13)."
+  },
+  "pappus:synagoge:iii": {
+    "author": "Pappus of Alexandria",
+    "work": "Synagoge (Mathematical Collection), Book III",
+    "locus": "Book III, Props. 12–27 (`geometor/pappus`)",
+    "year": "c. 320 CE",
+    "category": "companion",
+    "note": "Constructive geometric synthesis of the three classical means in a single semicircle and systematic geometric derivation of all ten Nicomachean means."
+  },
+  "proclus:in-euclid:35-37": {
+    "author": "Proclus Diadochus",
+    "work": "Commentary on the First Book of Euclid's Elements",
+    "locus": "Prologue I, Ch. XII, Friedlein pp. 35–37 (`geometor/proclus`)",
+    "year": "c. 470 CE",
+    "category": "companion",
+    "note": "Reproduces Nicomachus's exact Pythagorean fourfold schema of discrete (per se / ad aliud) and continuous (stationary / moving) quantity."
+  },
+  "aquinas:in-boethium-trinitate": {
+    "author": "Thomas Aquinas",
+    "work": "Super Boetium De Trinitate",
+    "locus": "qq. 5–6 (`geometor/aquinas`)",
+    "year": "c. 1257–1259",
+    "category": "companion",
+    "note": "Scholastic epistemology of the Quadrivium, intelligible matter, and subalternation of music to arithmetic and astronomy to geometry."
+  },
+  "pacioli:divina-proportione:1509": {
+    "author": "Luca Pacioli",
+    "work": "Summa de Arithmetica (1494) & De Divina Proportione (1509)",
+    "locus": "Venice, 1494 / 1509 (`geometor/pacioli`)",
+    "year": "1509",
+    "category": "companion",
+    "note": "Renaissance culmination of Boethian–Nicomachean proportion terminology alongside Euclid's extreme and mean ratio."
+  },
+  "heath:hgm:1921": {
+    "author": "Sir Thomas Little Heath",
+    "work": "A History of Greek Mathematics, Vol. I: From Thales to Euclid",
+    "locus": "Oxford: Clarendon Press, 1921 (pp. 97–115)",
+    "year": "1921",
+    "category": "modern",
+    "note": "Authoritative modern algebraic analysis of Nicomachus's Introductio Arithmetica, gnomon recurrences, sum of cubes, and Ten Means."
+  }
+}
