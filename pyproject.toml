@@ -1,0 +1,56 @@
+[project]
+name = "geometor-nicomachus"
+dynamic = ["version"]
+authors = [
+  { name = "geometor", email = "github@geometor.com" },
+]
+description = "Scholarly Digital Scriptorium Book Codex and exact symbolic SymPy / geometor.model demonstrations for Nicomachus of Gerasa's Introduction to Arithmetic (Books I–II, Hoche 1866 / D'Ooge 1926)."
+readme = "README.rst"
+requires-python = ">=3.13"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "sympy",
+    "rich",
+    "geometor-model",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "ruff",
+]
+
+[project.scripts]
+nicomachus = "geometor.nicomachus.__main__:main"
+
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["geometor"]
+namespaces = true
+
+[tool.setuptools.dynamic]
+version = {attr = "geometor.nicomachus.__version__"}
+
+[project.urls]
+"Website" = "https://geometor.github.io/nicomachus"
+"Repository" = "https://github.com/geometor/nicomachus"
+"Issues" = "https://github.com/geometor/nicomachus/issues"
+
+[tool.ruff]
+lint.select = ["E", "F", "I", "ANN", "D"]
+lint.ignore = ["E501", "ANN401"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
