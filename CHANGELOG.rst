@@ -2,6 +2,11 @@
 changelog
 =========
 
+0.1.1 (2026-11-13)
+------------------
+
+- Curated and mapped primary-source folio links across *Introduction to Arithmetic* Books I–II (96/96 directives and 16/16 badges resolved).
+
 0.1.0 (2026-11-12)
 ------------------
 
