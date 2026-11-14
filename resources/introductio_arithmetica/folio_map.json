@@ -1,0 +1,1218 @@
+{
+  "work": "introductio_arithmetica",
+  "edition": "Hoche 1866 Teubner Greek First1KGreek TEI-XML",
+  "folios": {
+    "Hoche p. 1": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90"
+    },
+    "Hoche p. 2": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L116",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L116",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L116",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L116"
+    },
+    "Hoche p. 3": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L152",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L152",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L152",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L152"
+    },
+    "Hoche p. 4": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L189",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L189",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L189",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L189"
+    },
+    "Hoche p. 5": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L224",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L224",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L224",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L224"
+    },
+    "Hoche p. 6": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L261",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L261",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L261",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L261"
+    },
+    "Hoche p. 7": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L298",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L298",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L298",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L298"
+    },
+    "Hoche p. 8": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L335",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L335",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L335",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L335"
+    },
+    "Hoche p. 9": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L371",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L371",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L371",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L371"
+    },
+    "Hoche p. 10": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L406",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L406",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L406",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L406"
+    },
+    "Hoche p. 11": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L443",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L443",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L443",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L443"
+    },
+    "Hoche p. 12": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L477",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L477",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L477",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L477"
+    },
+    "Hoche p. 13": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L514",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L514",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L514",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L514"
+    },
+    "Hoche p. 14": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L551",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L551",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L551",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L551"
+    },
+    "Hoche p. 15": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L587",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L587",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L587",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L587"
+    },
+    "Hoche p. 16": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L625",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L625",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L625",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L625"
+    },
+    "Hoche p. 17": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L663",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L663",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L663",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L663"
+    },
+    "Hoche p. 18": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L698",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L698",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L698",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L698"
+    },
+    "Hoche p. 19": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L735",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L735",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L735",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L735"
+    },
+    "Hoche p. 20": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L772",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L772",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L772",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L772"
+    },
+    "Hoche p. 21": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L809",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L809",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L809",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L809"
+    },
+    "Hoche p. 22": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L845",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L845",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L845",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L845"
+    },
+    "Hoche p. 23": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L884",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L884",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L884",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L884"
+    },
+    "Hoche p. 24": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L924",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L924",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L924",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L924"
+    },
+    "Hoche p. 25": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L965",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L965",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L965",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L965"
+    },
+    "Hoche p. 26": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1000",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1000",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1000",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1000"
+    },
+    "Hoche p. 27": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1039",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1039",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1039",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1039"
+    },
+    "Hoche p. 28": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1075",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1075",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1075",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1075"
+    },
+    "Hoche p. 29": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1115",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1115",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1115",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1115"
+    },
+    "Hoche p. 30": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1148",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1148",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1148",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1148"
+    },
+    "Hoche p. 31": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1152",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1152",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1152",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1152"
+    },
+    "Hoche p. 32": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1191",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1191",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1191",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1191"
+    },
+    "Hoche p. 33": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1227",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1227",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1227",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1227"
+    },
+    "Hoche p. 34": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1262",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1262",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1262",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1262"
+    },
+    "Hoche p. 35": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1298",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1298",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1298",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1298"
+    },
+    "Hoche p. 36": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1336",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1336",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1336",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1336"
+    },
+    "Hoche p. 37": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1373",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1373",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1373",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1373"
+    },
+    "Hoche p. 38": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1412",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1412",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1412",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1412"
+    },
+    "Hoche p. 39": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1452",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1452",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1452",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1452"
+    },
+    "Hoche p. 40": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1490",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1490",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1490",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1490"
+    },
+    "Hoche p. 41": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1530",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1530",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1530",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1530"
+    },
+    "Hoche p. 42": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1570",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1570",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1570",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1570"
+    },
+    "Hoche p. 43": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1608",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1608",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1608",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1608"
+    },
+    "Hoche p. 44": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644"
+    },
+    "Hoche p. 45": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1678",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1678",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1678",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1678"
+    },
+    "Hoche p. 46": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1716",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1716",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1716",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1716"
+    },
+    "Hoche p. 47": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1751",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1751",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1751",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1751"
+    },
+    "Hoche p. 48": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1786",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1786",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1786",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1786"
+    },
+    "Hoche p. 49": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1825",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1825",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1825",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1825"
+    },
+    "Hoche p. 50": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1863",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1863",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1863",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1863"
+    },
+    "Hoche p. 51": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1903",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1903",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1903",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1903"
+    },
+    "Hoche p. 52": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1935",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1935",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1935",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1935"
+    },
+    "Hoche p. 53": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1971",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1971",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1971",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1971"
+    },
+    "Hoche p. 54": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2008",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2008",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2008",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2008"
+    },
+    "Hoche p. 55": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2046",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2046",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2046",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2046"
+    },
+    "Hoche p. 56": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2082",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2082",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2082",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2082"
+    },
+    "Hoche p. 57": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2118",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2118",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2118",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2118"
+    },
+    "Hoche p. 58": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2154",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2154",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2154",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2154"
+    },
+    "Hoche p. 59": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2192",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2192",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2192",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2192"
+    },
+    "Hoche p. 60": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2228",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2228",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2228",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2228"
+    },
+    "Hoche p. 61": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2268",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2268",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2268",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2268"
+    },
+    "Hoche p. 62": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2310",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2310",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2310",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2310"
+    },
+    "Hoche p. 63": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2344",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2344",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2344",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2344"
+    },
+    "Hoche p. 64": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2380",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2380",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2380",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2380"
+    },
+    "Hoche p. 65": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2416",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2416",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2416",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2416"
+    },
+    "Hoche p. 66": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2451",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2451",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2451",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2451"
+    },
+    "Hoche p. 67": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2486",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2486",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2486",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2486"
+    },
+    "Hoche p. 68": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2521",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2521",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2521",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2521"
+    },
+    "Hoche p. 69": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2568",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2568",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2568",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2568"
+    },
+    "Hoche p. 70": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2616",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2616",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2616",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2616"
+    },
+    "Hoche p. 71": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2667",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2667",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2667",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2667"
+    },
+    "Hoche p. 72": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2722",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2722",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2722",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2722"
+    },
+    "Hoche p. 73": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759"
+    },
+    "Hoche p. 74": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2783",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2783",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2783",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2783"
+    },
+    "Hoche p. 75": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2817",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2817",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2817",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2817"
+    },
+    "Hoche p. 76": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2853",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2853",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2853",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2853"
+    },
+    "Hoche p. 77": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2889",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2889",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2889",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2889"
+    },
+    "Hoche p. 78": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2932",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2932",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2932",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2932"
+    },
+    "Hoche p. 79": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2973",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2973",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2973",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2973"
+    },
+    "Hoche p. 80": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3009",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3009",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3009",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3009"
+    },
+    "Hoche p. 81": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3044",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3044",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3044",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3044"
+    },
+    "Hoche p. 82": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3079",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3079",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3079",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3079"
+    },
+    "Hoche p. 83": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3116",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3116",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3116",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3116"
+    },
+    "Hoche p. 84": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3150",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3150",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3150",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3150"
+    },
+    "Hoche p. 85": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3187",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3187",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3187",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3187"
+    },
+    "Hoche p. 86": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3223",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3223",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3223",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3223"
+    },
+    "Hoche p. 87": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3259",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3259",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3259",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3259"
+    },
+    "Hoche p. 88": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3293",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3293",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3293",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3293"
+    },
+    "Hoche p. 89": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3333",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3333",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3333",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3333"
+    },
+    "Hoche p. 90": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3356",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3356",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3356",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3356"
+    },
+    "Hoche p. 91": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3387",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3387",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3387",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3387"
+    },
+    "Hoche p. 92": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3424",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3424",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3424",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3424"
+    },
+    "Hoche p. 93": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3461",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3461",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3461",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3461"
+    },
+    "Hoche p. 94": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3491",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3491",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3491",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3491"
+    },
+    "Hoche p. 95": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3533",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3533",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3533",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3533"
+    },
+    "Hoche p. 96": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3561",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3561",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3561",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3561"
+    },
+    "Hoche p. 97": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3597",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3597",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3597",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3597"
+    },
+    "Hoche p. 98": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3632",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3632",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3632",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3632"
+    },
+    "Hoche p. 99": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3674",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3674",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3674",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3674"
+    },
+    "Hoche p. 100": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3712",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3712",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3712",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3712"
+    },
+    "Hoche p. 101": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3744",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3744",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3744",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3744"
+    },
+    "Hoche p. 102": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3786",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3786",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3786",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3786"
+    },
+    "Hoche p. 103": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3824",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3824",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3824",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3824"
+    },
+    "Hoche p. 104": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3859",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3859",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3859",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3859"
+    },
+    "Hoche p. 105": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3897",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3897",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3897",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3897"
+    },
+    "Hoche p. 106": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3936",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3936",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3936",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3936"
+    },
+    "Hoche p. 107": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3974",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3974",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3974",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3974"
+    },
+    "Hoche p. 108": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4009",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4009",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4009",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4009"
+    },
+    "Hoche p. 109": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4052",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4052",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4052",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4052"
+    },
+    "Hoche p. 110": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4086",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4086",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4086",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4086"
+    },
+    "Hoche p. 111": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4131",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4131",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4131",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4131"
+    },
+    "Hoche p. 112": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4167",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4167",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4167",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4167"
+    },
+    "Hoche p. 113": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4208",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4208",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4208",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4208"
+    },
+    "Hoche p. 114": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4248",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4248",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4248",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4248"
+    },
+    "Hoche p. 115": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4284",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4284",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4284",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4284"
+    },
+    "Hoche p. 116": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4324",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4324",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4324",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4324"
+    },
+    "Hoche p. 117": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4361",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4361",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4361",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4361"
+    },
+    "Hoche p. 118": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4396",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4396",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4396",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4396"
+    },
+    "Hoche p. 119": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432"
+    },
+    "Hoche p. 120": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4471",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4471",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4471",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4471"
+    },
+    "Hoche p. 121": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4507",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4507",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4507",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4507"
+    },
+    "Hoche p. 122": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4555",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4555",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4555",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4555"
+    },
+    "Hoche p. 123": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4601",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4601",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4601",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4601"
+    },
+    "Hoche p. 124": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4636",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4636",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4636",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4636"
+    },
+    "Hoche p. 125": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4672",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4672",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4672",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4672"
+    },
+    "Hoche p. 126": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4708",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4708",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4708",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4708"
+    },
+    "Hoche p. 127": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4744",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4744",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4744",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4744"
+    },
+    "Hoche p. 128": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4787",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4787",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4787",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4787"
+    },
+    "Hoche p. 129": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4823",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4823",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4823",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4823"
+    },
+    "Hoche p. 130": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4858",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4858",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4858",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4858"
+    },
+    "Hoche p. 131": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4895",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4895",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4895",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4895"
+    },
+    "Hoche p. 132": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4931",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4931",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4931",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4931"
+    },
+    "Hoche p. 133": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4971",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4971",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4971",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4971"
+    },
+    "Hoche p. 134": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5005",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5005",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5005",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5005"
+    },
+    "Hoche p. 135": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5043",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5043",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5043",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5043"
+    },
+    "Hoche p. 136": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5079",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5079",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5079",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5079"
+    },
+    "Hoche p. 137": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5110",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5110",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5110",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5110"
+    },
+    "Hoche p. 138": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5148",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5148",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5148",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5148"
+    },
+    "Hoche p. 139": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5183",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5183",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5183",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5183"
+    },
+    "Hoche p. 140": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5219",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5219",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5219",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5219"
+    },
+    "Hoche p. 141": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5254",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5254",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5254",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5254"
+    },
+    "Hoche p. 142": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5293",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5293",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5293",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5293"
+    },
+    "Hoche p. 143": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5331",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5331",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5331",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5331"
+    },
+    "Hoche p. 144": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5373",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5373",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5373",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5373"
+    },
+    "Hoche p. 145": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5412",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5412",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5412",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5412"
+    },
+    "Hoche p. 146": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5447",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5447",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5447",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5447"
+    },
+    "Hoche p. 147": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5484",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5484",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5484",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5484"
+    },
+    "Hoche p. 148": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5496",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5496",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5496",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5496"
+    },
+    "Hoche p. 149": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5522",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5522",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5522",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5522"
+    },
+    "Hoche p. 150": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5557",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5557",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5557",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5557"
+    },
+    "Hoche p. 151": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5595",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5595",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5595",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5595"
+    },
+    "Hoche p. 152": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5629",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5629",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5629",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5629"
+    },
+    "Hoche p. 153": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5661",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5661",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5661",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5661"
+    },
+    "Hoche p. 154": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5694",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5694",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5694",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5694"
+    },
+    "D'Ooge p. 267 · Hoche p. 123": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4601",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4601",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4601",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4601"
+    },
+    "D'Ooge p. 182 · Hoche p. 2": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L116",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L116",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L116",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L116"
+    },
+    "D'Ooge p. 221 · Hoche p. 58": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2154",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2154",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2154",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2154"
+    },
+    "D'Ooge p. 246 · Hoche p. 96": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3561",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3561",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3561",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3561"
+    },
+    "D'Ooge p. 259 · Hoche p. 115": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4284",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4284",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4284",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4284"
+    },
+    "D'Ooge p. 190 · Hoche p. 13": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L514",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L514",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L514",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L514"
+    },
+    "D'Ooge p. 181 · Hoche p. 1": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90"
+    },
+    "D'Ooge p. 281 · Hoche p. 139": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5183",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5183",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5183",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5183"
+    },
+    "D'Ooge p. 254 · Hoche p. 106": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3936",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3936",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3936",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3936"
+    },
+    "D'Ooge p. 213 · Hoche p. 45": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1678",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1678",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1678",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1678"
+    },
+    "D'Ooge p. 204 · Hoche p. 29": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1115",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1115",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1115",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1115"
+    },
+    "D'Ooge p. 217 · Hoche p. 51": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1903",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1903",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1903",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1903"
+    },
+    "D'Ooge p. 209 · Hoche p. 39": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1452",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1452",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1452",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1452"
+    },
+    "D'Ooge p. 189 · Hoche p. 11": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L443",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L443",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L443",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L443"
+    },
+    "D'Ooge p. 240 · Hoche p. 86": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3223",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3223",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3223",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3223"
+    },
+    "D'Ooge p. 227 · Hoche p. 67": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2486",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2486",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2486",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2486"
+    },
+    "D'Ooge p. 248 · Hoche p. 99": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3674",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3674",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3674",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3674"
+    },
+    "D'Ooge p. 264 · Hoche p. 119": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432"
+    },
+    "D'Ooge p. 277 · Hoche p. 134": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5005",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5005",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5005",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5005"
+    },
+    "D'Ooge p. 263 · Hoche p. 118": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4396",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4396",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4396",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4396"
+    },
+    "D'Ooge p. 184 · Hoche p. 5": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L224",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L224",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L224",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L224"
+    },
+    "D'Ooge p. 230 · Hoche p. 73": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759"
+    },
+    "D'Ooge p. 231 · Hoche p. 74": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2783",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2783",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2783",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2783"
+    },
+    "D'Ooge p. 205 · Hoche p. 32": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1191",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1191",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1191",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1191"
+    },
+    "D'Ooge p. 214 · Hoche p. 46": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1716",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1716",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1716",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1716"
+    },
+    "D'Ooge p. 237 · Hoche p. 82": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3079",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3079",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3079",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L3079"
+    },
+    "D'Ooge p. 273 · Hoche p. 131": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4895",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4895",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4895",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4895"
+    },
+    "D'Ooge p. 189 · Hoche p. 12": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L477",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L477",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L477",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L477"
+    },
+    "D'Ooge p. 284 · Hoche p. 144": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5373",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5373",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5373",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L5373"
+    },
+    "D'Ooge p. 182 · Hoche p. 3": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L152",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L152",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L152",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L152"
+    },
+    "D'Ooge p. 211 · Hoche p. 41": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1530",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1530",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1530",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1530"
+    },
+    "D'Ooge p. 185 · Hoche p. 6": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L261",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L261",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L261",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L261"
+    },
+    "D'Ooge p. 269 · Hoche p. 126": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4708",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4708",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4708",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4708"
+    },
+    "D'Ooge p. 226 · Hoche p. 65": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2416",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2416",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2416",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2416"
+    },
+    "D'Ooge p. 212 · Hoche p. 44": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644"
+    },
+    "D'Ooge p. 187 · Hoche p. 9": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L371",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L371",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L371",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L371"
+    },
+    "D'Ooge p. 257 · Hoche p. 112": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4167",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4167",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4167",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4167"
+    },
+    "D'Ooge p. 219 · Hoche p. 55": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2046",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2046",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2046",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2046"
+    },
+    "D'Ooge p. 216 · Hoche p. 49": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1825",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1825",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1825",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1825"
+    },
+    "D'Ooge p. 183 · Hoche p. 4": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L189",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L189",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L189",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L189"
+    },
+    "Hoche pp. 1–14, 29–36, 39–44": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90"
+    },
+    "Book I, Chs. 1–7, 13, 16": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L90"
+    },
+    "Hoche pp. 44–72": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644"
+    },
+    "Book I, Chs. 17–23": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L1644"
+    },
+    "Hoche pp. 73–76, 82–119": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759"
+    },
+    "Book II, Chs. 1–2, 6–20": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L2759"
+    },
+    "Hoche pp. 119–147": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432"
+    },
+    "Book II, Chs. 21–29": {
+      "default": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432",
+      "el": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432",
+      "grc": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432",
+      "en": "resources/introductio_arithmetica/sources/hoche_1866_1st1K_grc1.xml#L4432"
+    }
+  }
+}
