@@ -33,7 +33,6 @@ Symbolic Constructions, Context & API
 -------------------------------------
 
 * :doc:`Exact Symbolic Demonstrations (SymPy & Rational Trigonometry) <demos/index>`
-* :doc:`Mission — Nicomachus as Architect of the Quadrivium <mission/index>`
 * :doc:`Reader's Guide — Using This Edition <usage/index>`
 * :doc:`Hoche's Teubner Edition (1866), D'Ooge (1926) & Boethius's Latin Transmission <about/index>`
 * :doc:`Python Package & CLI Reference <modules/index>`
@@ -46,3 +45,4 @@ Symbolic Constructions, Context & API
 
    introductio_arithmetica/index
    usage/index
+   about/index
