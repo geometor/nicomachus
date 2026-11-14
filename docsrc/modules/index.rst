@@ -1,8 +1,8 @@
 :navigation: header
 :order: 40
+:nav_title: Modules
 
-=======
-modules
+Modules
 =======
 
-.. include:: api/geometor/nicomachus/index.rst
+.. include:: api/src/geometor/nicomachus/index.rst
