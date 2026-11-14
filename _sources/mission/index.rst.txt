@@ -1,10 +1,10 @@
 :navigation: header
 :order: 10
+:nav_title: Mission
 
 .. _mission:
 
-=======
-mission
+Mission
 =======
 
 .. rubric:: Why Nicomachus of Gerasa Anchors Arithmetic, Harmonics, and the Quadrivium in GEOMETOR

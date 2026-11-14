@@ -1,13 +1,11 @@
-:order: 90
-:layout: book
-:type: apparatus
-:title: Master Chapter, Boethius & GEOMETOR Canon Concordance
+:navigation: footer
+:nav_title: Concordance
+:title: Concordance — Master Chapter, Boethius & Canon Concordance
 
 .. _concordance:
 
-=====================================================
-Master Chapter, Boethius & GEOMETOR Canon Concordance
-=====================================================
+Concordance
+===========
 
 .. rubric:: Hoche (1866) · D'Ooge (1926) · Boethius *De Institutione Arithmetica* (1867) · GEOMETOR Canon
 
