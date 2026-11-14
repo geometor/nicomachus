@@ -1,10 +1,10 @@
-:navigation: header
+:navigation: footer
 :order: 20
+:nav_title: About
 
 .. _about:
 
-=====
-about
+About
 =====
 
 .. rubric:: Richard Hoche's Teubner Edition (1866), Martin Luther D'Ooge's Translation (1926) & Boethius's Latin Transmission

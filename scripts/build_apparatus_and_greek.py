@@ -60,10 +60,10 @@ def build_concordance_rst() -> None:
     """Write ``docsrc/introductio_arithmetica/concordance.rst``."""
     data: dict[str, Any] = json.loads((RES_DIR / "concordance.json").read_text(encoding="utf-8"))
     loci: list[dict[str, Any]] = data["loci"]
-    title = "Master Chapter, Boethius & GEOMETOR Canon Concordance"
+    title = "Concordance"
     lines: list[str] = [
-        ":order: 90",
-        ":layout: book",
+        ":navigation: footer",
+        ":nav_title: Concordance",
         ":type: apparatus",
         f":title: {title}",
         "",
@@ -72,6 +72,7 @@ def build_concordance_rst() -> None:
         _rst_overline_heading(title),
         "",
         ".. rubric:: Hoche (1866) · D'Ooge (1926) · Boethius *De Institutione Arithmetica* (1867) · GEOMETOR Canon",
+
         "",
         (
             "Complete structural concordance mapping all **20 canonical chapter groups** across "
@@ -116,10 +117,11 @@ def build_bibliography_rst() -> None:
     citations: dict[str, dict[str, str]] = json.loads(
         (RES_DIR / "citations.json").read_text(encoding="utf-8")
     )
-    title = "Bibliography & Critical Editions"
+    title = "Bibliography"
     lines: list[str] = [
-        ":order: 91",
-        ":layout: book",
+        ":navigation: header",
+        ":order: 6",
+        ":nav_title: Bibliography",
         ":type: apparatus",
         f":title: {title}",
         "",
@@ -156,10 +158,11 @@ def build_persons_rst() -> None:
     persons: dict[str, dict[str, Any]] = json.loads(
         (RES_DIR / "persons.json").read_text(encoding="utf-8")
     )
-    title = "Mathematical & Philosophical Authorities"
+    title = "People"
     lines: list[str] = [
-        ":order: 92",
-        ":layout: book",
+        ":navigation: header",
+        ":order: 5",
+        ":nav_title: People",
         ":type: apparatus",
         f":title: {title}",
         "",
@@ -200,10 +203,10 @@ def build_glossary_rst() -> None:
     glossary: dict[str, dict[str, str]] = json.loads(
         (RES_DIR / "glossary.json").read_text(encoding="utf-8")
     )
-    title = "Glossary of Greek & Latin Arithmetical Terms"
+    title = "Glossary"
     lines: list[str] = [
-        ":order: 93",
-        ":layout: book",
+        ":navigation: footer",
+        ":nav_title: Glossary",
         ":type: apparatus",
         f":title: {title}",
         "",

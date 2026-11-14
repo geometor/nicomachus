@@ -1,10 +1,10 @@
 :navigation: header
-:order: 15
+:order: 25
+:nav_title: Demos
 
 .. _demos:
 
-==============
-demonstrations
+Demonstrations
 ==============
 
 .. rubric:: 100% Exact Symbolic SymPy & Rational Trigonometry Proofs of Nicomachus's Arithmetical Geometry

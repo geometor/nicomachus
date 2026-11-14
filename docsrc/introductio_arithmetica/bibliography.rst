@@ -1,13 +1,12 @@
-:order: 91
-:layout: book
-:type: apparatus
-:title: Bibliography & Critical Editions
+:navigation: header
+:order: 6
+:nav_title: Bibliography
+:title: Bibliography — Critical Editions & References
 
 .. _bibliography:
 
-================================
-Bibliography & Critical Editions
-================================
+Bibliography
+============
 
 .. rubric:: Critical Greek & Latin Editions, Public-Domain Translations, Ancient Commentaries & Canon Sources
 

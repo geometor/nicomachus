@@ -1,13 +1,11 @@
-:order: 93
-:layout: book
-:type: apparatus
+:navigation: footer
+:nav_title: Glossary
 :title: Glossary of Greek & Latin Arithmetical Terms
 
 .. _glossary:
 
-============================================
-Glossary of Greek & Latin Arithmetical Terms
-============================================
+Glossary
+========
 
 .. rubric:: Polytonic Greek, Boethian Latin & Arithmetical Lexicon of *Introductio Arithmetica*
 
