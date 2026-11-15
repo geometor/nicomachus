@@ -18,7 +18,7 @@ and Martin Luther D'Ooge's 1926 English translation, paired with exact ``SymPy``
 
 from __future__ import annotations
 
-__version__ = "0.1.4"
+__version__ = "0.1.5"
 
 from geometor.nicomachus.equality_tree import (
     NICOMACHUS_INVERSE_MATRIX,
