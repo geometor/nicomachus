@@ -16,7 +16,7 @@ In strict accordance with **GEOMETOR's Content / Code Separation**, the historic
 1. Book I, Chs. 13, 16, 17–23 & Book II, Chs. 1–2 — Ratio Taxonomy & the Equality Unfolding Tree
 ------------------------------------------------------------------------------------------------
 
-*Codex Reference*: :doc:`Unit II — Inequality & the Equality Tree (Critical Notes) </introductio_arithmetica/unit-2-inequality-equality-tree/unit-2-inequality-equality-tree-notes>` · *Script*: ``demos/equality_tree.py``
+*Codex Reference*: :doc:`Unit II — Inequality & the Equality Tree (Critical Notes) </introductio_arithmetica/book_01/sec_02_inequality_equality_tree/notes>` · *Script*: ``demos/equality_tree.py``
 
 .. picture:: /_static/figures/equality-unfolding-tree.svg
    :alt: Nicomachus's Ternary Unfolding Tree from Equality (1, 1, 1)
@@ -47,7 +47,7 @@ In strict accordance with **GEOMETOR's Content / Code Separation**, the historic
 2. Book II, Chs. 6–20 — Polygonal Alpha-Gnomons, Same/Other & Nicomachus's Sum-of-Cubes Theorem
 -----------------------------------------------------------------------------------------------
 
-*Codex Reference*: :doc:`Unit III — Figurate Gnomons & Cubes (Critical Notes) </introductio_arithmetica/unit-3-figurate-gnomons-cubes/unit-3-figurate-gnomons-cubes-notes>` · *Script*: ``demos/figurate_gnomons.py``
+*Codex Reference*: :doc:`Unit III — Figurate Gnomons & Cubes (Critical Notes) </introductio_arithmetica/book_02/sec_01_figurate_gnomons_cubes/notes>` · *Script*: ``demos/figurate_gnomons.py``
 
 .. picture:: /_static/figures/nicomachus-sum-of-cubes.svg
    :alt: Gnomonic Square Proof of Nicomachus's Sum-of-Cubes Theorem
@@ -77,7 +77,7 @@ In strict accordance with **GEOMETOR's Content / Code Separation**, the historic
 3. Book II, Chs. 21–29 — Semicircle Means, Ten Proportions & the Cube's *Teleiotatē Analogia*
 ---------------------------------------------------------------------------------------------
 
-*Codex Reference*: :doc:`Unit IV — Ten Means & Cube Harmony (Critical Notes) </introductio_arithmetica/unit-4-ten-means-cube-harmony/unit-4-ten-means-cube-harmony-notes>` · *Script*: ``demos/ten_means_and_cube.py``
+*Codex Reference*: :doc:`Unit IV — Ten Means & Cube Harmony (Critical Notes) </introductio_arithmetica/book_02/sec_02_ten_means_cube_harmony/notes>` · *Script*: ``demos/ten_means_and_cube.py``
 
 .. picture:: /_static/figures/three-classical-means-semicircle.svg
    :alt: Exact Semicircle Construction of Arithmetic, Geometric, and Harmonic Means

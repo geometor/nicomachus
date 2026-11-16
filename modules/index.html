@@ -6,12 +6,32 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Modules &mdash; GEOMETOR • nicomachus</title>
+
+  <title>Modules — Nicomachus of Gerasa • GEOMETOR</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="canonical" href="https://geometor.github.io/nicomachus/modules/" />
+  <meta name="description" content="The geometor.nicomachus Python package provides exact symbolic SymPy and geometor.model formalizations of Nicomachus of Gerasa’s Introductio Arithmetica (Books I–II), covering the Quadrivium…" />
+  <meta property="og:site_name" content="GEOMETOR" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Modules — Nicomachus of Gerasa • GEOMETOR" />
+  <meta property="og:description" content="The geometor.nicomachus Python package provides exact symbolic SymPy and geometor.model formalizations of Nicomachus of Gerasa’s Introductio Arithmetica (Books I–II), covering the Quadrivium…" />
+  <meta property="og:url" content="https://geometor.github.io/nicomachus/modules/" />
+  <meta property="og:image" content="https://geometor.github.io/nicomachus/_static/social/banner.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Nicomachus of Gerasa — GEOMETOR" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Modules — Nicomachus of Gerasa • GEOMETOR" />
+  <meta name="twitter:description" content="The geometor.nicomachus Python package provides exact symbolic SymPy and geometor.model formalizations of Nicomachus of Gerasa’s Introductio Arithmetica (Books I–II), covering the Quadrivium…" />
+  <meta name="twitter:image" content="https://geometor.github.io/nicomachus/_static/social/banner.png" />
+  <meta name="twitter:image:alt" content="Nicomachus of Gerasa — GEOMETOR" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=99410eb1" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=81e79cc0" />
   <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" type="text/css" href="../_static/custom.css?v=7ec4242d" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
@@ -24,21 +44,21 @@
 <body class="book-theme-classical-serif">
   <header>
     <div class="logo">
-      <a href="../index.html">
-        <img src="../_static/logo.png" class="logo" alt="Logo"/>
+      <a href="../index.html" title="Home">
+        <img src="../_static/logo.png" class="logo" alt="GEOMETOR nicomachus"/>
+        <div class="org-repo">
+          <span class="org">GEOMETOR</span>
+          <span class="sep" aria-hidden="true">&bull;</span>
+          <span class="repo">nicomachus</span>
+        </div>
       </a>
-      <div class="org-repo">
-        <span class="org">GEOMETOR</span>
-        •
-        <span class="repo">nicomachus</span>
-      </div>
     </div>
     <nav aria-label="Header">
       <input type="checkbox" id="nav-Header-toggle" >
       <label for="nav-Header-toggle" >Header</label>
       <ul>
         <li>
-          <a href="../introductio_arithmetica/index.html"  >Introduction to Arithmetic</a>
+          <a href="../introductio_arithmetica/index.html"  >Introductio Arithmetica</a>
         </li>
         <li>
           <a href="../introductio_arithmetica/persons.html"  >People</a>
@@ -69,74 +89,68 @@
     <article class="book-layout book-reading-pane">
       <header class="book-header">
         <div class="book-header-bar">
-          <div class="book-header-identity">
-            <a class="book-portal-link" href="../index.html" title="Return to Project Portal">&larr; nicomachus</a>
-            <span class="book-header-sep">/</span>
-            <a class="book-title-link" href="../index.html">GEOMETOR • nicomachus</a>
-          </div>
+          <nav class="book-breadcrumbs" aria-label="Breadcrumb">
+            <span class="book-crumb-current is-section-root" aria-current="page">Modules</span>
+          </nav>
         </div>
         <div class="book-header-nav">
           <div class="book-nav-prev">
-            <a class="book-nav-btn" href="../log/26.316-initial-codex.html" title="Initial Codex &amp; Symbolic Engine — Introductio Arithmetica (Hoche 1866 Teubner &amp; D’Ooge 1926 Critical Text)">&larr; <span class="nav-label">Prev</span></a>
+            <a class="book-nav-btn" href="../changelog.html" title="changelog">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
           </div>
           <div class="book-nav-next">
-            <a class="book-nav-btn" href="api/src/geometor/nicomachus/__main__/index.html" title="src.geometor.nicomachus.__main__"><span class="nav-label">Next</span> &rarr;</a>
+            <a class="book-nav-btn" href="api/geometor/nicomachus/__main__/index.html" title="geometor.nicomachus.__main__"><span class="nav-label">Next</span> &rarr;</a>
           </div>
         </div>
       </header>
       <div class="content body book-content" role="main">
         <section class="level-1" id="modules">
-        <h1>Modules<a class="headerlink" href="#modules" title="Link to this heading">¶</a></h1>
+        <span id="nicomachus-modules"></span><h1>Modules<a class="headerlink" href="#modules" title="Link to this heading">¶</a></h1>
+        <p>The <code class="docutils literal notranslate"><span class="pre">geometor.nicomachus</span></code> Python package provides exact symbolic <code class="docutils literal notranslate"><span class="pre">SymPy</span></code> and <code class="docutils literal notranslate"><span class="pre">geometor.model</span></code> formalizations of Nicomachus of Gerasa’s <em>Introductio Arithmetica</em> (Books I–II), covering the Quadrivium, ratio unfolding trees from equality, arithmetic gnomons, polygonal and pyramidal numbers, and the complete ten Pythagorean musical means.</p>
+        <section class="level-2" id="cli-summary">
+        <h2>CLI Summary<a class="headerlink" href="#cli-summary" title="Link to this heading">¶</a></h2>
+        <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>python<span class="w"> </span>-m<span class="w"> </span>geometor.nicomachus
+        </pre></div>
+        </div>
         </section>
-        <section class="level-1" id="module-src.geometor.nicomachus">
-        <span id="src-geometor-nicomachus"></span><h1>src.geometor.nicomachus<a class="headerlink" href="#module-src.geometor.nicomachus" title="Link to this heading">¶</a></h1>
-        <p>GEOMETOR • nicomachus: Digital Scriptorium Codex &amp; exact symbolic demonstrations.</p>
-        <p>Covers Nicomachus of Gerasa’s <em>Introduction to Arithmetic</em> (<em>Ἀριθμητικὴ Εἰσαγωγή</em>,
-        Books I–II, c. 100 CE), grounded in Richard Hoche’s 1866 Teubner Greek critical edition
-        and Martin Luther D’Ooge’s 1926 English translation, paired with exact <code class="docutils literal notranslate"><span class="pre">SymPy</span></code> and
-        <code class="docutils literal notranslate"><span class="pre">geometor.model</span></code> constructions:</p>
-        <ul class="simple">
-        <li><p><code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.nicomachus.equality_tree</span></code>: Nicomachus’s Rule of Three Terms (I.23 &amp; II.1–2)
-        unfolding all five species of inequality from Equality <code class="docutils literal notranslate"><span class="pre">(1,</span> <span class="pre">1,</span> <span class="pre">1)</span></code> and reducing any
-        geometric triple back to <code class="docutils literal notranslate"><span class="pre">(1,</span> <span class="pre">1,</span> <span class="pre">1)</span></code>.</p></li>
-        <li><p><code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.nicomachus.figurate_gnomons</span></code>: Exact <code class="docutils literal notranslate"><span class="pre">geometor.model</span></code> planar lattice
-        constructions of polygonal gnomons, oblong (<em>heteromecic</em>) numbers, Sieve &amp; Perfect
-        numbers, and Nicomachus’s Sum-of-Cubes Theorem (II.20).</p></li>
-        <li><p><code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.nicomachus.ten_means_and_cube</span></code>: Exact <code class="docutils literal notranslate"><span class="pre">SymPy</span></code> &amp; <code class="docutils literal notranslate"><span class="pre">geometor.model</span></code>
-        constructions of all ten Nicomachean means (II.21–28) and the <em>Teleiotatē Analogia</em>
-        Cube Proportion <code class="docutils literal notranslate"><span class="pre">6</span> <span class="pre">:</span> <span class="pre">8</span> <span class="pre">::</span> <span class="pre">9</span> <span class="pre">:</span> <span class="pre">12</span></code> (II.29).</p></li>
-        </ul>
         <section class="level-2" id="submodules">
         <h2>Submodules<a class="headerlink" href="#submodules" title="Link to this heading">¶</a></h2>
         <div class="toctree-wrapper compound">
         <ul>
-        <li class="toctree-l1"><a class="reference internal" href="api/src/geometor/nicomachus/__main__/index.html">src.geometor.nicomachus.__main__</a></li>
-        <li class="toctree-l1"><a class="reference internal" href="api/src/geometor/nicomachus/equality_tree/index.html">src.geometor.nicomachus.equality_tree</a></li>
-        <li class="toctree-l1"><a class="reference internal" href="api/src/geometor/nicomachus/figurate_gnomons/index.html">src.geometor.nicomachus.figurate_gnomons</a></li>
-        <li class="toctree-l1"><a class="reference internal" href="api/src/geometor/nicomachus/sphinx_ext/index.html">src.geometor.nicomachus.sphinx_ext</a></li>
-        <li class="toctree-l1"><a class="reference internal" href="api/src/geometor/nicomachus/ten_means_and_cube/index.html">src.geometor.nicomachus.ten_means_and_cube</a></li>
+        <li class="toctree-l1"><a class="reference internal" href="api/geometor/nicomachus/__main__/index.html">geometor.nicomachus.__main__</a><ul>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/__main__/index.html#functions">Functions</a></li>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/__main__/index.html#module-contents">Module Contents</a></li>
+        </ul>
+        </li>
+        <li class="toctree-l1"><a class="reference internal" href="api/geometor/nicomachus/equality_tree/index.html">geometor.nicomachus.equality_tree</a><ul>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/equality_tree/index.html#attributes">Attributes</a></li>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/equality_tree/index.html#classes">Classes</a></li>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/equality_tree/index.html#functions">Functions</a></li>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/equality_tree/index.html#module-contents">Module Contents</a></li>
+        </ul>
+        </li>
+        <li class="toctree-l1"><a class="reference internal" href="api/geometor/nicomachus/figurate_gnomons/index.html">geometor.nicomachus.figurate_gnomons</a><ul>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/figurate_gnomons/index.html#classes">Classes</a></li>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/figurate_gnomons/index.html#functions">Functions</a></li>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/figurate_gnomons/index.html#module-contents">Module Contents</a></li>
+        </ul>
+        </li>
+        <li class="toctree-l1"><a class="reference internal" href="api/geometor/nicomachus/sphinx_ext/index.html">geometor.nicomachus.sphinx_ext</a><ul>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/sphinx_ext/index.html#attributes">Attributes</a></li>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/sphinx_ext/index.html#functions">Functions</a></li>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/sphinx_ext/index.html#module-contents">Module Contents</a></li>
+        </ul>
+        </li>
+        <li class="toctree-l1"><a class="reference internal" href="api/geometor/nicomachus/ten_means_and_cube/index.html">geometor.nicomachus.ten_means_and_cube</a><ul>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/ten_means_and_cube/index.html#attributes">Attributes</a></li>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/ten_means_and_cube/index.html#classes">Classes</a></li>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/ten_means_and_cube/index.html#functions">Functions</a></li>
+        <li class="toctree-l2"><a class="reference internal" href="api/geometor/nicomachus/ten_means_and_cube/index.html#module-contents">Module Contents</a></li>
+        </ul>
+        </li>
         </ul>
         </div>
-        </section>
-        <section class="level-2" id="attributes">
-        <h2>Attributes<a class="headerlink" href="#attributes" title="Link to this heading">¶</a></h2>
-        <table class="autosummary longtable docutils align-default">
-        <tbody>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#src.geometor.nicomachus.__version__" title="src.geometor.nicomachus.__version__"><code class="xref py py-obj docutils literal notranslate"><span class="pre">__version__</span></code></a></p></td>
-        <td><p></p></td>
-        </tr>
-        </tbody>
-        </table>
-        </section>
-        <section class="level-2" id="package-contents">
-        <h2>Package Contents<a class="headerlink" href="#package-contents" title="Link to this heading">¶</a></h2>
-        <dl class="py data">
-        <dt class="sig sig-object py" id="src.geometor.nicomachus.__version__">
-        <span class="sig-prename descclassname"><span class="pre">src.geometor.nicomachus.</span></span><span class="sig-name descname"><span class="pre">__version__</span></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">'0.1.5'</span></span><a class="headerlink" href="#src.geometor.nicomachus.__version__" title="Link to this definition">¶</a></dt>
-        <dd></dd></dl>
-
         </section>
         </section>
 
@@ -145,13 +159,13 @@
         <div class="book-footer-ornament">&#10086;</div>
         <div class="book-footer-nav">
           <div class="book-nav-prev">
-            <a class="book-nav-btn" href="../log/26.316-initial-codex.html" title="Initial Codex &amp; Symbolic Engine — Introductio Arithmetica (Hoche 1866 Teubner &amp; D’Ooge 1926 Critical Text)">&larr; <span class="nav-label">Initial Codex & Symbolic Engine — Introductio Arithmetica (Hoche 1866 Teubner & D’Ooge 1926 Critical Text)</span></a>
+            <a class="book-nav-btn" href="../changelog.html" title="changelog">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
-            <a class="book-toc-link" href="../index.html">GEOMETOR • nicomachus</a>
+            <a class="book-toc-link" href="../index.html">Nicomachus of Gerasa</a>
           </div>
           <div class="book-nav-next">
-            <a class="book-nav-btn" href="api/src/geometor/nicomachus/__main__/index.html" title="src.geometor.nicomachus.__main__"><span class="nav-label">src.geometor.nicomachus.__main__</span> &rarr;</a>
+            <a class="book-nav-btn" href="api/geometor/nicomachus/__main__/index.html" title="geometor.nicomachus.__main__"><span class="nav-label">Next</span> &rarr;</a>
           </div>
         </div>
       </footer>
@@ -185,10 +199,8 @@
     <aside class="aside-types">
       <h3>Types</h3>
       <ul>
-        <li><a href="../types/el.html">el</a></li>
+        <li><a href="../types/book.html">book</a></li>
         <li><a href="../types/log.html">log</a></li>
-        <li><a href="../types/notes.html">notes</a></li>
-        <li><a href="../types/summary.html">summary</a></li>
       </ul>
     </aside>
   </div>

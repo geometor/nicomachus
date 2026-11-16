@@ -1,0 +1,571 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../../../../../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>geometor.nicomachus.figurate_gnomons — Nicomachus of Gerasa • GEOMETOR</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="canonical" href="https://geometor.github.io/nicomachus/modules/api/geometor/nicomachus/figurate_gnomons/" />
+  <meta name="description" content="Sieve, Perfect Numbers, Polygonal Gnomons &amp; Nicomachus’s Cubes Theorem (Book I.13–16; Book II.6–20)." />
+  <meta property="og:site_name" content="GEOMETOR" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="geometor.nicomachus.figurate_gnomons — Nicomachus of Gerasa • GEOMETOR" />
+  <meta property="og:description" content="Sieve, Perfect Numbers, Polygonal Gnomons &amp; Nicomachus’s Cubes Theorem (Book I.13–16; Book II.6–20)." />
+  <meta property="og:url" content="https://geometor.github.io/nicomachus/modules/api/geometor/nicomachus/figurate_gnomons/" />
+  <meta property="og:image" content="https://geometor.github.io/nicomachus/_static/social/banner.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Nicomachus of Gerasa — GEOMETOR" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="geometor.nicomachus.figurate_gnomons — Nicomachus of Gerasa • GEOMETOR" />
+  <meta name="twitter:description" content="Sieve, Perfect Numbers, Polygonal Gnomons &amp; Nicomachus’s Cubes Theorem (Book I.13–16; Book II.6–20)." />
+  <meta name="twitter:image" content="https://geometor.github.io/nicomachus/_static/social/banner.png" />
+  <meta name="twitter:image:alt" content="Nicomachus of Gerasa — GEOMETOR" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/css/styles.css?v=81e79cc0" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/custom.css?v=7ec4242d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../../../../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../../../../_static/favicon.ico" />
+</head>
+
+<body class="book-theme-classical-serif">
+  <header>
+    <div class="logo">
+      <a href="../../../../../index.html" title="Home">
+        <img src="../../../../../_static/logo.png" class="logo" alt="GEOMETOR nicomachus"/>
+        <div class="org-repo">
+          <span class="org">GEOMETOR</span>
+          <span class="sep" aria-hidden="true">&bull;</span>
+          <span class="repo">nicomachus</span>
+        </div>
+      </a>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../../../../../introductio_arithmetica/index.html"  >Introductio Arithmetica</a>
+        </li>
+        <li>
+          <a href="../../../../../introductio_arithmetica/persons.html"  >People</a>
+        </li>
+        <li>
+          <a href="../../../../../introductio_arithmetica/bibliography.html"  >Bibliography</a>
+        </li>
+        <li>
+          <a href="../../../../../about/index.html"  >About</a>
+        </li>
+        <li>
+          <a href="../../../../../usage/index.html"  >Usage</a>
+        </li>
+        <li>
+          <a href="../../../../../demos/index.html"  >Demos</a>
+        </li>
+        <li>
+          <a href="../../../../../log/index.html"  >Log</a>
+        </li>
+        <li>
+          <a href="../../../../index.html" class="is-active" aria-selected="true" >Modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <nav class="book-breadcrumbs" aria-label="Breadcrumb">
+            <a class="book-section-home-link" href="../../../../index.html">Modules</a>
+            <span class="book-crumb-sep" aria-hidden="true">/</span>
+            <span class="book-crumb-current" aria-current="page">geometor.nicomachus.figurate_gnomons</span>
+          </nav>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../equality_tree/index.html" title="geometor.nicomachus.equality_tree">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../sphinx_ext/index.html" title="geometor.nicomachus.sphinx_ext"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content" role="main">
+        <section class="level-1" id="module-geometor.nicomachus.figurate_gnomons">
+        <span id="geometor-nicomachus-figurate-gnomons"></span><h1>geometor.nicomachus.figurate_gnomons<a class="headerlink" href="#module-geometor.nicomachus.figurate_gnomons" title="Link to this heading">¶</a></h1>
+        <p>Sieve, Perfect Numbers, Polygonal Gnomons &amp; Nicomachus’s Cubes Theorem (Book I.13–16; Book II.6–20).</p>
+        <p>Formalizes Nicomachus of Gerasa’s theory of absolute number (<em>καθ’ ἑαυτὸ ποσόν</em>) and figurate
+        geometry of arithmetic:</p>
+        <ul class="simple">
+        <li><p><strong>Sieve of Eratosthenes</strong> (<em>κόσκινον Ἐρατοσθένους</em>, I.13): Sieving the odd progression
+        <span class="math notranslate nohighlight">\(3, 5, 7, 9, \dots\)</span> by arithmetic strides to separate prime &amp; incomposite numbers
+        from secondary &amp; composite numbers.</p></li>
+        <li><p><strong>Abundant, Deficient &amp; Perfect Numbers</strong> (I.14–16): Classification by aliquot sum
+        <span class="math notranslate nohighlight">\(\sigma'(n)\)</span> and the Euclid–Nicomachus generation of <span class="math notranslate nohighlight">\(6, 28, 496, 8128\)</span>.</p></li>
+        <li><p><strong>Polygonal Numbers &amp; Gnomons</strong> (II.7–12): Exact arithmetic gnomons
+        <span class="math notranslate nohighlight">\(g(s, k) = 1 + (s - 2)(k - 1)\)</span>, polygonal numbers <span class="math notranslate nohighlight">\(P(s, n)\)</span>, triangular
+        decomposition <span class="math notranslate nohighlight">\(P(s, n) = T_n + (s - 3) T_{n-1}\)</span>, and planar <code class="xref py py-class docutils literal notranslate"><span class="pre">Model</span></code>
+        constructions over <span class="math notranslate nohighlight">\(\mathbb{Q}\)</span> and <span class="math notranslate nohighlight">\(\mathbb{Q}(\sqrt{3})\)</span>.</p></li>
+        <li><p><strong>Same &amp; Other — Squares vs. Heteromecic Numbers</strong> (II.17–19): Odd gnomons summing to
+        <span class="math notranslate nohighlight">\(n^2\)</span> (<em>ταὐτόν</em>, Same) vs. even gnomons summing to <span class="math notranslate nohighlight">\(n(n + 1)\)</span> (<em>θάτερον</em>, Other).</p></li>
+        <li><p><strong>Pyramidal Numbers &amp; Nicomachus’s Sum-of-Cubes Theorem</strong> (II.13–16, II.20): Odd blocks of
+        length <span class="math notranslate nohighlight">\(k\)</span> summing to <span class="math notranslate nohighlight">\(k^3\)</span> and L-gnomon square dissection proving
+        <span class="math notranslate nohighlight">\(\sum_{k=1}^n k^3 = T_n^2\)</span>.</p></li>
+        </ul>
+        <section class="level-2" id="classes">
+        <h2>Classes<a class="headerlink" href="#classes" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult" title="geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult"><code class="xref py py-obj docutils literal notranslate"><span class="pre">PolygonalGnomonResult</span></code></a></p></td>
+        <td><p>Result bundle for an exact planar polygonal-gnomon construction.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.NicomachusCubesResult" title="geometor.nicomachus.figurate_gnomons.NicomachusCubesResult"><code class="xref py py-obj docutils literal notranslate"><span class="pre">NicomachusCubesResult</span></code></a></p></td>
+        <td><p>Result bundle for Nicomachus's Sum-of-Cubes square dissection (Book II, Ch. 20).</p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="functions">
+        <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.sieve_of_eratosthenes" title="geometor.nicomachus.figurate_gnomons.sieve_of_eratosthenes"><code class="xref py py-obj docutils literal notranslate"><span class="pre">sieve_of_eratosthenes</span></code></a>([limit]) → dict[str, Any]</p></td>
+        <td><p>Execute Nicomachus's odd-number <em>koskinon</em> of Eratosthenes up to <code class="docutils literal notranslate"><span class="pre">limit</span></code> (I.13).</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.classify_abundant_deficient_perfect" title="geometor.nicomachus.figurate_gnomons.classify_abundant_deficient_perfect"><code class="xref py py-obj docutils literal notranslate"><span class="pre">classify_abundant_deficient_perfect</span></code></a>(n) → dict[str, Any]</p></td>
+        <td><p>Classify a positive integer <code class="docutils literal notranslate"><span class="pre">n</span> <span class="pre">&gt;=</span> <span class="pre">2</span></code> by its proper aliquot parts (Book I, Chs. 14–16).</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.euclid_nicomachus_perfect_numbers" title="geometor.nicomachus.figurate_gnomons.euclid_nicomachus_perfect_numbers"><code class="xref py py-obj docutils literal notranslate"><span class="pre">euclid_nicomachus_perfect_numbers</span></code></a>([count]) → list[dict[str, Any]]</p></td>
+        <td><p>Generate the first <code class="docutils literal notranslate"><span class="pre">count</span></code> Euclid–Nicomachus even perfect numbers (I.16; <em>Elem.</em> IX.36).</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.polygonal_number" title="geometor.nicomachus.figurate_gnomons.polygonal_number"><code class="xref py py-obj docutils literal notranslate"><span class="pre">polygonal_number</span></code></a>(sides, n) → sympy.Expr</p></td>
+        <td><p>Return the exact <code class="docutils literal notranslate"><span class="pre">n</span></code>-th <code class="docutils literal notranslate"><span class="pre">sides</span></code>-gonal number <span class="math notranslate nohighlight">\(P(s, n)\)</span> (Book II, Chs. 8–12).</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.polygonal_gnomon" title="geometor.nicomachus.figurate_gnomons.polygonal_gnomon"><code class="xref py py-obj docutils literal notranslate"><span class="pre">polygonal_gnomon</span></code></a>(sides, k) → sympy.Expr</p></td>
+        <td><p>Return the <code class="docutils literal notranslate"><span class="pre">k</span></code>-th arithmetic gnomon <span class="math notranslate nohighlight">\(g(s, k) = 1 + (s - 2)(k - 1)\)</span> (II.7–11).</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.heteromecic_number" title="geometor.nicomachus.figurate_gnomons.heteromecic_number"><code class="xref py py-obj docutils literal notranslate"><span class="pre">heteromecic_number</span></code></a>(n) → sympy.Expr</p></td>
+        <td><p>Return the <code class="docutils literal notranslate"><span class="pre">n</span></code>-th oblong (<em>heteromecic</em>, <em>ἑτερομήκης</em>) number <span class="math notranslate nohighlight">\(n(n + 1)\)</span> (II.17).</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.pyramidal_number" title="geometor.nicomachus.figurate_gnomons.pyramidal_number"><code class="xref py py-obj docutils literal notranslate"><span class="pre">pyramidal_number</span></code></a>(sides, n) → sympy.Expr</p></td>
+        <td><p>Return the <code class="docutils literal notranslate"><span class="pre">n</span></code>-th <code class="docutils literal notranslate"><span class="pre">sides</span></code>-gonal pyramidal number <span class="math notranslate nohighlight">\(\sum_{k=1}^n P(s, k)\)</span> (II.13–14).</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.construct_polygonal_gnomon_model" title="geometor.nicomachus.figurate_gnomons.construct_polygonal_gnomon_model"><code class="xref py py-obj docutils literal notranslate"><span class="pre">construct_polygonal_gnomon_model</span></code></a>([sides, order]) → PolygonalGnomonResult</p></td>
+        <td><p>Build an exact <code class="xref py py-class docutils literal notranslate"><span class="pre">Model</span></code> of <code class="docutils literal notranslate"><span class="pre">sides</span></code>-gonal gnomon shells.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.construct_nicomachus_cubes_model" title="geometor.nicomachus.figurate_gnomons.construct_nicomachus_cubes_model"><code class="xref py py-obj docutils literal notranslate"><span class="pre">construct_nicomachus_cubes_model</span></code></a>([order]) → NicomachusCubesResult</p></td>
+        <td><p>Build an exact <code class="xref py py-class docutils literal notranslate"><span class="pre">Model</span></code> proving <span class="math notranslate nohighlight">\(\sum_{k=1}^n k^3 = T_n^2\)</span> (II.20).</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.verify_figurate_identities" title="geometor.nicomachus.figurate_gnomons.verify_figurate_identities"><code class="xref py py-obj docutils literal notranslate"><span class="pre">verify_figurate_identities</span></code></a>() → dict[str, Any]</p></td>
+        <td><p>Verify symbolically all Nicomachean figurate, oblong, pyramidal, and cube laws.</p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="module-contents">
+        <h2>Module Contents<a class="headerlink" href="#module-contents" title="Link to this heading">¶</a></h2>
+        <dl class="py class">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">geometor.nicomachus.figurate_gnomons.</span></span><span class="sig-name descname"><span class="pre">PolygonalGnomonResult</span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult" title="Link to this definition">¶</a></dt>
+        <dd><p>Result bundle for an exact planar polygonal-gnomon construction.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Variables<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>sides</strong> – Number of polygon sides <code class="docutils literal notranslate"><span class="pre">s</span> <span class="pre">&gt;=</span> <span class="pre">3</span></code>.</p></li>
+        <li><p><strong>order</strong> – Number of gnomon shells <code class="docutils literal notranslate"><span class="pre">n</span> <span class="pre">&gt;=</span> <span class="pre">1</span></code>.</p></li>
+        <li><p><strong>model</strong> – Verified <code class="xref py py-class docutils literal notranslate"><span class="pre">Model</span></code> containing the pebble lattice and
+        gnomon shell chains.</p></li>
+        <li><p><strong>shell_points</strong> – Mapping from 1-based shell index <code class="docutils literal notranslate"><span class="pre">k</span></code> to the ordered list of exact
+        <code class="xref py py-class docutils literal notranslate"><span class="pre">sympy.geometry.Point</span></code> instances added in the <code class="docutils literal notranslate"><span class="pre">k</span></code>-th gnomon.</p></li>
+        <li><p><strong>gnomon_counts</strong> – Tuple <code class="docutils literal notranslate"><span class="pre">(g(s,</span> <span class="pre">1),</span> <span class="pre">...,</span> <span class="pre">g(s,</span> <span class="pre">n))</span></code> of shell pebble counts.</p></li>
+        <li><p><strong>cumulative_counts</strong> – Tuple <code class="docutils literal notranslate"><span class="pre">(P(s,</span> <span class="pre">1),</span> <span class="pre">...,</span> <span class="pre">P(s,</span> <span class="pre">n))</span></code> of total polygonal counts.</p></li>
+        </ul>
+        </dd>
+        </dl>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult.sides">
+        <span class="sig-name descname"><span class="pre">sides</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult.sides" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult.order">
+        <span class="sig-name descname"><span class="pre">order</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult.order" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult.model">
+        <span class="sig-name descname"><span class="pre">model</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">geometor.model.Model</span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult.model" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult.shell_points">
+        <span class="sig-name descname"><span class="pre">shell_points</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">int</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">list</span><span class="p"><span class="pre">[</span></span><span class="pre">sympy.geometry.Point</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult.shell_points" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult.gnomon_counts">
+        <span class="sig-name descname"><span class="pre">gnomon_counts</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">tuple</span><span class="p"><span class="pre">[</span></span><span class="pre">int</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="p"><span class="pre">...</span></span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult.gnomon_counts" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult.cumulative_counts">
+        <span class="sig-name descname"><span class="pre">cumulative_counts</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">tuple</span><span class="p"><span class="pre">[</span></span><span class="pre">int</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="p"><span class="pre">...</span></span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult.cumulative_counts" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.NicomachusCubesResult">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">geometor.nicomachus.figurate_gnomons.</span></span><span class="sig-name descname"><span class="pre">NicomachusCubesResult</span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.NicomachusCubesResult" title="Link to this definition">¶</a></dt>
+        <dd><p>Result bundle for Nicomachus’s Sum-of-Cubes square dissection (Book II, Ch. 20).</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Variables<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>order</strong> – Highest base <code class="docutils literal notranslate"><span class="pre">n</span> <span class="pre">&gt;=</span> <span class="pre">1</span></code> in <span class="math notranslate nohighlight">\(1^3 + 2^3 + \dots + n^3 = T_n^2\)</span>.</p></li>
+        <li><p><strong>triangular_side</strong> – Master square side <span class="math notranslate nohighlight">\(T_n = n(n + 1) / 2\)</span>.</p></li>
+        <li><p><strong>model</strong> – Verified <code class="xref py py-class docutils literal notranslate"><span class="pre">Model</span></code> containing the master square and
+        all <code class="docutils literal notranslate"><span class="pre">n</span></code> L-gnomon polygons.</p></li>
+        <li><p><strong>odd_blocks</strong> – Mapping from <code class="docutils literal notranslate"><span class="pre">k</span></code> (<code class="docutils literal notranslate"><span class="pre">1..n</span></code>) to the tuple of <code class="docutils literal notranslate"><span class="pre">k</span></code> consecutive odd
+        integers whose sum equals <code class="docutils literal notranslate"><span class="pre">k**3</span></code>.</p></li>
+        <li><p><strong>shell_areas</strong> – Mapping from <code class="docutils literal notranslate"><span class="pre">k</span></code> (<code class="docutils literal notranslate"><span class="pre">1..n</span></code>) to the exact symbolic area of the <code class="docutils literal notranslate"><span class="pre">k</span></code>-th
+        gnomon polygon in <code class="docutils literal notranslate"><span class="pre">model</span></code>.</p></li>
+        <li><p><strong>total_area</strong> – Exact symbolic area <span class="math notranslate nohighlight">\(T_n^2\)</span> of the master square.</p></li>
+        </ul>
+        </dd>
+        </dl>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.NicomachusCubesResult.order">
+        <span class="sig-name descname"><span class="pre">order</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.NicomachusCubesResult.order" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.NicomachusCubesResult.triangular_side">
+        <span class="sig-name descname"><span class="pre">triangular_side</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.NicomachusCubesResult.triangular_side" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.NicomachusCubesResult.model">
+        <span class="sig-name descname"><span class="pre">model</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">geometor.model.Model</span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.NicomachusCubesResult.model" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.NicomachusCubesResult.odd_blocks">
+        <span class="sig-name descname"><span class="pre">odd_blocks</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">int</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">tuple</span><span class="p"><span class="pre">[</span></span><span class="pre">int</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="p"><span class="pre">...</span></span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.NicomachusCubesResult.odd_blocks" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.NicomachusCubesResult.shell_areas">
+        <span class="sig-name descname"><span class="pre">shell_areas</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">int</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">sympy.Expr</span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.NicomachusCubesResult.shell_areas" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.NicomachusCubesResult.total_area">
+        <span class="sig-name descname"><span class="pre">total_area</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">sympy.Integer</span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.NicomachusCubesResult.total_area" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.sieve_of_eratosthenes">
+        <span class="sig-prename descclassname"><span class="pre">geometor.nicomachus.figurate_gnomons.</span></span><span class="sig-name descname"><span class="pre">sieve_of_eratosthenes</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">limit</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">100</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.sieve_of_eratosthenes" title="Link to this definition">¶</a></dt>
+        <dd><p>Execute Nicomachus’s odd-number <em>koskinon</em> of Eratosthenes up to <code class="docutils literal notranslate"><span class="pre">limit</span></code> (I.13).</p>
+        <p>Nicomachus sets out the odd integers <span class="math notranslate nohighlight">\(3, 5, 7, 9, \dots\)</span> (treating the dyad <code class="docutils literal notranslate"><span class="pre">2</span></code> as
+        the principle of the even rather than an odd prime) and marks composite odd numbers by
+        striding <code class="docutils literal notranslate"><span class="pre">p</span></code> places among the odds (i.e. step <code class="docutils literal notranslate"><span class="pre">2*p</span></code> in integer value) from each
+        unmarked prime <code class="docutils literal notranslate"><span class="pre">p</span></code>.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>limit</strong> – Upper integer bound <code class="docutils literal notranslate"><span class="pre">&gt;=</span> <span class="pre">3</span></code>.</p>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Dictionary containing <code class="docutils literal notranslate"><span class="pre">odd_sequence</span></code>, <code class="docutils literal notranslate"><span class="pre">odd_primes</span></code>, <code class="docutils literal notranslate"><span class="pre">all_primes</span></code> (including <code class="docutils literal notranslate"><span class="pre">2</span></code>),
+        <code class="docutils literal notranslate"><span class="pre">odd_composites</span></code>, and <code class="docutils literal notranslate"><span class="pre">witness_factors</span></code> mapping each composite odd to the ordered
+        tuple of sieving primes that strike it.</p>
+        </dd>
+        <dt class="field-odd">Raises<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>ValueError</strong> – If <code class="docutils literal notranslate"><span class="pre">limit</span> <span class="pre">&lt;</span> <span class="pre">3</span></code>.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.classify_abundant_deficient_perfect">
+        <span class="sig-prename descclassname"><span class="pre">geometor.nicomachus.figurate_gnomons.</span></span><span class="sig-name descname"><span class="pre">classify_abundant_deficient_perfect</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">n</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.classify_abundant_deficient_perfect" title="Link to this definition">¶</a></dt>
+        <dd><p>Classify a positive integer <code class="docutils literal notranslate"><span class="pre">n</span> <span class="pre">&gt;=</span> <span class="pre">2</span></code> by its proper aliquot parts (Book I, Chs. 14–16).</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>n</strong> – Integer <code class="docutils literal notranslate"><span class="pre">&gt;=</span> <span class="pre">2</span></code> to classify.</p>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Dictionary with <code class="docutils literal notranslate"><span class="pre">n</span></code>, <code class="docutils literal notranslate"><span class="pre">aliquot_parts</span></code>, <code class="docutils literal notranslate"><span class="pre">aliquot_sum</span></code>, <code class="docutils literal notranslate"><span class="pre">classification</span></code>
+        (<code class="docutils literal notranslate"><span class="pre">&quot;perfect&quot;</span></code>, <code class="docutils literal notranslate"><span class="pre">&quot;superabundant&quot;</span></code>, or <code class="docutils literal notranslate"><span class="pre">&quot;deficient&quot;</span></code>), and Nicomachean Greek/Latin
+        labels.</p>
+        </dd>
+        <dt class="field-odd">Raises<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>ValueError</strong> – If <code class="docutils literal notranslate"><span class="pre">n</span> <span class="pre">&lt;</span> <span class="pre">2</span></code>.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.euclid_nicomachus_perfect_numbers">
+        <span class="sig-prename descclassname"><span class="pre">geometor.nicomachus.figurate_gnomons.</span></span><span class="sig-name descname"><span class="pre">euclid_nicomachus_perfect_numbers</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">count</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">4</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">list</span><span class="p"><span class="pre">[</span></span><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.euclid_nicomachus_perfect_numbers" title="Link to this definition">¶</a></dt>
+        <dd><p>Generate the first <code class="docutils literal notranslate"><span class="pre">count</span></code> Euclid–Nicomachus even perfect numbers (I.16; <em>Elem.</em> IX.36).</p>
+        <p>Accumulates dyadic powers <span class="math notranslate nohighlight">\(1 + 2 + 4 + \dots + 2^{p-1} = 2^p - 1\)</span>; whenever the sum
+        is prime, multiplies it by the final dyadic term <span class="math notranslate nohighlight">\(2^{p-1}\)</span> to yield
+        <span class="math notranslate nohighlight">\(P = 2^{p-1}(2^p - 1)\)</span>. For <code class="docutils literal notranslate"><span class="pre">count</span> <span class="pre">=</span> <span class="pre">4</span></code>, yields Nicomachus’s canonical tetrad
+        <code class="docutils literal notranslate"><span class="pre">6,</span> <span class="pre">28,</span> <span class="pre">496,</span> <span class="pre">8128</span></code> across units, tens, hundreds, and thousands.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>count</strong> – Number of even perfect numbers to generate (<code class="docutils literal notranslate"><span class="pre">1</span> <span class="pre">&lt;=</span> <span class="pre">count</span> <span class="pre">&lt;=</span> <span class="pre">7</span></code>).</p>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>List of dictionaries detailing <code class="docutils literal notranslate"><span class="pre">exponent</span></code>, <code class="docutils literal notranslate"><span class="pre">mersenne_prime</span></code>, <code class="docutils literal notranslate"><span class="pre">last_dyadic_term</span></code>,
+        <code class="docutils literal notranslate"><span class="pre">perfect_number</span></code>, and verified <code class="docutils literal notranslate"><span class="pre">aliquot_sum</span></code>.</p>
+        </dd>
+        <dt class="field-odd">Raises<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>ValueError</strong> – If <code class="docutils literal notranslate"><span class="pre">count</span> <span class="pre">&lt;</span> <span class="pre">1</span></code> or <code class="docutils literal notranslate"><span class="pre">count</span> <span class="pre">&gt;</span> <span class="pre">7</span></code>.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.polygonal_number">
+        <span class="sig-prename descclassname"><span class="pre">geometor.nicomachus.figurate_gnomons.</span></span><span class="sig-name descname"><span class="pre">polygonal_number</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sides</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">n</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">sympy.Expr</span></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.polygonal_number" title="Link to this definition">¶</a></dt>
+        <dd><p>Return the exact <code class="docutils literal notranslate"><span class="pre">n</span></code>-th <code class="docutils literal notranslate"><span class="pre">sides</span></code>-gonal number <span class="math notranslate nohighlight">\(P(s, n)\)</span> (Book II, Chs. 8–12).</p>
+        <div class="math notranslate nohighlight">
+        \[P(s, n) = \frac{(s - 2) n^2 - (s - 4) n}{2} = n + (s - 2)\frac{n(n - 1)}{2}\]</div>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>sides</strong> – Number of sides <code class="docutils literal notranslate"><span class="pre">s</span> <span class="pre">&gt;=</span> <span class="pre">3</span></code> (concrete integer or symbolic expression).</p></li>
+        <li><p><strong>n</strong> – Term index <code class="docutils literal notranslate"><span class="pre">n</span> <span class="pre">&gt;=</span> <span class="pre">1</span></code> (concrete integer or symbolic expression).</p></li>
+        </ul>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Exact <code class="xref py py-class docutils literal notranslate"><span class="pre">sympy.Integer</span></code> (for integer inputs) or simplified <code class="xref py py-class docutils literal notranslate"><span class="pre">sympy.Expr</span></code>.</p>
+        </dd>
+        <dt class="field-odd">Raises<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>ValueError</strong> – If concrete integer inputs violate <code class="docutils literal notranslate"><span class="pre">sides</span> <span class="pre">&gt;=</span> <span class="pre">3</span></code> or <code class="docutils literal notranslate"><span class="pre">n</span> <span class="pre">&gt;=</span> <span class="pre">0</span></code>.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.polygonal_gnomon">
+        <span class="sig-prename descclassname"><span class="pre">geometor.nicomachus.figurate_gnomons.</span></span><span class="sig-name descname"><span class="pre">polygonal_gnomon</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sides</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">k</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">sympy.Expr</span></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.polygonal_gnomon" title="Link to this definition">¶</a></dt>
+        <dd><p>Return the <code class="docutils literal notranslate"><span class="pre">k</span></code>-th arithmetic gnomon <span class="math notranslate nohighlight">\(g(s, k) = 1 + (s - 2)(k - 1)\)</span> (II.7–11).</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>sides</strong> – Number of polygon sides <code class="docutils literal notranslate"><span class="pre">s</span> <span class="pre">&gt;=</span> <span class="pre">3</span></code>.</p></li>
+        <li><p><strong>k</strong> – 1-based gnomon shell index <code class="docutils literal notranslate"><span class="pre">k</span> <span class="pre">&gt;=</span> <span class="pre">1</span></code>.</p></li>
+        </ul>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Exact <code class="xref py py-class docutils literal notranslate"><span class="pre">sympy.Integer</span></code> or simplified <code class="xref py py-class docutils literal notranslate"><span class="pre">sympy.Expr</span></code>.</p>
+        </dd>
+        <dt class="field-odd">Raises<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>ValueError</strong> – If concrete integer inputs violate <code class="docutils literal notranslate"><span class="pre">sides</span> <span class="pre">&gt;=</span> <span class="pre">3</span></code> or <code class="docutils literal notranslate"><span class="pre">k</span> <span class="pre">&gt;=</span> <span class="pre">1</span></code>.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.heteromecic_number">
+        <span class="sig-prename descclassname"><span class="pre">geometor.nicomachus.figurate_gnomons.</span></span><span class="sig-name descname"><span class="pre">heteromecic_number</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">n</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">sympy.Expr</span></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.heteromecic_number" title="Link to this definition">¶</a></dt>
+        <dd><p>Return the <code class="docutils literal notranslate"><span class="pre">n</span></code>-th oblong (<em>heteromecic</em>, <em>ἑτερομήκης</em>) number <span class="math notranslate nohighlight">\(n(n + 1)\)</span> (II.17).</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>n</strong> – Non-negative integer or symbolic expression.</p>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Exact <code class="xref py py-class docutils literal notranslate"><span class="pre">sympy.Integer</span></code> or simplified <code class="xref py py-class docutils literal notranslate"><span class="pre">sympy.Expr</span></code>.</p>
+        </dd>
+        <dt class="field-odd">Raises<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>ValueError</strong> – If concrete integer <code class="docutils literal notranslate"><span class="pre">n</span> <span class="pre">&lt;</span> <span class="pre">0</span></code>.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.pyramidal_number">
+        <span class="sig-prename descclassname"><span class="pre">geometor.nicomachus.figurate_gnomons.</span></span><span class="sig-name descname"><span class="pre">pyramidal_number</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sides</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">n</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">sympy.Expr</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">sympy.Expr</span></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.pyramidal_number" title="Link to this definition">¶</a></dt>
+        <dd><p>Return the <code class="docutils literal notranslate"><span class="pre">n</span></code>-th <code class="docutils literal notranslate"><span class="pre">sides</span></code>-gonal pyramidal number <span class="math notranslate nohighlight">\(\sum_{k=1}^n P(s, k)\)</span> (II.13–14).</p>
+        <div class="math notranslate nohighlight">
+        \[\Pi(s, n) = \frac{n(n + 1)\bigl((s - 2) n - (s - 5)\bigr)}{6}\]</div>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>sides</strong> – Number of base sides <code class="docutils literal notranslate"><span class="pre">s</span> <span class="pre">&gt;=</span> <span class="pre">3</span></code>.</p></li>
+        <li><p><strong>n</strong> – Pyramid height / layer count <code class="docutils literal notranslate"><span class="pre">n</span> <span class="pre">&gt;=</span> <span class="pre">0</span></code>.</p></li>
+        </ul>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Exact <code class="xref py py-class docutils literal notranslate"><span class="pre">sympy.Integer</span></code> or simplified <code class="xref py py-class docutils literal notranslate"><span class="pre">sympy.Expr</span></code>.</p>
+        </dd>
+        <dt class="field-odd">Raises<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>ValueError</strong> – If concrete integer inputs violate <code class="docutils literal notranslate"><span class="pre">sides</span> <span class="pre">&gt;=</span> <span class="pre">3</span></code> or <code class="docutils literal notranslate"><span class="pre">n</span> <span class="pre">&gt;=</span> <span class="pre">0</span></code>.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.construct_polygonal_gnomon_model">
+        <span class="sig-prename descclassname"><span class="pre">geometor.nicomachus.figurate_gnomons.</span></span><span class="sig-name descname"><span class="pre">construct_polygonal_gnomon_model</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sides</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">4</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">order</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">4</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult" title="geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult"><span class="pre">PolygonalGnomonResult</span></a></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.construct_polygonal_gnomon_model" title="Link to this definition">¶</a></dt>
+        <dd><p>Build an exact <code class="xref py py-class docutils literal notranslate"><span class="pre">Model</span></code> of <code class="docutils literal notranslate"><span class="pre">sides</span></code>-gonal gnomon shells.</p>
+        <p>Supports triangular (<code class="docutils literal notranslate"><span class="pre">3</span></code>), square (<code class="docutils literal notranslate"><span class="pre">4</span></code>), pentagonal (<code class="docutils literal notranslate"><span class="pre">5</span></code>), hexagonal (<code class="docutils literal notranslate"><span class="pre">6</span></code>), and
+        heptagonal (<code class="docutils literal notranslate"><span class="pre">7</span></code>) lattices with <code class="docutils literal notranslate"><span class="pre">auto_intersect=False</span></code>. For <code class="docutils literal notranslate"><span class="pre">sides</span> <span class="pre">==</span> <span class="pre">4</span></code> uses the
+        Gaussian integer lattice <span class="math notranslate nohighlight">\(\mathbb{Q}^2\)</span>; for <code class="docutils literal notranslate"><span class="pre">sides</span> <span class="pre">in</span> <span class="pre">{3,</span> <span class="pre">5,</span> <span class="pre">6,</span> <span class="pre">7}</span></code> uses
+        Nicomachus’s Book II, Ch. 12 decomposition into <code class="docutils literal notranslate"><span class="pre">(sides</span> <span class="pre">-</span> <span class="pre">2)</span></code> equilateral triangular
+        sectors in <span class="math notranslate nohighlight">\(\mathbb{Q}(\sqrt{3})\)</span> so every shell step has exact unit quadrance.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>sides</strong> – Number of polygon sides (<code class="docutils literal notranslate"><span class="pre">3</span> <span class="pre">&lt;=</span> <span class="pre">sides</span> <span class="pre">&lt;=</span> <span class="pre">7</span></code>).</p></li>
+        <li><p><strong>order</strong> – Number of gnomon shells to construct (<code class="docutils literal notranslate"><span class="pre">1</span> <span class="pre">&lt;=</span> <span class="pre">order</span> <span class="pre">&lt;=</span> <span class="pre">6</span></code>).</p></li>
+        </ul>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Verified <a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult" title="geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult"><code class="xref py py-class docutils literal notranslate"><span class="pre">PolygonalGnomonResult</span></code></a>.</p>
+        </dd>
+        <dt class="field-odd">Raises<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>ValueError</strong> – If <code class="docutils literal notranslate"><span class="pre">sides</span></code> is outside <code class="docutils literal notranslate"><span class="pre">3..7</span></code> or <code class="docutils literal notranslate"><span class="pre">order</span> <span class="pre">&lt;</span> <span class="pre">1</span></code>.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.construct_nicomachus_cubes_model">
+        <span class="sig-prename descclassname"><span class="pre">geometor.nicomachus.figurate_gnomons.</span></span><span class="sig-name descname"><span class="pre">construct_nicomachus_cubes_model</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">order</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">4</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.NicomachusCubesResult" title="geometor.nicomachus.figurate_gnomons.NicomachusCubesResult"><span class="pre">NicomachusCubesResult</span></a></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.construct_nicomachus_cubes_model" title="Link to this definition">¶</a></dt>
+        <dd><p>Build an exact <code class="xref py py-class docutils literal notranslate"><span class="pre">Model</span></code> proving <span class="math notranslate nohighlight">\(\sum_{k=1}^n k^3 = T_n^2\)</span> (II.20).</p>
+        <p>Pairs Nicomachus’s odd-number block partition
+        (<span class="math notranslate nohighlight">\(1 = 1^3,\; 3 + 5 = 2^3,\; 7 + 9 + 11 = 3^3, \dots\)</span>) with the exact L-gnomon
+        square dissection of <span class="math notranslate nohighlight">\([0, T_n]^2\)</span> at triangular coordinates
+        <span class="math notranslate nohighlight">\(T_k = k(k + 1) / 2\)</span>, verifying symbolically that the <code class="docutils literal notranslate"><span class="pre">k</span></code>-th gnomon polygon has
+        area <span class="math notranslate nohighlight">\(T_k^2 - T_{k-1}^2 = k^3\)</span>.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>order</strong> – Highest integer <code class="docutils literal notranslate"><span class="pre">n</span> <span class="pre">&gt;=</span> <span class="pre">1</span></code> (default <code class="docutils literal notranslate"><span class="pre">4</span></code>, where <span class="math notranslate nohighlight">\(T_4 = 10\)</span> and
+        <span class="math notranslate nohighlight">\(1 + 8 + 27 + 64 = 100\)</span>).</p>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Verified <a class="reference internal" href="#geometor.nicomachus.figurate_gnomons.NicomachusCubesResult" title="geometor.nicomachus.figurate_gnomons.NicomachusCubesResult"><code class="xref py py-class docutils literal notranslate"><span class="pre">NicomachusCubesResult</span></code></a>.</p>
+        </dd>
+        <dt class="field-odd">Raises<span class="colon">:</span></dt>
+        <dd class="field-odd"><p><strong>ValueError</strong> – If <code class="docutils literal notranslate"><span class="pre">order</span> <span class="pre">&lt;</span> <span class="pre">1</span></code>.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.nicomachus.figurate_gnomons.verify_figurate_identities">
+        <span class="sig-prename descclassname"><span class="pre">geometor.nicomachus.figurate_gnomons.</span></span><span class="sig-name descname"><span class="pre">verify_figurate_identities</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.nicomachus.figurate_gnomons.verify_figurate_identities" title="Link to this definition">¶</a></dt>
+        <dd><p>Verify symbolically all Nicomachean figurate, oblong, pyramidal, and cube laws.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Returns<span class="colon">:</span></dt>
+        <dd class="field-odd"><p>Summary dictionary of verified symbolic identities and perfect numbers.</p>
+        </dd>
+        <dt class="field-even">Raises<span class="colon">:</span></dt>
+        <dd class="field-even"><p><strong>AssertionError</strong> – If any identity fails exact SymPy verification.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        </section>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../equality_tree/index.html" title="geometor.nicomachus.equality_tree">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../../../../index.html">Modules</a>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../sphinx_ext/index.html" title="geometor.nicomachus.sphinx_ext"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../../../../../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../../../../../log/26.316-initial-codex.html">Initial Codex & Symbolic Engine — Introductio Arithmetica (Hoche 1866 Teubner & D’Ooge 1926 Critical Text)</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../../../../../types/book.html">book</a></li>
+        <li><a href="../../../../../types/log.html">log</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../../../../../introductio_arithmetica/concordance.html"  >Concordance</a></li>
+        <li><a href="../../../../../introductio_arithmetica/glossary.html"  >Glossary</a></li>
+        <li><a href="../../../../../changelog.html"  >changelog</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 2026, GEOMETOR • Hoche Teubner (1866) & D'Ooge Michigan (1926) Critical Codex.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../../../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../../../../_static/documentation_options.js?v=59fadc99"></script>
+  <script src="../../../../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../../../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../../../../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+  <script src="../../../../../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

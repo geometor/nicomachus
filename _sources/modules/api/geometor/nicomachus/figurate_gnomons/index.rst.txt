@@ -1,0 +1,285 @@
+geometor.nicomachus.figurate_gnomons
+====================================
+
+.. py:module:: geometor.nicomachus.figurate_gnomons
+
+.. autoapi-nested-parse::
+
+   Sieve, Perfect Numbers, Polygonal Gnomons & Nicomachus's Cubes Theorem (Book I.13–16; Book II.6–20).
+
+   Formalizes Nicomachus of Gerasa's theory of absolute number (*καθ' ἑαυτὸ ποσόν*) and figurate
+   geometry of arithmetic:
+
+   - **Sieve of Eratosthenes** (*κόσκινον Ἐρατοσθένους*, I.13): Sieving the odd progression
+     :math:`3, 5, 7, 9, \dots` by arithmetic strides to separate prime & incomposite numbers
+     from secondary & composite numbers.
+   - **Abundant, Deficient & Perfect Numbers** (I.14–16): Classification by aliquot sum
+     :math:`\sigma'(n)` and the Euclid–Nicomachus generation of :math:`6, 28, 496, 8128`.
+   - **Polygonal Numbers & Gnomons** (II.7–12): Exact arithmetic gnomons
+     :math:`g(s, k) = 1 + (s - 2)(k - 1)`, polygonal numbers :math:`P(s, n)`, triangular
+     decomposition :math:`P(s, n) = T_n + (s - 3) T_{n-1}`, and planar :class:`~geometor.model.Model`
+     constructions over :math:`\mathbb{Q}` and :math:`\mathbb{Q}(\sqrt{3})`.
+   - **Same & Other — Squares vs. Heteromecic Numbers** (II.17–19): Odd gnomons summing to
+     :math:`n^2` (*ταὐτόν*, Same) vs. even gnomons summing to :math:`n(n + 1)` (*θάτερον*, Other).
+   - **Pyramidal Numbers & Nicomachus's Sum-of-Cubes Theorem** (II.13–16, II.20): Odd blocks of
+     length :math:`k` summing to :math:`k^3` and L-gnomon square dissection proving
+     :math:`\sum_{k=1}^n k^3 = T_n^2`.
+
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.nicomachus.figurate_gnomons.PolygonalGnomonResult
+   geometor.nicomachus.figurate_gnomons.NicomachusCubesResult
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.nicomachus.figurate_gnomons.sieve_of_eratosthenes
+   geometor.nicomachus.figurate_gnomons.classify_abundant_deficient_perfect
+   geometor.nicomachus.figurate_gnomons.euclid_nicomachus_perfect_numbers
+   geometor.nicomachus.figurate_gnomons.polygonal_number
+   geometor.nicomachus.figurate_gnomons.polygonal_gnomon
+   geometor.nicomachus.figurate_gnomons.heteromecic_number
+   geometor.nicomachus.figurate_gnomons.pyramidal_number
+   geometor.nicomachus.figurate_gnomons.construct_polygonal_gnomon_model
+   geometor.nicomachus.figurate_gnomons.construct_nicomachus_cubes_model
+   geometor.nicomachus.figurate_gnomons.verify_figurate_identities
+
+
+Module Contents
+---------------
+
+.. py:class:: PolygonalGnomonResult
+
+   Result bundle for an exact planar polygonal-gnomon construction.
+
+   :ivar sides: Number of polygon sides ``s >= 3``.
+   :ivar order: Number of gnomon shells ``n >= 1``.
+   :ivar model: Verified :class:`~geometor.model.Model` containing the pebble lattice and
+                gnomon shell chains.
+   :ivar shell_points: Mapping from 1-based shell index ``k`` to the ordered list of exact
+                       :class:`sympy.geometry.Point` instances added in the ``k``-th gnomon.
+   :ivar gnomon_counts: Tuple ``(g(s, 1), ..., g(s, n))`` of shell pebble counts.
+   :ivar cumulative_counts: Tuple ``(P(s, 1), ..., P(s, n))`` of total polygonal counts.
+
+
+
+   .. py:attribute:: sides
+      :type:  int
+
+
+   .. py:attribute:: order
+      :type:  int
+
+
+   .. py:attribute:: model
+      :type:  geometor.model.Model
+
+
+   .. py:attribute:: shell_points
+      :type:  dict[int, list[sympy.geometry.Point]]
+
+
+   .. py:attribute:: gnomon_counts
+      :type:  tuple[int, ...]
+
+
+   .. py:attribute:: cumulative_counts
+      :type:  tuple[int, ...]
+
+
+.. py:class:: NicomachusCubesResult
+
+   Result bundle for Nicomachus's Sum-of-Cubes square dissection (Book II, Ch. 20).
+
+   :ivar order: Highest base ``n >= 1`` in :math:`1^3 + 2^3 + \dots + n^3 = T_n^2`.
+   :ivar triangular_side: Master square side :math:`T_n = n(n + 1) / 2`.
+   :ivar model: Verified :class:`~geometor.model.Model` containing the master square and
+                all ``n`` L-gnomon polygons.
+   :ivar odd_blocks: Mapping from ``k`` (``1..n``) to the tuple of ``k`` consecutive odd
+                     integers whose sum equals ``k**3``.
+   :ivar shell_areas: Mapping from ``k`` (``1..n``) to the exact symbolic area of the ``k``-th
+                      gnomon polygon in ``model``.
+   :ivar total_area: Exact symbolic area :math:`T_n^2` of the master square.
+
+
+
+   .. py:attribute:: order
+      :type:  int
+
+
+   .. py:attribute:: triangular_side
+      :type:  sympy.Integer
+
+
+   .. py:attribute:: model
+      :type:  geometor.model.Model
+
+
+   .. py:attribute:: odd_blocks
+      :type:  dict[int, tuple[int, ...]]
+
+
+   .. py:attribute:: shell_areas
+      :type:  dict[int, sympy.Expr]
+
+
+   .. py:attribute:: total_area
+      :type:  sympy.Integer
+
+
+.. py:function:: sieve_of_eratosthenes(limit: int = 100) -> dict[str, Any]
+
+   Execute Nicomachus's odd-number *koskinon* of Eratosthenes up to ``limit`` (I.13).
+
+   Nicomachus sets out the odd integers :math:`3, 5, 7, 9, \dots` (treating the dyad ``2`` as
+   the principle of the even rather than an odd prime) and marks composite odd numbers by
+   striding ``p`` places among the odds (i.e. step ``2*p`` in integer value) from each
+   unmarked prime ``p``.
+
+   :param limit: Upper integer bound ``>= 3``.
+
+   :returns: Dictionary containing ``odd_sequence``, ``odd_primes``, ``all_primes`` (including ``2``),
+             ``odd_composites``, and ``witness_factors`` mapping each composite odd to the ordered
+             tuple of sieving primes that strike it.
+
+   :raises ValueError: If ``limit < 3``.
+
+
+.. py:function:: classify_abundant_deficient_perfect(n: int) -> dict[str, Any]
+
+   Classify a positive integer ``n >= 2`` by its proper aliquot parts (Book I, Chs. 14–16).
+
+   :param n: Integer ``>= 2`` to classify.
+
+   :returns: Dictionary with ``n``, ``aliquot_parts``, ``aliquot_sum``, ``classification``
+             (``"perfect"``, ``"superabundant"``, or ``"deficient"``), and Nicomachean Greek/Latin
+             labels.
+
+   :raises ValueError: If ``n < 2``.
+
+
+.. py:function:: euclid_nicomachus_perfect_numbers(count: int = 4) -> list[dict[str, Any]]
+
+   Generate the first ``count`` Euclid–Nicomachus even perfect numbers (I.16; *Elem.* IX.36).
+
+   Accumulates dyadic powers :math:`1 + 2 + 4 + \dots + 2^{p-1} = 2^p - 1`; whenever the sum
+   is prime, multiplies it by the final dyadic term :math:`2^{p-1}` to yield
+   :math:`P = 2^{p-1}(2^p - 1)`. For ``count = 4``, yields Nicomachus's canonical tetrad
+   ``6, 28, 496, 8128`` across units, tens, hundreds, and thousands.
+
+   :param count: Number of even perfect numbers to generate (``1 <= count <= 7``).
+
+   :returns: List of dictionaries detailing ``exponent``, ``mersenne_prime``, ``last_dyadic_term``,
+             ``perfect_number``, and verified ``aliquot_sum``.
+
+   :raises ValueError: If ``count < 1`` or ``count > 7``.
+
+
+.. py:function:: polygonal_number(sides: int | sympy.Expr, n: int | sympy.Expr) -> sympy.Expr
+
+   Return the exact ``n``-th ``sides``-gonal number :math:`P(s, n)` (Book II, Chs. 8–12).
+
+   .. math::
+
+       P(s, n) = \frac{(s - 2) n^2 - (s - 4) n}{2} = n + (s - 2)\frac{n(n - 1)}{2}
+
+   :param sides: Number of sides ``s >= 3`` (concrete integer or symbolic expression).
+   :param n: Term index ``n >= 1`` (concrete integer or symbolic expression).
+
+   :returns: Exact :class:`sympy.Integer` (for integer inputs) or simplified :class:`sympy.Expr`.
+
+   :raises ValueError: If concrete integer inputs violate ``sides >= 3`` or ``n >= 0``.
+
+
+.. py:function:: polygonal_gnomon(sides: int | sympy.Expr, k: int | sympy.Expr) -> sympy.Expr
+
+   Return the ``k``-th arithmetic gnomon :math:`g(s, k) = 1 + (s - 2)(k - 1)` (II.7–11).
+
+   :param sides: Number of polygon sides ``s >= 3``.
+   :param k: 1-based gnomon shell index ``k >= 1``.
+
+   :returns: Exact :class:`sympy.Integer` or simplified :class:`sympy.Expr`.
+
+   :raises ValueError: If concrete integer inputs violate ``sides >= 3`` or ``k >= 1``.
+
+
+.. py:function:: heteromecic_number(n: int | sympy.Expr) -> sympy.Expr
+
+   Return the ``n``-th oblong (*heteromecic*, *ἑτερομήκης*) number :math:`n(n + 1)` (II.17).
+
+   :param n: Non-negative integer or symbolic expression.
+
+   :returns: Exact :class:`sympy.Integer` or simplified :class:`sympy.Expr`.
+
+   :raises ValueError: If concrete integer ``n < 0``.
+
+
+.. py:function:: pyramidal_number(sides: int | sympy.Expr, n: int | sympy.Expr) -> sympy.Expr
+
+   Return the ``n``-th ``sides``-gonal pyramidal number :math:`\sum_{k=1}^n P(s, k)` (II.13–14).
+
+   .. math::
+
+       \Pi(s, n) = \frac{n(n + 1)\bigl((s - 2) n - (s - 5)\bigr)}{6}
+
+   :param sides: Number of base sides ``s >= 3``.
+   :param n: Pyramid height / layer count ``n >= 0``.
+
+   :returns: Exact :class:`sympy.Integer` or simplified :class:`sympy.Expr`.
+
+   :raises ValueError: If concrete integer inputs violate ``sides >= 3`` or ``n >= 0``.
+
+
+.. py:function:: construct_polygonal_gnomon_model(sides: int = 4, order: int = 4) -> PolygonalGnomonResult
+
+   Build an exact :class:`~geometor.model.Model` of ``sides``-gonal gnomon shells.
+
+   Supports triangular (``3``), square (``4``), pentagonal (``5``), hexagonal (``6``), and
+   heptagonal (``7``) lattices with ``auto_intersect=False``. For ``sides == 4`` uses the
+   Gaussian integer lattice :math:`\mathbb{Q}^2`; for ``sides in {3, 5, 6, 7}`` uses
+   Nicomachus's Book II, Ch. 12 decomposition into ``(sides - 2)`` equilateral triangular
+   sectors in :math:`\mathbb{Q}(\sqrt{3})` so every shell step has exact unit quadrance.
+
+   :param sides: Number of polygon sides (``3 <= sides <= 7``).
+   :param order: Number of gnomon shells to construct (``1 <= order <= 6``).
+
+   :returns: Verified :class:`PolygonalGnomonResult`.
+
+   :raises ValueError: If ``sides`` is outside ``3..7`` or ``order < 1``.
+
+
+.. py:function:: construct_nicomachus_cubes_model(order: int = 4) -> NicomachusCubesResult
+
+   Build an exact :class:`~geometor.model.Model` proving :math:`\sum_{k=1}^n k^3 = T_n^2` (II.20).
+
+   Pairs Nicomachus's odd-number block partition
+   (:math:`1 = 1^3,\; 3 + 5 = 2^3,\; 7 + 9 + 11 = 3^3, \dots`) with the exact L-gnomon
+   square dissection of :math:`[0, T_n]^2` at triangular coordinates
+   :math:`T_k = k(k + 1) / 2`, verifying symbolically that the ``k``-th gnomon polygon has
+   area :math:`T_k^2 - T_{k-1}^2 = k^3`.
+
+   :param order: Highest integer ``n >= 1`` (default ``4``, where :math:`T_4 = 10` and
+                 :math:`1 + 8 + 27 + 64 = 100`).
+
+   :returns: Verified :class:`NicomachusCubesResult`.
+
+   :raises ValueError: If ``order < 1``.
+
+
+.. py:function:: verify_figurate_identities() -> dict[str, Any]
+
+   Verify symbolically all Nicomachean figurate, oblong, pyramidal, and cube laws.
+
+   :returns: Summary dictionary of verified symbolic identities and perfect numbers.
+
+   :raises AssertionError: If any identity fails exact SymPy verification.
+
+

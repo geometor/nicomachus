@@ -6,12 +6,32 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Demonstrations &mdash; GEOMETOR • nicomachus</title>
+
+  <title>Demonstrations — Nicomachus of Gerasa • GEOMETOR</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="canonical" href="https://geometor.github.io/nicomachus/demos/" />
+  <meta name="description" content="In strict accordance with GEOMETOR’s Content / Code Separation, the historical Book Codex (Introductio Arithmetica) contains zero embedded Python scripts. All executable symbolic proofs, ratio…" />
+  <meta property="og:site_name" content="GEOMETOR" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Demonstrations — Nicomachus of Gerasa • GEOMETOR" />
+  <meta property="og:description" content="In strict accordance with GEOMETOR’s Content / Code Separation, the historical Book Codex (Introductio Arithmetica) contains zero embedded Python scripts. All executable symbolic proofs, ratio…" />
+  <meta property="og:url" content="https://geometor.github.io/nicomachus/demos/" />
+  <meta property="og:image" content="https://geometor.github.io/nicomachus/_static/social/banner.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Nicomachus of Gerasa — GEOMETOR" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Demonstrations — Nicomachus of Gerasa • GEOMETOR" />
+  <meta name="twitter:description" content="In strict accordance with GEOMETOR’s Content / Code Separation, the historical Book Codex (Introductio Arithmetica) contains zero embedded Python scripts. All executable symbolic proofs, ratio…" />
+  <meta name="twitter:image" content="https://geometor.github.io/nicomachus/_static/social/banner.png" />
+  <meta name="twitter:image:alt" content="Nicomachus of Gerasa — GEOMETOR" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=99410eb1" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=81e79cc0" />
   <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" type="text/css" href="../_static/custom.css?v=7ec4242d" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
@@ -24,21 +44,21 @@
 <body class="book-theme-classical-serif">
   <header>
     <div class="logo">
-      <a href="../index.html">
-        <img src="../_static/logo.png" class="logo" alt="Logo"/>
+      <a href="../index.html" title="Home">
+        <img src="../_static/logo.png" class="logo" alt="GEOMETOR nicomachus"/>
+        <div class="org-repo">
+          <span class="org">GEOMETOR</span>
+          <span class="sep" aria-hidden="true">&bull;</span>
+          <span class="repo">nicomachus</span>
+        </div>
       </a>
-      <div class="org-repo">
-        <span class="org">GEOMETOR</span>
-        •
-        <span class="repo">nicomachus</span>
-      </div>
     </div>
     <nav aria-label="Header">
       <input type="checkbox" id="nav-Header-toggle" >
       <label for="nav-Header-toggle" >Header</label>
       <ul>
         <li>
-          <a href="../introductio_arithmetica/index.html"  >Introduction to Arithmetic</a>
+          <a href="../introductio_arithmetica/index.html"  >Introductio Arithmetica</a>
         </li>
         <li>
           <a href="../introductio_arithmetica/persons.html"  >People</a>
@@ -69,20 +89,18 @@
     <article class="book-layout book-reading-pane">
       <header class="book-header">
         <div class="book-header-bar">
-          <div class="book-header-identity">
-            <a class="book-portal-link" href="../index.html" title="Return to Project Portal">&larr; nicomachus</a>
-            <span class="book-header-sep">/</span>
-            <a class="book-title-link" href="../index.html">GEOMETOR • nicomachus</a>
-          </div>
+          <nav class="book-breadcrumbs" aria-label="Breadcrumb">
+            <span class="book-crumb-current is-section-root" aria-current="page">Demos</span>
+          </nav>
         </div>
         <div class="book-header-nav">
           <div class="book-nav-prev">
-            <a class="book-nav-btn" href="../about/index.html" title="About">&larr; <span class="nav-label">Prev</span></a>
+            <a class="book-nav-btn" href="../introductio_arithmetica/glossary.html" title="Glossary">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
           </div>
           <div class="book-nav-next">
-            <a class="book-nav-btn" href="../log/index.html" title="Log"><span class="nav-label">Next</span> &rarr;</a>
+            <a class="book-nav-btn" href="../about/index.html" title="About"><span class="nav-label">Next</span> &rarr;</a>
           </div>
         </div>
       </header>
@@ -90,11 +108,11 @@
         <section class="level-1" id="demonstrations">
         <span id="demos"></span><h1>Demonstrations<a class="headerlink" href="#demonstrations" title="Link to this heading">¶</a></h1>
         <p class="rubric">100% Exact Symbolic SymPy &amp; Rational Trigonometry Proofs of Nicomachus’s Arithmetical Geometry</p>
-        <p>In strict accordance with <strong>GEOMETOR’s Content / Code Separation</strong>, the historical Book Codex (<a class="reference internal" href="../introductio_arithmetica/index.html"><span class="doc">Introduction to Arithmetic</span></a>) contains zero embedded Python scripts. All executable symbolic proofs, ratio trees, figurate gnomon dissections, semicircle mean constructions, and polyhedral cube models live in <code class="docutils literal notranslate"><span class="pre">geometor.nicomachus</span></code> and the runnable <code class="docutils literal notranslate"><span class="pre">demos/*.py</span></code> scripts documented below—verified over exact <code class="docutils literal notranslate"><span class="pre">SymPy</span></code> rationals <span class="math notranslate nohighlight">\(\mathbb{Q}\)</span> and quadratic radicals <span class="math notranslate nohighlight">\(\mathbb{Q}(\sqrt{ac})\)</span> with <code class="docutils literal notranslate"><span class="pre">Model(...,</span> <span class="pre">auto_intersect=False)</span></code> and <strong>zero floating-point approximations</strong>.</p>
+        <p>In strict accordance with <strong>GEOMETOR’s Content / Code Separation</strong>, the historical Book Codex (<a class="reference internal" href="../introductio_arithmetica/index.html"><span class="doc">Introductio Arithmetica</span></a>) contains zero embedded Python scripts. All executable symbolic proofs, ratio trees, figurate gnomon dissections, semicircle mean constructions, and polyhedral cube models live in <code class="docutils literal notranslate"><span class="pre">geometor.nicomachus</span></code> and the runnable <code class="docutils literal notranslate"><span class="pre">demos/*.py</span></code> scripts documented below—verified over exact <code class="docutils literal notranslate"><span class="pre">SymPy</span></code> rationals <span class="math notranslate nohighlight">\(\mathbb{Q}\)</span> and quadratic radicals <span class="math notranslate nohighlight">\(\mathbb{Q}(\sqrt{ac})\)</span> with <code class="docutils literal notranslate"><span class="pre">Model(...,</span> <span class="pre">auto_intersect=False)</span></code> and <strong>zero floating-point approximations</strong>.</p>
         <hr class="docutils" />
         <section class="level-2" id="book-i-chs-13-16-1723-book-ii-chs-12-ratio-taxonomy-the-equality-unfolding-tree">
         <h2>1. Book I, Chs. 13, 16, 17–23 &amp; Book II, Chs. 1–2 — Ratio Taxonomy &amp; the Equality Unfolding Tree<a class="headerlink" href="#book-i-chs-13-16-1723-book-ii-chs-12-ratio-taxonomy-the-equality-unfolding-tree" title="Link to this heading">¶</a></h2>
-        <p><em>Codex Reference</em>: <a class="reference internal" href="../introductio_arithmetica/unit-2-inequality-equality-tree/unit-2-inequality-equality-tree-notes.html"><span class="doc">Unit II — Inequality &amp; the Equality Tree (Critical Notes)</span></a> · <em>Script</em>: <code class="docutils literal notranslate"><span class="pre">demos/equality_tree.py</span></code></p>
+        <p><em>Codex Reference</em>: <a class="reference internal" href="../introductio_arithmetica/book_01/sec_02_inequality_equality_tree/notes.html"><span class="doc">Unit II — Inequality &amp; the Equality Tree (Critical Notes)</span></a> · <em>Script</em>: <code class="docutils literal notranslate"><span class="pre">demos/equality_tree.py</span></code></p>
         <figure class="photon-picture photon-svg">
             <svg class="euclid-graphic" xmlns="http://www.w3.org/2000/svg" data-graphic-id="equality-unfolding-tree" width="860" height="524" viewBox="0 0 860 524" role="img" data-svg-scope="s-0a444bce">
           <style>
@@ -238,7 +256,7 @@
         <hr class="docutils" />
         <section class="level-2" id="book-ii-chs-620-polygonal-alpha-gnomons-same-other-nicomachus-s-sum-of-cubes-theorem">
         <h2>2. Book II, Chs. 6–20 — Polygonal Alpha-Gnomons, Same/Other &amp; Nicomachus’s Sum-of-Cubes Theorem<a class="headerlink" href="#book-ii-chs-620-polygonal-alpha-gnomons-same-other-nicomachus-s-sum-of-cubes-theorem" title="Link to this heading">¶</a></h2>
-        <p><em>Codex Reference</em>: <a class="reference internal" href="../introductio_arithmetica/unit-3-figurate-gnomons-cubes/unit-3-figurate-gnomons-cubes-notes.html"><span class="doc">Unit III — Figurate Gnomons &amp; Cubes (Critical Notes)</span></a> · <em>Script</em>: <code class="docutils literal notranslate"><span class="pre">demos/figurate_gnomons.py</span></code></p>
+        <p><em>Codex Reference</em>: <a class="reference internal" href="../introductio_arithmetica/book_02/sec_01_figurate_gnomons_cubes/notes.html"><span class="doc">Unit III — Figurate Gnomons &amp; Cubes (Critical Notes)</span></a> · <em>Script</em>: <code class="docutils literal notranslate"><span class="pre">demos/figurate_gnomons.py</span></code></p>
         <figure class="photon-picture photon-svg">
             <svg class="euclid-graphic" xmlns="http://www.w3.org/2000/svg" data-graphic-id="nicomachus-sum-of-cubes" width="860" height="440" viewBox="0 0 860 440" role="img" data-svg-scope="s-973c0adf">
           <style>
@@ -379,7 +397,7 @@
         <hr class="docutils" />
         <section class="level-2" id="book-ii-chs-2129-semicircle-means-ten-proportions-the-cube-s-teleiotate-analogia">
         <h2>3. Book II, Chs. 21–29 — Semicircle Means, Ten Proportions &amp; the Cube’s <em>Teleiotatē Analogia</em><a class="headerlink" href="#book-ii-chs-2129-semicircle-means-ten-proportions-the-cube-s-teleiotate-analogia" title="Link to this heading">¶</a></h2>
-        <p><em>Codex Reference</em>: <a class="reference internal" href="../introductio_arithmetica/unit-4-ten-means-cube-harmony/unit-4-ten-means-cube-harmony-notes.html"><span class="doc">Unit IV — Ten Means &amp; Cube Harmony (Critical Notes)</span></a> · <em>Script</em>: <code class="docutils literal notranslate"><span class="pre">demos/ten_means_and_cube.py</span></code></p>
+        <p><em>Codex Reference</em>: <a class="reference internal" href="../introductio_arithmetica/book_02/sec_02_ten_means_cube_harmony/notes.html"><span class="doc">Unit IV — Ten Means &amp; Cube Harmony (Critical Notes)</span></a> · <em>Script</em>: <code class="docutils literal notranslate"><span class="pre">demos/ten_means_and_cube.py</span></code></p>
         <figure class="photon-picture photon-svg">
             <svg class="euclid-graphic" xmlns="http://www.w3.org/2000/svg" data-graphic-id="three-classical-means-semicircle" width="880" height="440" viewBox="0 0 880 440" role="img" data-svg-scope="s-d51a5e92">
           <style>
@@ -561,13 +579,13 @@
         <div class="book-footer-ornament">&#10086;</div>
         <div class="book-footer-nav">
           <div class="book-nav-prev">
-            <a class="book-nav-btn" href="../about/index.html" title="About">&larr; <span class="nav-label">About</span></a>
+            <a class="book-nav-btn" href="../introductio_arithmetica/glossary.html" title="Glossary">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
-            <a class="book-toc-link" href="../index.html">GEOMETOR • nicomachus</a>
+            <a class="book-toc-link" href="../index.html">Nicomachus of Gerasa</a>
           </div>
           <div class="book-nav-next">
-            <a class="book-nav-btn" href="../log/index.html" title="Log"><span class="nav-label">Log</span> &rarr;</a>
+            <a class="book-nav-btn" href="../about/index.html" title="About"><span class="nav-label">Next</span> &rarr;</a>
           </div>
         </div>
       </footer>
@@ -601,10 +619,8 @@
     <aside class="aside-types">
       <h3>Types</h3>
       <ul>
-        <li><a href="../types/el.html">el</a></li>
+        <li><a href="../types/book.html">book</a></li>
         <li><a href="../types/log.html">log</a></li>
-        <li><a href="../types/notes.html">notes</a></li>
-        <li><a href="../types/summary.html">summary</a></li>
       </ul>
     </aside>
   </div>
