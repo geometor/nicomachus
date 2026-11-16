@@ -1,0 +1,51 @@
+                               TRANSLATION: BOOK 1I                                                  23 1
+
+
+tient, provided only that the mean term is seen to be in the same ratio
+to the lesser as the greater to the mean, and vice versa. Subtract
+always from the mean the lesser term, whether it be first or last in
+order, and set down the lesser term itself as the first term of your new
+series; then put as your second term what remains from the second
+after the subtraction; then after having subtracted the sum of the
+new first term and twice the new second term from the remaining num-
+ber - that is, the greater of the numbecs originally given you - make
+the remainder your third term, and the resulting numbers will be in
+some other ratio, naturally more primitive. 1 And if again in the same 2
+way you subtract the remainder from these same terms,' it will be
+found that your three terms have passed back into three othecs more
+primitive, and you will find that this always takes place as a conse-
+quence, until they are reduced to equality, whence by every necessity
+it appeacs evident that equality is the elementary principle of relative
+quantity.
+   There follows upon this speculation a most elegant principle, ex- 3
+tremely useful in its application to the Platonic psychogony 3 and
+the problem of all harmonic intervals; for in the Platonic passage we
+are frequently bidden, for the sake of the argument, to set up series
+of intervals of two, three, four, five, or an infinite number of sesquialter
+ratios, or two sesquitertians, sesquiquartans, sesquioctaves, or super-
+particulars of any kind whatsoever, and in each case three, four, or
+five of them, or as many as may be directed. It is reasonable that 4
+we should do this not in an unscientific, unintelligent fashion, it may
+be even blunderingly, but artistically, surely, and quickly, by the
+following procedure.
+
+                                        CHAPTER m
+
+  Every multiple will stand at the head' of as many superparticular 1
+ratios corresponding in name with itself as it itself chances to be re-
+moved from unity,!' and no more nor less under any circumstances.
+   I This is because the process is the reverse of the former.         Theon of Smyma, p. 110, 19 fI.,
+gives this rule, taking it from Adrastus.
+    1 For e:\ample, take 8, J2, 128 (quadruple series).        The first term of the new series will be 8;
+the second will be J2 - 8 = 24; the third will be 128 - [( 2 X 24) + 8l, or 72. This gives a
+triple series. Then !'oimilarly from 8, 24, 72 will be derived 8. 16, 32, the double series, and from
+the latter S, 8, 8, a series of equal terms.                    J See Plato, Tim4tus , 35 A ff.
+
+    , -irr>j(l'fTIl' : That is, with reference to the table in section 4; 'will head a column.'
+    • That i!'o, in the list of doubk"S (sec the table),
+
+
+
+
+                                                (,oogk              Or>9" .1 from
+                                                                UNrY£RSlTY Of MICHIGAN

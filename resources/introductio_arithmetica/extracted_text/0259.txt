@@ -1,0 +1,51 @@
+                              TRANSLATION: BOOK II                                            243
+
+of the square potentially first, 1, is 1; that of 4, the first in actuality,
+2; that of 9, actually the second, 3; that of 16, the next, actually
+the third, 4; that of the fourth, 5; of the fifth, 6, and so on in general 3
+with all that follow.
+   This numher also is produced 1 if the natural series is extended
+in. a line, increasing by It and , no longer the successive numbers
+are added to the numbers in order, as was shown before, but rather
+all those in alternate places, that is, the odd numhers. For the first,
+1, is potentially the first square; the second, 1 plus 3, is the first in
+actuality; the third, 1 plus 3 plus 5, is the second in actuality; the
+fourth, 1 plus 3 plus 5 plus 7, is the third in actuality; the next is
+produced by adding 9 to the former numbers, the next by the addi-
+tion of I I, and so on.
+   In these cases, also, it is a fact that the side of each consists of as 4
+many units as there are numhers taken into the slim to produce it.'
+
+
+
+                                      CHAPTER X
+
+   The pentagonal number is one which likewise upon its resolution I
+into units and depiction as a plane figure assumes the form of an equi-
+lateral pentagon. I, 5, 12, 22, 35, 51, 70, and analogous numbers are
+examples. Each side of the first actual pentagon, 5, is 2, for 1 is the 2
+side of the pentagon potentially first, ,; 3 is the side of 12, the second
+of those listed; 4, that of the next, 22; 5, that of the next in order, 35,
+and 6 of the succeeding one, SI, and so on. In general the side con-
+tains as many units as are the numbers that have been added to-
+gether to produce the pentagon, chosen out of the natural arithmetical
+series set forth in a row. For in a like and similar manner, there are
+added together to produce the pentagonal numbers 3 the terms hegin-
+ning with I to any extent whatever that are two places apart, that is,
+those that have a difference of 3.
+   1 Cf. Theon of Smyrna, U. cc. He adds the obvious generation of squares by multiplying num-
+bers by themselves (implied by Nicomachus, n. t8. 3) , and adds that the squares are alternately
+odd and even (p. 34, 3)' The method of Nicomachus was known to the old Pythagoreans; cf.
+Aristotle, Phyt., Ill. 4. and Cantor, op. cif., vol. I, p. 160.
+   2 So in the first square, I, the side is 1 and only one term is taken to produce it. In the sec·
+ond, 4, the side is 1 and two terms are taken to produce it (I + 3) ' Generallr, the algebraic sum
+                            • ,
+ f
+01,3   , 5 . . . tontermS lsn.
+   , Cf. Theon of Sm},ma, pp. 34. I f and 39, 14, on the derivation of pentagonals.
+
+
+
+
+                                                                 0.", •••1from
+                                              Coogk         UNrY£RSlTY Of MICHIGAN

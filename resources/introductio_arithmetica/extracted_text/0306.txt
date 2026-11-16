@@ -1,0 +1,45 @@
+                       NICOMACHUS OF GERASA
+
+is 2 n + I, and the following sequence of (n + I)' terms will give
+(n + I)'.
+   The algebraic proof is again by summation of an arithmetical series
+and follows without difficulty.
+   Both of these theorems and that of Nicomachus are special cases
+of the following more inclusive theorem:
+    In the series of odd numbers the sequence of n' terms, following
+upon the sequence of ten - I)n' terms which begin with I, has as
+sum n''''. For k = I this gives the theorem of Nicomachus and for
+1<"= 2 and 3 the theorems stated above.
+    My colleague, Mr. Norman Anning, further extends this general-
+ ization in the two following tables which give such sums to arrive at
+ even as well as odd powers of k.
+    In the series of odd numbers, if we omit the first p, then the sum of
+ the next q is n20+'; the possible values of p and q are exhibited in the
+ following table:
+       p                 q                          p                q
+ten' - I)n'             n'                      •     •     •    •    •
+ten' - I)n'-'                                 Hn2>-' - I)n'          n'
+ten' - I)nH                                   t(n"-' - I)n'          n'
+Similarly for even powers of n, if we omit the first p, then the sum of
+the next q terms is nU, values of p and q being given by the following
+table:
+       p                   q                                   p             q
+ten' - I)nH             n ....'                           Hn"-' - I)n'       n'
+ten' - I)nH             n>-'                               •   •   •     •    •
+   •       •   •   •       •                                       And, of course,
+                                                               o             n'
+kth powers can be so exhibited in E(!) different ways; whereE(!)
+denotes the number of integers less than ~.
+                                                      2
+   My former colleague, Mr. E. B. Escott, generalized my theorem as
+follows: In the series of odd numbers if the first t n' (n'-"-I) terms
+be omitted, the sum of the next n' terms is nl. This gives my the-
+orem for 1= 2 k + I, and Mr. Anning's results for other values of I.
+  These theorems are Greek in their nature and would have delighted
+the heart of Nicomachus.
+
+
+
+
+                                      Or",,, .1 If '"'
+                       (,oogk     UNN£RSlTY Of MICHIGAN

@@ -1,0 +1,42 @@
+         1. EXTENSIONS OF A THEOREM OF
+                    NICOMACHUS
+  LONG before the time of Nicomachus the fact that the sum of the
+first n odd numbers gives n' was known. The theorem of Nicomachus
+states 1 that if you take the nth sequence of n odd numbers, calling the
+first 1, the second 3, 5, the third 7, 9, II, and so on, you obtain n3 •
+   In considering this theorem it seemed to me that there should be
+analogous theorems for the fifth and seventh powers, and possibly for
+higher prime powers. The theorem for the fifth powers may be given
+as follows:
+   In the series of odd numbers, the first gives I'; omit the next one,
+and the following 4 give 2'; omit the following 3, and the next 9 give
+3'; omit 6, and the following 16 give 4'; omit 10, and the following
+25 give 5'; in general, omit n(n + ,) terms or a number equal to the
+                                            2
+
+nth triangular number and take the (n + I)' following to obtain
+(n + 1)'.
+I       5, 7,9, I I              19,21,···35
+   [31    4 terms   ['3, 'S, 171   9 terms   [37,39, ". 471
+49, SI, ... 79                             101, 103,    105, ... 149
+  16 terms    [81,83, ". 991        25 terms
+Each group of upper numbers consists of n2 terms and the sum is nE.;
+each gxoup of lower numbers consists of n(n + I) terms.
+                                                            2
+   The general proof consists of the summation of the n' terms of the
+given arithmetical series and follows without difficulty.
+   For the seventh powers the corresponding theorem is as follows:
+   In the series of odd numbers, the first one gives 17; omit the next 3
+and the following 8 give 27; omit the next IS and the following 27 give
+37 ; omit 42 tenns, take 64 and obtain 4'; omit <)0 terms, take 125
+terms and obtain 57; omit 165 terms, take 216 terms and obtain 6 7;
+. . . in general, omit a number of terms given by the product of the
+nth triangular number, multiplied by the (n + I)" odd number which
+                 1 2.20.5.   For the translation see page 263 or this volume.
+                                             'So
+
+
+
+
+                                                                Or",,, .1 If '"'
+                                            (,oogk        UNN£RSlTY Of MICHIGAN

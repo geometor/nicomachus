@@ -1,0 +1,52 @@
+                                TRANSLATION: BOOK II                                              '79
+
+extremes by the same ratio, and in the harmonic it is greater and
+smaller than the extremes by the same fraction of those same extremes.
+   Let there be given then, first, two even terms, between which we 2
+must find how the three means would be inserted, and what they are.
+Let them be ID and 40.
+   First, then, I fit to them the arithmetic mean. It is 25, and the at- 3
+tendant properties of the arithmetic proportion are all preserved; for
+as each term is to itself, so also is difference to difference; they are in
+equality, therefore. And as much as the greater exceeds the means
+by so much the latter exceeds the lesser term; the sum of the extremes 1
+is twice the mean; the ratio of the lesser terms' is greater than that of
+the greater; the product of the extremes' is less than the square of the
+mean by the amount of the square of the differences; and the middle
+term' is greater and less than the extremes by the same fraction of it-
+self, but by different fractions regarded as parts of the extremes.
+   If, however, I insert 20 as a mean between the given even terms, the 4
+properties of the geometrical proportion come into view and those of
+the arithmetic are done away with. For as the greater term is to the
+middle term, so is the middle term to the lesser; the product of the
+extremes is equal to the square of the mean; the differences are ob-
+served to be in the same ratio to one another as that of the terms;'
+neither in the extremes 6 alone nor in the middle term alone does there
+reside the sameness of the fraction concerned in the relative excess and
+deficiency of the terms, but in the middle term and one of the extremes
+by turns; and both between greater and smaller terms there is the
+              •
+same ratio.
+  But if I select ,6 as the mean, again the properties of the two former 5
+proportions disappear and those of the harmonic are seen to remain
+
+   t 40   + 10 - :: X 25.
+   '!!>JI.
+   ~ 151 -   (10 X 40) ... :l15 - IS'.
+   I  As the numerical difference is constant, it follows that the mean is both exceeded and exceeds
+by the same fractio n of itself (i.e., H or 4). But 15 compared with the e:\tremes is I of 10 and
+I of 40 .
+    • The differences in the series 10, 20,40 are 10 and 20. Both terms and differences are in the
+double ratio.
+    6 The reference is to the peculiarity of the geometrical proportion noted in 11. 25 . 3.    In this
+case the difference between 10 and 20 is the whole of 10 and half of 20; that between 20 and 40
+is the whole of 20 and haH of 40. If both the differences are viewed in relation either to the mean
+or to the respective extremes, the fraction is not constant; but if one difference be regarded as
+a fraction of the mean, while the other is regarded as a fraction of the extreme, there will be "iden-
+tity of the fraction of excess and defect."
+
+
+
+
+                                                                    Ot>9tr .1 If '"'
+                                                 (,oogk         UNN£RSlTY Of MICHIGAN

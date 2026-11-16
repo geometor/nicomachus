@@ -1,0 +1,58 @@
+    224                            NICOMACHUS OF GERASA
+
+  we can observe with greater exactitude and clearness in the table
+  studied above, for in comparison with the first row the succeeding
+  rows in order,' compared as whole rows, display the forms of the mul-
+  tiple in regular order up to infinity when they are all compared in
+  each case to the same first row; and when each row is compared to
+  all those above it, in succession, the second row being taken as our
+  starting point, all the forms of the superparticular are produced in
+  their proper order; and if we start with the third row,' all of those
+  beginning with the fifth that are odd in the series when they are com-
+  pared with this same third row, and those following it, will show all
+  the forms of the superpartient in proper order. In the case of the mul-
+  tiple superparticular, the comparisons will have a natural order of their
+  own if we start with the second row and compare the terms from the
+  fifth, first to first, second to second, third to third, and so on, and then
+  the terms of the seventh row to the third, those of the ninth to the
+  fourth, and follow the corresponding order as far as we are able to go.
+7 It is plain that here too the smaller terms have names corresponding
+  to the larger ones, with the prefix sub-, according to the nomenclature
+  given them all.
+
+                                        CHAPTER XXIII
+I   The multiple superpartient' is the remaining relation of number.
+  This, and the relation called by a corresponding name with the prefix
+  sub-, exist when a number contains the whole of the number compared
+  more than once (that is, twice, thrice, or any number of times) and
+  certain parts of it, more than one, either two, three, or four, and so on,
+2 besides.   These parts' are not halves, for the reasons mentioned above,
+  but either thirds, fourths, or fifths, and so on.
+3 From what has already been said it is not hard to conceive of the
+                                                      •
+        1 Referring to the table in chapter 19. the successive rows of which are multiples of the first
+    (since this is simply the multiplication table).
+       1 That is, the comparisons are to be 5th row with the Jd, 7th with the 4th, 9th with the 5th.
+    etc. Hence we will have:
+                             5- - -10 - -IS = etc. - -11 super b"lpartient·
+                             3      6     9            I'                     •
+                               7 14:n                 If              .   .
+                              -4 = -8 = -12 = etc. = - I ' su ....
+                                                              r-
+                                                                   rtnpartlcnt· ,
+                            9    18     27           It                    d .   .
+                            - = - -
+                            S   10
+                                       - - etc. = -
+                                       IS           I'
+                                                       survorqua
+                                                         .. ~
+                                                                            npartient , etc.
+       *Theon's definition is found p. 19, 15 ft. Hiller.
+       4 See 20. 2 above.
+
+
+
+
+                                   (,oogk             Or>9" .1 from
+                                                  UNrY£RSlTY Of MICHIGAN

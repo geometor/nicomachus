@@ -1,0 +1,52 @@
+    244                          NICOMACHUS OF GERASA
+
+       Unity is the first pentagon,' potentially, and is thus depicted:
+•
+
+
+                                                      a
+
+
+    5, made up of I plus 4, is the second, similarly represented:
+
+
+
+                                                            a
+                                                  a         a
+
+
+    12, the third, is made up out of the two former numbers with 7 added
+    to them, so that it may have 3 as a side, as three numbers have been
+    added to make it. Similarly the preceding pentagon,S, was the com-
+    bination of two numbers and had 2 as its side. The graphic represen-
+    tation of 12 is this:
+
+
+                                                  a       a
+                                              a                  a
+                                                                 a
+                                              a
+
+
+    The other pentagonal numbers will be produced by adding together
+    one after another in due order the terms after 7 that have the difference
+    3, as, for example, 10, 13, 16, 19, 22, 25, and so on. The pentagons
+    will be 22, 35, S', 70, 92, Iq, and so forth.
+       1The figures given are those found in MS G. The regular pentagonal arrangement is given
+    by M. Martin (01. dl.) in a way to show the numbers added in each instance. He takes these
+    from roitions of Theon and Iamblichus. but cf. Hoche, p. 87, critical Dotes. On the other band
+    the statements of 11. 12. 2 seem to ravor the schemes given by G.
+    Sid"                   (I)            (2)                             (3)            (4)
+
+
+    Number added:                     4                     7                   10
+                         o
+                                                                                     •
+                           1              5                              12              22
+
+
+
+
+                                  •
+                                                      Or",,, .1 If '"'
+                                 (,oogk           UNN£RSlTY Of MICHIGAN

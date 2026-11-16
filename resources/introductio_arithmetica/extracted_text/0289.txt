@@ -1,0 +1,58 @@
+                                        TRANSLATION: BOOK II                                                             273
+
+squares I only one mean term is discovered which preserves the geo-
+metric proportion, as antecedent to the smaller and consequent to
+the greater term, and never more than one. Hence we conceive of two
+intervals 2 between the mean term and each extreme, in the relation of
+similar ratios. Again, with two consecutive cubes 3 only two middle 7
+terms in proper ratio are found, in accordance with the geometric
+proportion, never more j hence there are three intervals, onc, that be-
+tween the mean terms compared to one another, and two between the
+extremes and the means on either side. Thus the solid forms are called 8
+three-dimensional and the plane ones two-dimensional ; for example,
+I and 4 are planes, and 2 a middle term in proportion, or again 4 and 9,
+two squares, and their middle term 6, held by the greater and holding
+the lesser term in the same ratio' as that in which one difference holds
+the other. The reason ' for this is that the sides of the two squares, one 9
+belonging peculiarly to each, both together produced this very number
+6. In cubes, however, for example 8 and '7, no longer one but two
+mean terms are found, I ' and 18, which put themselves and the terms
+    I Cf. Euclid, ElemenJs, VIII, 11 : "Th~re is one mean term in proportion
+                                                                          between two square
+numi>crs, and the square h3S to the square double the ratio of side to side " (IlUo TrTpa-yofJIIW.
+d.PI'Jj;'. fIr JdITGf dl'd).q-yO .. i~'rlll dpI9~r, «A / ~ 'rup4-rwlIOr f1'pOt 'rib 'rnp4-rwlIO' "'fI' >'CltTloIIA ).b-yo•
+• XII ~ .. tP ;, r>.n,pc\ f1'pOJ 'ri)ll f1'MVp4,). Theon of Smyma d oes not include this proposition, nor
+the following one, concerning cubes,; this is strange, since be is professedly offering belps to the
+study of Plato . .
+    , /lIA(I'T~,&<GTa : The Greek word may also be translated' intervals.' On the meaning of the
+word in tbis connection, cf. on n. 6. 3. These differences will bear to each other the ratio of the
+terms (cf. sect . 3 above).
+    , Cl. Euclid, EJefMniJ, VIII, 12 : uThere are two mean terms in proportion between two
+cubes, and cube has to cube thrice tbe ratio of side to side" {/l6o «(,/lw, dplBl'w, /160 I'l~cx drtdAay6,
+d~", dpl91U11, «Cll 6 «(,{JOJ f1'pOJ Th ""{Jo, Tp'fI'Mtf1to'G >.b-yo, 1;.:" t-"tp ?, f1').ttlpc\ f1'pOJ 'ri)ll f1'>'(I.Ip,h) .
+    'In general a proportion between successive squares would be 0 1 : 0(0                            +I ) _ 0 (0      +   I) :
+(a +    1 )1. The I1ltio of the sides would be 0 : 0            +
+                                                              I. The differences on either side would be
+at +   a - at _ a, and at + 2 0;            +
+                                          1 - a' - a ""' a       J. + So the diHerences have the same ratio
+as the terms themselves. In tbis k ind o f proportion tbe only 'intervals' are those between the
+first and middle terms and between the middle and last terms, whereas in a ny proportion with
+cubes as extremes, as a' : m'" ft : 11', there are three, between 01 and m, m a nd ft, and ft and bI.
+It is to be remarked that the same word, allin1)~, can be translated ' interval ' and 'dimension' in
+speaking of geometric squares or cubes. To Pythagoreans such a coincidence would mean much.
+    'If for example tbe cube! are a' and 11', the proportion ma}' be of the form 0;1 : a'b _ a' b: ab!
+ - ab' : bI; the constant ratio is a:b, and the differences will be a' - a'b, a'b - a02, and
+ab' - 02. But (01 - a'b)(abI - 11') = (atb - abl )!. The differences therefore may be put in
+continued proportion
+                                   ~'''';':-:..E:''~b
+                                             = a'b - ob' • whkh reduces to -a.
+                                   a'b - air    air - 11'                   b
+That is, the ratio between the differences is the same as that between the terms. In the case
+of cubes of prime numbers there would be eight further possible forms of the proportion, all of
+which obey this Jaw, as may be readily tested. If, however, the original numbers were not prime,
+the number of forms increases with the number of factors.
+
+
+
+
+                                                              c.,

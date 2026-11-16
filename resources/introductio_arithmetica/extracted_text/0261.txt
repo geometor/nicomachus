@@ -1,0 +1,48 @@
+                            TRANSLATION: BOOK II                                           245
+
+
+                                     CHAPTER XI
+
+   The hexagonal, heptagonal, and succeeding numbers will be set I
+forth in their series by following the same process, if from the natural
+series of number there be set forth series with their differences increas-
+ing by 1. For as the triangular number was produced by admitting
+into the summation the terms that differ by I and do not pass over
+any in the series; as the square was made by adding the terms that
+differ by • and are one place apart, and the pentagon similarly by add-
+ing terms with a difference of 3 and two places apart (and we have
+demonstrated these, by setting forth examples both of them and of
+the polygonal numbers made from them), so likewise the hexagons
+will have as their root-numbers I those which differ by 4 and are three
+places apart in the series, which added together in succession will
+produce 2 the hexagons. For example, I, 5, 9, 13, 17, 21, and so on;
+so that the hexagonal numbers produced will be I, 6, IS, .8, 45, 66,
+and so on, as far as one wishes to go.
+   The heptagonals, which follow these, have as their root-numbers 2
+terms differing by 5 and four places apart in the series, like I, 6, 11,
+16,21, .6,31,36, and so on. The heptagons that thus arise are I, 7, 18,
+34, 55, 8[, 1I2, 148, and so forth.
+  I That is, gnomons j the term being used in the broader sense. 5« on I. 9.•• and cf. n. 9· 3.
+  1 MS G gives the following diagram of the hexagonal number 15 :
+
+                                                •
+
+
+                               Cl.   _ _ _ _ _ _ .0.. ________   Cl.
+
+
+
+
+                               •                •                •
+
+                                Cl _________   _G-------- a.
+
+
+
+                                                 •
+
+
+
+
+                                                                Or",,, .1 If '"'
+                                              (,oogk        UNN£RSlTY Of MICHIGAN

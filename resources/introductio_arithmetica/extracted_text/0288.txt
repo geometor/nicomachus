@@ -1,0 +1,59 @@
+  272                             NICOMACHUS OF GERASA
+
+  containing the terms in both series, and then selecting the terms by
+  groups of three beginning with I, examine them, in each case setting
+  down the last of the former group as the starting point of the next,
+  we shall find that from the multiple relation - that is, the double -
+  all the kinds of superparticulars 1 appear one after the other, the sesqui-
+  alter, sesquitertian, sesquiquartan, and so on.
+6    It would be most seasonable, now that we have reached this point,
+  to mention a corollary that is of use to us for a certain Platonic theo-
+  rem: 2 for plane numbers are bound together always by a single mean,
+  solids by two, in the form of a proportion. For with two consecutive
+
+    1 The series of squares and beterom!!Cic numbers is 1, 2, 4, 6, 9, 12, 16, 20, 25. etc. Taking them
+ in groups of three as directed the following ratios appear :
+                                   I, 2, 4                   (double)
+                                   4, 6, 9                   (!leSQuialter)
+                                   9,12, 16                  (sesquitertian)
+                                   16, 20, 25                (sesquiquartan)
+        t The reference is to TimGtus, 32 A- B, and Nicomachus endeavors to elucidate a real difficulty
+ in the Platonic text. In stating the case as he does at first briefly and summarily ("planes are
+ always joined by one mean, solid numbers by two"), he doubtless quotes from memory, for he
+ does not report Plato precisely. Plato does not say that planes can have but one mean, but that
+ one suffices (d all,. hrlrdol' ••• la" 'Y1"tHffSII' TO TOii rll"O, ffW~, ~fJ. IUfflrr", &1' I~~p.m Tcl T~
+                                     ,.ii,.
+ I/ofS' IIlIl'Tl1' ~1I~~i,. 1(41 II1I1T~'" al - t1n~Ofla'1 "tap ,,6-1-0,. rpoff'1I(O ([1_,. Ta !SI tTT([~~ ,u..
+ ,u,.  OU/rOTf!, !SUo III cid JUffOT7fTff (1I1'''PpbTTOIIVIJ' ••• ). But Nicomachus, going on to restrict
+ the application of these two principles to coruecutive squares and consuuiiw: cubes would seem to
+ be trying to impose upon the Platonic passage an interpretation which would stand mathematical
+ scrutiny.
+     The words used by Plato, 1.,lr,30 .. and ffnpfoJ', are capable of a very broad interpretation
+ and difficulties would then arise. For example, a plane number could be any number of the form
+ ab, and supposing 11, b, c, and d to be prime integers, it would be impossible to find one rational
+ mean between the plane numbers lib and cd, for v'abed would be irrational. However, it would
+ always be possible to find a single mean between two successive squares, for if the squares are
+ 111 and (11 + 1)1, lI {a + I) will be a geometrical mean between them. Furthermore, Nicomachus's
+ statement about the cubes helps to dismiss a real difficulty in the second part of the Platonic
+ theorem, for there are certain solid numbers that can be put into a geometrical proportion with but
+ one mean (e.g., Archer-Hind, od /oc., cites 8, which is 2', and 512, which is 8', and the proportion
+ 8: 64 - 64: 512). But if by solid numbers Plato meant conseaJtive cubes, as Nicomachus says.
+ then it will be found that no single rational geometrical mean can be inserted between two such.
+ For if the cubes are'" and (a      +    1)', the geometrical mean would be a(a        +
+                                                                                      I )"'a{a + 1) and
+ would be irrational.
+     At the hands of modem commentators the Platonic passage has been subjected to somewhat
+ similar restriction. Archer-Hind in his note follows Martin for the most part, and declares bis
+ belief that Plato meant Irl"fllol' and t1TfpdJ' in the strictest possible sense, the fonner a number
+ of two factors only, the latter of three, all the factors being prime integers, and that in the case
+ of the solid numbers he restricts himself to cubes. Then it would be possible always to find one
+ geometrical mean between two squares (as at: ab "'" ab: 112), though in other pla.ne numbers two
+ means might be possible; and the possibility of two cubes with but onc rational geometrical mean
+ will be excluded, for if x is the mean between a' and Ii', it will have the irrational value obv' ab,
+ a and b being prime integers.
+
+
+
+
+                                                      0.",,, .1 If '"'
+                                  (,oogk          UNN£RSlTY Of MICHIGAN

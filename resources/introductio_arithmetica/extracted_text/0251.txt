@@ -1,0 +1,59 @@
+                                    TRANSLATION: BOOK II                                                 '35
+
+   But again, to take another start, this first form of the multiple which 4
+has thus been produced, together with the first form of the superpar-
+ticular,1 will produce the next form of the same class, that is, the second
+multiple, the triple; for from every multiple and sesquialter combined
+a triple of necessity arises. For example,' as the double of 6 is 12, and
+the sesquialter of this is 18, then immediately 18 is the triple of 6;
+and to take another method, if I do not care to make 12 the mean term,
+but rather 9, the sesquialter of 6, the same result will come about,
+without deviation and harmoniously; for while 18 is the double of
+9 it will preserve the triple ratio to 6. Hence from the sesquialter and
+the double, the first forms of the superparticular and the multiple,
+there arises by combination the second form of the multiple, the triple,
+and into them it is always resolved. For look you; 6, which is the 5
+triple of 2, will have a mean term 3, which will exhibit two ratios, the
+sesquialter with regard to 2, and the double ratio of 6 to itself.
+   But if this triple ratio,' likewise, the second form of the multiple, is
+    1 The sesquialter.
+    J Diagrams given in the MSS:
+
+6                             12                           18
+             double                    8e'JQ.uialter                   These principles may also be
+                                                                  demonstrated in general terms;
+                             triple
+
+                               9                           18
+          sesquialter                   double                    orm;       m+7;        2(m+;)- 3'",
+                            triple
+                                                                                          , ,
+                                                                  or, arithmetically, J . l     ,.. 3.
+
+
+
+    • Diagram from the MSS:
+             3                            9                                 12 (or, J. 4. Il)
+                           triple                   5eaquitertian
+
+                                      quadruple
+
+                                          16                               20 (or, 4. s. 20)
+                         quadruple                 sesquiquartan
+
+                                      quintuple
+
+             5                            25                                30 (or, 5.6, lO)
+                         quintuple                 Itrl!quiquintan
+
+                                      sextuple
+
+    Algebraic statements of tbe matter above:
+
+                              (a)        m,Jm;(3m+J3m)- .. ffJ,
+
+
+
+
+                                                  (,oogk             Or>9" .1 from
+                                                                UNrY£RSlTY Of MICHIGAN

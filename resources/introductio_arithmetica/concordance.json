@@ -8,7 +8,7 @@
   "loci": [
     {
       "locus": "I.1–2",
-      "unit": "unit-1-philosophy-quadrivium-primes",
+      "unit": "book_01/sec_01_philosophy_quadrivium_primes",
       "title": "Philosophy as Love of Wisdom; Eternal Immaterial Reality vs. Bodily Flux",
       "hoche_pages": "1–5",
       "dooge_pages": "181–183",
@@ -17,7 +17,7 @@
     },
     {
       "locus": "I.3",
-      "unit": "unit-1-philosophy-quadrivium-primes",
+      "unit": "book_01/sec_01_philosophy_quadrivium_primes",
       "title": "Magnitude (Pēlikon) vs. Multitude (Poson) & the Four Mathematical Sciences (Mathemata)",
       "hoche_pages": "5–9",
       "dooge_pages": "183–187",
@@ -26,7 +26,7 @@
     },
     {
       "locus": "I.4–5",
-      "unit": "unit-1-philosophy-quadrivium-primes",
+      "unit": "book_01/sec_01_philosophy_quadrivium_primes",
       "title": "Ontological Priority of Arithmetic via Asymmetric Co-Removal (Synanairein)",
       "hoche_pages": "9–12",
       "dooge_pages": "187–189",
@@ -35,7 +35,7 @@
     },
     {
       "locus": "I.6–7",
-      "unit": "unit-1-philosophy-quadrivium-primes",
+      "unit": "book_01/sec_01_philosophy_quadrivium_primes",
       "title": "Number in the Divine Mind as Cosmic Exemplar; Definitions of Number, Even, and Odd",
       "hoche_pages": "12–14",
       "dooge_pages": "189–192",
@@ -44,7 +44,7 @@
     },
     {
       "locus": "I.13",
-      "unit": "unit-1-philosophy-quadrivium-primes",
+      "unit": "book_01/sec_01_philosophy_quadrivium_primes",
       "title": "Prime & Incomposite Numbers and the Odd Sieve (Koskinon) of Eratosthenes",
       "hoche_pages": "29–36",
       "dooge_pages": "204–207",
@@ -53,7 +53,7 @@
     },
     {
       "locus": "I.16",
-      "unit": "unit-1-philosophy-quadrivium-primes",
+      "unit": "book_01/sec_01_philosophy_quadrivium_primes",
       "title": "Superabundant, Deficient, and Perfect Numbers (6, 28, 496, 8128)",
       "hoche_pages": "39–44",
       "dooge_pages": "209–212",
@@ -62,7 +62,7 @@
     },
     {
       "locus": "I.17–18",
-      "unit": "unit-2-inequality-equality-tree",
+      "unit": "book_01/sec_02_inequality_equality_tree",
       "title": "Absolute vs. Relative Quantity; Equality and the Five Species of Inequality; Multiple Ratios",
       "hoche_pages": "44–49",
       "dooge_pages": "212–216",
@@ -71,7 +71,7 @@
     },
     {
       "locus": "I.19",
-      "unit": "unit-2-inequality-equality-tree",
+      "unit": "book_01/sec_02_inequality_equality_tree",
       "title": "Superparticular (Epimoric) Ratios (3:2 Hemiolios, 4:3 Epitritos, 9:8 Epogdoos)",
       "hoche_pages": "49–55",
       "dooge_pages": "216–219",
@@ -80,7 +80,7 @@
     },
     {
       "locus": "I.20–22",
-      "unit": "unit-2-inequality-equality-tree",
+      "unit": "book_01/sec_02_inequality_equality_tree",
       "title": "Superpartient (Epimeric), Multiple Superparticular, and Multiple Superpartient Ratios",
       "hoche_pages": "55–64",
       "dooge_pages": "219–225",
@@ -89,7 +89,7 @@
     },
     {
       "locus": "I.23",
-      "unit": "unit-2-inequality-equality-tree",
+      "unit": "book_01/sec_02_inequality_equality_tree",
       "title": "The Three Prostagma Commands Unfolding Every Inequality from Equality (1, 1, 1)",
       "hoche_pages": "64–72",
       "dooge_pages": "225–229",
@@ -98,7 +98,7 @@
     },
     {
       "locus": "II.1–2",
-      "unit": "unit-3-figurate-gnomons-cubes",
+      "unit": "book_02/sec_01_figurate_gnomons_cubes",
       "title": "Primordial Element & Inverse Three-Subtraction Reduction to Equality (1, 1, 1)",
       "hoche_pages": "73–76",
       "dooge_pages": "230–232",
@@ -107,7 +107,7 @@
     },
     {
       "locus": "II.6–7",
-      "unit": "unit-3-figurate-gnomons-cubes",
+      "unit": "book_02/sec_01_figurate_gnomons_cubes",
       "title": "Alpha-Graphia Pebble Notation; Point, Line, Triangle, and Dimensional Generation of Number",
       "hoche_pages": "82–86",
       "dooge_pages": "237–240",
@@ -116,7 +116,7 @@
     },
     {
       "locus": "II.8–12",
-      "unit": "unit-3-figurate-gnomons-cubes",
+      "unit": "book_02/sec_01_figurate_gnomons_cubes",
       "title": "Triangular, Square, Pentagonal, Hexagonal & Heptagonal Numbers by Arithmetic Gnomons; Polygonal Decomposition",
       "hoche_pages": "86–99",
       "dooge_pages": "240–248",
@@ -125,7 +125,7 @@
     },
     {
       "locus": "II.13–17",
-      "unit": "unit-3-figurate-gnomons-cubes",
+      "unit": "book_02/sec_01_figurate_gnomons_cubes",
       "title": "Solid Pyramidal, Truncated, Cubic, Scalene, Spherical/Recurrent & Heteromecic Numbers",
       "hoche_pages": "99–112",
       "dooge_pages": "248–257",
@@ -134,7 +134,7 @@
     },
     {
       "locus": "II.18–19",
-      "unit": "unit-3-figurate-gnomons-cubes",
+      "unit": "book_02/sec_01_figurate_gnomons_cubes",
       "title": "Plato's Same (Tauton) and Other (Thateron); Alternating Weave of Squares n^2 and Oblongs n(n+1)",
       "hoche_pages": "112–117",
       "dooge_pages": "257–261",
@@ -143,7 +143,7 @@
     },
     {
       "locus": "II.20",
-      "unit": "unit-3-figurate-gnomons-cubes",
+      "unit": "book_02/sec_01_figurate_gnomons_cubes",
       "title": "Cubes from Consecutive Odd Blocks & Nicomachus's Sum-of-Cubes Theorem",
       "hoche_pages": "117–119",
       "dooge_pages": "261–263",
@@ -152,7 +152,7 @@
     },
     {
       "locus": "II.21–24",
-      "unit": "unit-4-ten-means-cube-harmony",
+      "unit": "book_02/sec_02_ten_means_cube_harmony",
       "title": "Proportion (Analogia) Strictly vs. Broadly; Arithmetic & Geometric Proportions and Properties",
       "hoche_pages": "119–131",
       "dooge_pages": "264–273",
@@ -161,7 +161,7 @@
     },
     {
       "locus": "II.25–26",
-      "unit": "unit-4-ten-means-cube-harmony",
+      "unit": "book_02/sec_02_ten_means_cube_harmony",
       "title": "The Harmonic Mean (3, 4, 6 & 6, 8, 12), Cube Dimension Naming, and Musical Consonances",
       "hoche_pages": "131–136",
       "dooge_pages": "273–279",
@@ -170,7 +170,7 @@
     },
     {
       "locus": "II.27–28",
-      "unit": "unit-4-ten-means-cube-harmony",
+      "unit": "book_02/sec_02_ten_means_cube_harmony",
       "title": "Insertions Between Two Even or Odd Extremes & the Complete System of Ten Pythagorean Means",
       "hoche_pages": "136–144",
       "dooge_pages": "279–284",
@@ -179,7 +179,7 @@
     },
     {
       "locus": "II.29",
-      "unit": "unit-4-ten-means-cube-harmony",
+      "unit": "book_02/sec_02_ten_means_cube_harmony",
       "title": "The Most Perfect Three-Dimensional & Four-Term Proportion (6 : 8 :: 9 : 12)",
       "hoche_pages": "144–147",
       "dooge_pages": "284–286",

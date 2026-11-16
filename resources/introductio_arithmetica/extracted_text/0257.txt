@@ -1,0 +1,43 @@
+                              TRANSLATION : BOOK Il
+
+Hence the triangle is elementary among these figures; for everything
+else is resolved into it, but it into nothing else. From it the others
+likewise would be constituted, but it from no other. It is therefore
+the element of the others, and has itself no element. Likewise, as 5
+the argument proceeds in the realm of numerical forms, it will confirm
+this statement.
+
+
+                                     CHAPTER VIII
+
+   Now a triangular number is one which, when it is analyzed into [
+units, shapes into triangular form the equilateral placement of its
+parts in a plane. 3, 6, 10, IS, 21, 28, and so on, are examples of it;
+for their regular formations, expressed graphically, will be at once
+triangular and equilateral. As you advance you will find that such
+a numerical series as far as you like takes the triangular form, if you
+put as the most elementary form the one that arises from unity, so
+that unity may appear to be potentially a triangle,' and 3 the first
+actually.
+   Their sides will increase by the successive numbers, for the side of •
+the one potentially first is unity; that of the one actually first , that
+is, 3, is 2; that of 6, which is actually second, 3; that of the third, 4 ;
+the fourth, 5; the fifth, 6; and so on.
+   The triangular number is produced 2 from the natural series of num- 3
+ber set forth in a line, and by the continued addition of successive
+tenns, one by one, from the beginning j for by the successive combi-
+nations and additions of another term to the sum, the triangular num-
+bers in regular order are completed. For example, from this natural
+series, I, 2, 3, 4, S, 6, 7, 8, 9, 10, Il, 12, 13, 14, IS, I take the first term
+and have the triangular number which is potentially first, I, £; then
+adding the next term I get the triangle actually first, for 2 plus I equals
+3. In its graphic representation it is thus made up: Two units,
+side by side, are set beneath one unit, and the number three is made
+   1 This   is again the distinction between potential and actual, and according also to Theon,
+p. 33 , 5. the monad is the first potentially triangular number. On what potentiality might be
+concei\,ed to mean in this case, d . Boethius, 11 . 8 : Nom si CllrfClorum mal" tsl ,.umerIWu", (s(: .
+""itas), qukquid ill his quae ab ea na.scunlur "umeriJ i~ilu, 1UUJJe eJt tU ipJa IWturaIi quadam
+pole.state ctmtilJl!aJ .
+    'Theon of Smyrna, p. 32,22 fr., notes this mdhod of generating triangular numbers. Cf. also
+Johanne! P~iasi mus, Geomtt,ia, in Ne~ Jah,b . f. Phil. u. Patd ., vol. XCII, 1865 , pp. 366 ff.
+(f. 40 a of the Munich MS there cited).

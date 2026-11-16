@@ -1,0 +1,52 @@
+     '74                           NICOMACHUS OF GERASA
+
+   in the same ratio as that which the differences bear to one another;
+   and the reason of this is that the two mean tenns are the products of the
+   sides of the cubes commingled, 2 times 2 times 3 and 3 times 3 times 2.
+10    In general, then, if a square takes a square, that is, multiplies it, it
+   always makes a square j but if a square multiplies a heteromecic number,
+   or vice versa, it never makes a square; and if cube multiplies cube, a
+   cube will always result, but if a heteromecic number multiplies a cube,
+   or vice versa, never is the result a cube. In precisely the same way if an
+   even number multiplies an even number, the product is always even
+   and if odd multiplies odd always odd; but if odd multiplies even or
+11 even odd, the result will always be even and never odd.'       These mat-
+   ters will receive their proper elucidation in the commentary on Plato,2
+   ,,;th reference to the passage on the so-called marriage number in the
+   Republic introduced in the person of the Muses. So then let us pass
+   over to the third proportion, the so-called hannonic, and analyze it.
+
+
+                                          CHAPTER XXV
+
+ I     The proportion that is placed in the third order is one called the
+     harmonic,3 which exists whenever among three terms the mean on
+     examination is observed to be neither in the same ratio to the extremes,
+     antecedent of one and consequent of the other, as in the geometric
+     proportion, nor with equal intervals, but an inequality of ratios, as in the
+        I The propositions stated here are:
+                                    (I) mln' is always a square j
+                                    (z) m1 n(n + t) is never a squarej
+                                    (J) """. is always a cube;
+                                    (4) ",,"(" + I) is never a cube;
+                                    (5) :I m X :I " is always even;
+                                    (6) (2 m ± 1)(2" ± I) is always oddj
+                                    (7) 2 m ( 2 " ± I) is always even.
+         tThe formula for the 'marriage number' occurs in the Republk, 546 A ff. The meaning of
+     the passage is still disputed . Nicomachus may perhaps refer to some work of his in which he
+     commented on the Republic.
+        ·Iamblichus Cp. 100,19 ff.) names this among the three kinds of proportion known to Pythag·
+     oras and his school, by whom it was called VrI!Jl'Ctn-1Q because it was considered to be subcon-
+     trary to the arithmetic; the name, however, was changed to ap~""o~, harmonic, by the schools
+     of Arcbytas and Hippasus, because they found in it the harmonic ratios. Iamblichus adds
+     (po loB, 3 ff.) that the fundamental forms (... u8~~I) of this proportion are 2, 3, 6 and 3, 4, 6, the
+     multiples or superparticulars of which terms J:rive other examples of it. On account of this limi-
+     tation the name 'fixed,' 'established' (~(T'T"KIli«) was given to the harmonic proportion by some.
+     It will be noted that Nicomachus uses the examples mentioned, although he does not speak of
+     such a limitation.
+
+
+
+
+                                                     0.",,, .1 If '"'
+                                  Coogk          UNN£RSlTY Of MICHIGAN

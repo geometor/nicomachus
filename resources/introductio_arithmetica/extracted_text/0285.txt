@@ -1,0 +1,61 @@
+                                  TRANSLATION: BOOK II
+
+differences, but of unequal quality; for this reason it is arithmetic.
+If on the contrary it partook of similar quality, but not quantity, it
+would be geometric instead of arithmetic.
+   A tbing is peculiar 1 to this proportion that does not belong to any 5
+other, namely, the mean is either half of, or equal to, the sum of the
+extremes, whether the proportion be viewed as continuous or disjunct
+or by alternation; for either the mean term with itself, or the mean
+terms with one another, are equal to the sum of the extremes.
+   It has still another peculiarity; what ratio each term has to itself,' 6
+this the differences have to the differences; that is, they are equal.
+   Again, the thing which is most exact, and which has escaped the
+notice of the majority,' the product of the extremes when compared to
+the square of the mean is found to be smaller than it by the product of
+the differences, whether they be I, 2,3,4, or any number whatever.
+  In the fourth place,' a thing which all previous writers also have
+noted, the ratios between the smaller terms are larger, as compared to
+those between the greater terms. It will be shown that in the har-
+monic proportion, on the contrary, the ratios between the greater
+terms are greater than those between the smaller; for this reason
+the harmonic proportion is subcontrary to the arithmetic, and the
+    I The translation here follows the reading of Ast {-7'& KilT'" t1vviJelTlr :ri;i" 4/Cpw. 4J'TXUU)r '1'00
+p/t1otJ ~ ((fOl' ni, ~ll1'atf tlJ>UI). Stated in algebraic fonn, and letting a     > > >
+                                                                                 b c d, the proposi-
+tions in this section are:
+        I. (r) a - b - , - d, or (2) a - b ,. b - c (typical/orms of IM proKression).
+,hul H. (I) a + d - b + c, or (2) a + c - 2 b.
+But if I is given, it is evident that the following also are true:
+      Ill. a - c = b - d (byaJlernaJion),
+,hen IV. a+d - b+c.
+The proposition is noticed by Theon, loco cit., and by Nicomachus himself in his Handhook of
+Music (c. 8, p. 251, 13 Von Jan).
+   t Boethius, IT. 43 : N amque om"is lermi,,11S sibi twzuaJis tst tl dil!m:nliae differtnliis SlInt cuquales.
+
+   'Boethius, Il. 43, says that this was discovered by Nicomachus. In general this proposition
+may be stated: If a - b = b - c, b2 - GC ., (0 - b) (b - cl - (a - b)2 = {b - c.)1. Nicoma-
+chus in his Handbook of .\[usic (c. 8. p. 251, IS, Von Jan) again mentions this property of tbe
+proportion.
+   'Thus in the series I, J, 3, comparing the ratio of the lesser terms (I, 2) and that of the greater
+(2,3),
+                                            2:1>3: 2 •
+But in a similar comparison of the terms of the harmonic progression 3. 4. 6.
+                                            4:3<6:4.
+In a geometric progression, as t, 2,4,
+                                            2;1=4: 2•
+as Nicomachus proceeds to say. Nicomachus states that this fact had been noted by all previous
+writers. The statement is borne out by the fact that it occurs as early as Archytas (fragment 2,
+Diels, DU Fragme"te del' Vorsokratiker, 1', p. 334, in Porphyry, I" Plot Harm., p. 267). For its
+enunciation by Archytas, see p. 21, where he is quoted .
+
+
+
+
+                                            •
+
+
+
+
+                                                                        Or",,, .1 I< '"'
+                                                    (,oogk          UNN£RSlTY Of MICHIGAN

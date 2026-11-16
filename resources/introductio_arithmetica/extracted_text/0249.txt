@@ -1,0 +1,49 @@
+                       TRANSLATION: BOOK II                               233
+
+  The double ratio in the breadth of the table
+                     I 2 4 8 16 32 64
+                       3 6 12 24 48 96
+The triple ratio along    9 18 36 72 144 The sesquialter ra-
+  the hypotenuse              27 54 108 216      tio in the depth
+                                  8, 162 3 24    of the table
+                                       243 486
+                                             729
+
+                              CHAPTER IV
+  We must make a similar table in illustration of the triple:                    I
+
+  The triple ratio in the breadth
+                   I   3 9 27          8,     243   729
+                       4 12 36        108     3 24 97 2
+                                                                      •
+The quadruple             16 48       144     43 2 12 96 The    sesqUlter-
+                                                            •           •
+  ratio on the                64      '9 2    57 6 '7 28   tlan   ratio ID
+  hypotenuse                          25 6    768 23 0 4   the depth
+                                             102 4 30 72
+
+                                                   40 96
+  In the foregoing table we sball observe that in the same way the
+first triple, 3, stands at the head of but one sesquitertian ratio, 4, its own
+sesquitertian, which immediately shuts off the development of another
+like it; for 4 is not divisible by 3, and hence will not have a sesquiter-
+tian. The second triple is 9, and hence will begin a series of only two
+sesquitertian ratios, 12, its own, and 16, that of 1:2 j but 16 cuts off
+further progress, for it is not divisible by 3 and hence will not have a
+sesquitertian. Next in order is the triple 27, three times removed 2
+from I, for the triples progress thus: 1,3,9,27. Therefore this number
+will stand at the head of three sesquitertian ratios and no more. The
+first is its own, 36; the second the sesquitertian of 36, 48; the third
+that of the last, 64, and this no longer has a third part and therefore
+will not admit of a sesquitertian. The fourth leads a series of four ses-
+quitertians and the fifth, of course, five.
+   Such, then, is the illustration; and for the other multiples let the 3
+manner of your tables be the same. Observe that likewise here, as
+we found to be true in our previous discussion, Nature shows us that
+the doubles are more nearly original than the triples, the triples than
+
+
+
+
+                                    (,oogk          Or>9" .1 from
+                                                UNrY£RSlTY Of MICHIGAN

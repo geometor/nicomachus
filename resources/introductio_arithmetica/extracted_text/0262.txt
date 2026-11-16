@@ -1,0 +1,54 @@
+                                  NICOMACHUS OF GERASA
+
+3    The octagonals I increase after the same fashion, with a difference
+  of 6 in their root-numbers and corresponding variation in their total
+  constitution.
+4    In order that, as you survey all cases, you may have a rule generally
+  applicable,' note that the root-numbers of any polygonal differ by 2
+  less than the number of the angles shown by the name of the polyg-
+  onal - that is, by I in the triangle, 2 in the square, 3 in the pentagon,
+  4 in the hexagon,s in the heptagon, and so on, with similar increase.
+
+
+
+
+                                         CHAPTER XII
+I      Concerning the nature of plane polygonals this is sufficient for a
+    first Introduction. That, however, the doctrine of these numbers is
+    to the highest degree in accord with their geometrical representation,
+    and not out of harmony with it, would be evident, not only from
+    the graphic representation in each case, but also from the following:
+       1 The following illustrations are from the same MS:
+
+                                        DerifHllion of ~ptagona1s.-
+
+                   .             7
+                                  ..
+                                               18
+                                                    ..        ..         34
+                   1,2,3.4,5,6,7.8,9,10,11,12, Ijl 14, 15. 16, 17, 18, 19. 20, :n
+                                                                                 .   55
+
+
+
+
+                             •
+
+
+                        •         •
+
+
+       • Cf. also Theon, pp. 34. 6 and p. 40, II if. The principle here stated by Nicomachus had already
+    been given by Hypsicles (ca. ISo B,C.), whose theorem is cited by Diophantus (De Polytt:nlis Nu-
+    muis. Prop. IV) as follows: "If as many numbers as you please be set out at equal interval
+    from I, and the interval is I, their sum is a triangular number; if the interval is 2, a SQuare; if
+    3, a pentagonal; and generally the number of angles is greater by 2 than the interval." Dio-
+    phantus gives this as a theorem of 'Hypsicles I .. ~P"' , ' which may mean either that it occurred
+    'in a definition' which be made somewhere in his writings, or that it was in a book called ~Opot.
+    Cf. Ne%elmann, op. cit., p . 466; Cow, op. ciJ., p. 87.
+
+
+
+
+                                                     0.>911 .1 If '"'
+                                  (,oogk         UNN£RSlTY Of MICHIGAN

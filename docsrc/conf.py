@@ -33,7 +33,9 @@ repo_name = "nicomachus"
 
 setup_globals(org, org_name, repo, repo_name)  # noqa: F405
 
-project = "GEOMETOR • nicomachus"
+site_title = "Nicomachus of Gerasa"
+project = site_title
+html_title = f"{site_title} • {org_name}"
 author = "Nicomachus of Gerasa • Ed. GEOMETOR"
 copyright = "2026, GEOMETOR • Hoche Teubner (1866) & D'Ooge Michigan (1926) Critical Codex"
 
@@ -46,7 +48,10 @@ configure_local_intersphinx(intersphinx_mapping, _REPO_ROOT)  # noqa: F405
 html_theme = "foundation"
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
+autoapi_dirs = [str(_REPO_ROOT / "src" / "geometor")]
 autoapi_add_toctree_entry = False
 autoapi_options = [opt for opt in autoapi_options if opt != "imported-members"]  # noqa: F405
+if "modules/api/geometor/nicomachus/index.rst" not in exclude_patterns:  # noqa: F405
+    exclude_patterns.append("modules/api/geometor/nicomachus/index.rst")  # noqa: F405
 napoleon_use_ivar = True
 suppress_warnings = ["autoapi.python_import_resolution", "toc.not_included"]

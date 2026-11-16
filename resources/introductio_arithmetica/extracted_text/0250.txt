@@ -1,0 +1,52 @@
+    234                                 NICOMACHUS OF GERASA
+
+    the quadruples, these latter than the quintuples, and so on throughout.
+    For the highest rows of figures, across the breadth of the tables, if
+    they are doubles, will have doubles lying parallel to them, and the
+    numbers lying diagonally, on the hypotenuse, will be of the next
+    succeeding variety, greater by I, that is, triples, seen also in a series of
+    parallel lines. If, however, there are triples across the breadth, the
+    diagonals will by all means be quadruples; if the former are quadruples,
+    then the latter are quintuples, and so forth.
+
+                                                 CHAPTER V
+
+I     It remains, after we have explained what other ratios are produced
+    by combination of ratios, to pass on to the succeeding topics of the
+    Introduction.
+•      Now the first two ratios of the superparticular, combined, produce
+    the first ratio of the multiple, namely, the double; for every double
+    is a combination of sesquialter and sesquitertian, and every sesquialter
+    and sesquitertian I combined will invariably produce a double.
+          For example,! since 3 is the sesquialter of 2, and 4 the sesquitertian
+ of 3, 4 will be the double of 2, and is a combination of sesquialter and
+ sesquitertian. Again, as 6 is the double of 3, we shall find between
+ them some number 3 that will of necessity preserve the sesquitertian
+ ratio to the one and the sesquialter to the other; and indeed 4, lying
+ between 6 and 3, gives the sesquitertian ratio to 3 and the sesquialter
+ to 6.
+3 It was rightly said, then, that the double, when resolved, is resolved
+ into the sesquialter and the sesquitertian, and that when sesquialter
+ and sesquitertian are combined there arises the double, and that the
+ first two forms of the superparticular combined make the first form of
+ the multiple.
+          I   That is, when the last term of the first is the same as the first term of the second ratio; for
+    given the general formula for the sesquialter, a        + a.
+                                                              , then the sesquitertian of the second term,
+    11   + a + a + ~ = :2 a, is the double of the first term; or, more simply,~. . ! = 2,
+               3
+              :2    6                                                              :2   3
+         I Some of the MSS diagrammatically illustrate thus:
+
+                              2                            3                            •
+                                       sesquialter
+
+                                                        double
+
+          I That is, given (l and l   a, in double ratio, f X a -     t X :3 Cl.
+
+
+
+
+                                         (,oogk             Or>9" .1 from
+                                                        UNrY£RSlTY Of MICHIGAN

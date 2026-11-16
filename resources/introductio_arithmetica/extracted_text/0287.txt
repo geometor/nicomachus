@@ -1,0 +1,53 @@
+                              TRA:-iSLATION: BOOK II                                       ')1
+
+
+each other as the terms to those adjacent to them, the greater to the
+less, and vice versa. Still another property is that the greater terms
+have as a difference, with respect to the lesser, the lesser terms them-
+selves, and similarly difference differs from difference, by the smaller
+difference itself, if the terms are set forth in the double ratio; I in the
+triple ratio both terms and differences will have as a difference twice
+the next smaller, in the quadruple ratio thrice, in the quintuple four
+times, and so on.
+  Geometric proportions come about not only among the multiples, 4
+but also among all the superparticular, superpartient, and mixed forms,
+and the peculiar property of this proportion in all cases is preserved,
+that in the continued proportions the product of the extremes is equal
+to the square of the mean, but in disjunct proportions, or those with a
+greater number of terms,2 even if they are not continued, but wi.th an
+even number of terms, that the product of the extremes equals that of
+the means.
+   As an illustration of the fact that in all the relations, all kinds of mul- 5
+tiples, superparticuiars, superpartients, and mixed ratios the peculiar
+property of this proportion is preserved, let that suffice 3 and be suffi-
+cient for us wherein we fashioned, beginning with equality, by the
+three rules all the kinds of inequality out of one another, when they
+were in both direct and reverse order; for each act of fashioning and
+each series set forth is a geometric proportion with all the aforesaid
+properties as well as a fourth, namely, that they keep the same ratio'
+in both the greater and the smaller terms. Moreover, if we set forth
+the series shared by both heteromecic and square numbers, one by one,
+  1 Doubles                 1:2  4   8   16    32    64    128
+    Differences              1:2   4   8    16    32    64
+    Differences of differences    I      :2      4     8    16      32
+                           In general, 2,,+1 - 2" = 2"
+    Triples                 I     3         9      27    81     243     729
+    Differences                2     6        18      54    162     486
+    Differences of differences    4     12     36     108    324
+                          In general, 3,,+1 - J" - 3"(3 - I) = 2 X 3"
+    Quadruples              I     4     16      64     256     1,024      4,096
+    Differences                3     12     48     191     168      3,072
+    Differences of differences    9     36     144     576     2,304
+                          In general, 4"H - 4" = 4"(4 - I) "" 3 X 4"
+  I Thus in the series 2, 4, 8, 16, 32, 64
+                              2   X 64 = 4 X 32 - 8 X 16 (= 128).
+  I Cf. 1. 2J . 7 ff .
+   • That is, in the series of doubles (1, 2,4,8,16,32, etc.) the ratio between 32 and 16 is the
+same as that between 2 and I.
+
+
+
+
+                                               (,oogk             Or",,, .1 If '"'
+                                                              UNN£RSlTY Of MICHIGAN
+                                                                                                   -

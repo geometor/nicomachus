@@ -1,0 +1,53 @@
+        266                                NICOMACHUS OF GERASA
+
+      either side of it, to the greater as consequent 1 and to the lesser as ante-
+      cedent, such a proportion is called continued; for example, I, 2,4 is a
+      continued proportion as regards quality,' for 4: 2 equals 2: I, and con-
+      versely r: :2 equals :2 : 4. In quantity, I, 2, 3, for example, is a contin-
+      ued proportion,3 for as 3 exceeds :2, so :2 exceeds I, and conversely, as I
+      is less than 2, by so much 2 is less than 3.
+    6    If, however, one term answers to the lesser term, and becomes its
+      antecedent and a greater term, and another, not the same, takes the
+      place of consequent and lesser term with reference to the greater, such
+      a mean and such a proportion is called no longer continued, but dis-
+      junct j for example, as regards quality, I, :2, 4, 8, for :2 : I equals 8 : 4,
+      and conversely I : 2 equals 4 : 8, and again I : 4 equals 2 : 8 or 4 : I equals
+      8::2 j and in quantity, I, 2,3,4, for as I is exceeded by 2, by so much 3 is
+      exceeded by 4, or as 4 exceeds 3, so 2 exceeds I, and by interchange, as
+      3 exceeds I, so 4 exceeds :2, or as I is exceeded by 3, by so much :2 is
+      exceeded by 4.
+
+                                                   CHAPTER XXII
+
+    I     The first three proportions,' then, which are acknowledged by all
+        the ancients, Pythagoras, Plato, and Aristotle, are the arithmetic,
+•       geometric, and harmonic; and there are three others subcontrary to
+           IOn the meaning of 'antecedent' and 'consequent,' see the note on I. 19. 2.
+           'On the meaning of 'quality' referring to ratios, compare on H . 20.3. With reference to
+        proportions, as here, the meaning is consistent with the former usage. A proportion as regards
+        quality (1((['T4 ra,,~'T'1'T01, 1((['T4 'T1I '11"016", 'll"oibr'l'TI) is a series of terms exhibiting similar ratios,
+        and a proportion in quantity ('((['T4 'll"OiT67'17'"01, 1((['Ta. 'T& 'l"0IT6" 'll"0iT67'17'"1) is an arithmetical pro-
+        gression, with a common difference. Cf. also H. 22. 2; 23· 4 below.
+           , (fU"ll'id"l: Theon, p. 82, 10, uses the term crUWX1\f and all1P'Iid,." for' disjunct' (in Nicoma-
+        chus, IhfttV"YI'I"'1. sect. 6).
+           4 Iamblichus adds concerning the history of the proportions (p. 100, 19): "But of old there
+        were but three means in the days of Pythagoras and the mathematicians of his time, the arith-
+        metic, the geometric, and the third in order, which was once called the subcontrary, but had its
+        name forthwith changed to hannonic by the schools of Archytas and Hippasus, because it seemed
+        to embrace the ratios that govern the harmonized and tuneful. And it was formerly called sub-
+        contrary heeause its character was somehow subcontrary to the arithmetic. . •. After this name
+        had been changed, those who came later, Eudoxus and his school, invented three more means,
+        and called the fourth properly subcontrary because its properties were subcontrary to the har-
+        monic _ . • and the other two they named simply from their order, fifth and sixth. The ancients
+        and their successors thought that this number, i.e., six, of means could be set up; but the modems
+        have found four more in addition, devising their formation from the terms and the intervals."
+        Cf. also p. tI3, 16 tf. He adds (p. II6, I if.) that the first six were in use from Plato's time to
+        Eratosthenes, and that the other four were devised by Myonides and Euphranor, both Pythago-
+        reans, who lived later. Apparently Moderatus of Gades, as well as Nicomacbus, employed all
+        ten forms (see Proclus, In Tim., H. 18. 29 ff. Diehl).
+
+
+
+
+                                                                  Or",,, .1 If '"'
+                                             Coogk            UNN£RSlTY Of MICHIGAN

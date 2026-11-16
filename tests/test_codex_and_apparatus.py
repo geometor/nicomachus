@@ -29,12 +29,16 @@ EXPECTED_FIGURES = (
     "cube-most-perfect-proportion.svg",
 )
 
-EXPECTED_UNITS = (
-    "unit-1-philosophy-quadrivium-primes",
-    "unit-2-inequality-equality-tree",
-    "unit-3-figurate-gnomons-cubes",
-    "unit-4-ten-means-cube-harmony",
-)
+EXPECTED_BOOKS = {
+    "book_01": [
+        "sec_01_philosophy_quadrivium_primes",
+        "sec_02_inequality_equality_tree",
+    ],
+    "book_02": [
+        "sec_01_figurate_gnomons_cubes",
+        "sec_02_ten_means_cube_harmony",
+    ],
+}
 
 
 def _slug(key: str) -> str:
@@ -100,13 +104,19 @@ def test_all_nine_svgs_valid_xml_and_wired_refs() -> None:
 
 
 def test_four_track_units_and_zero_py_file_in_codex() -> None:
-    """Verify all 4 units have -en, -el, -summary, -notes tracks and zero py_file scripts."""
-    for unit in EXPECTED_UNITS:
-        unit_dir = BOOK_DIR / unit
-        for suffix in ("en", "el", "summary", "notes"):
-            track_file = unit_dir / f"{unit}-{suffix}.rst"
-            assert track_file.is_file(), f"Missing track {track_file}"
-            assert track_file.stat().st_size > 500
+    """Verify Books I-II containers, 4 atomic section directories, tracks, and zero py_file."""
+    for book, sections in EXPECTED_BOOKS.items():
+        book_index = BOOK_DIR / book / "index.rst"
+        assert book_index.is_file(), f"Missing book index {book_index}"
+        assert book_index.stat().st_size > 500
+
+        for sec in sections:
+            sec_dir = BOOK_DIR / book / sec
+            assert sec_dir.is_dir(), f"Missing section dir {sec_dir}"
+            for track_file_name in ("index.rst", "el.rst", "summary.rst", "notes.rst"):
+                track_file = sec_dir / track_file_name
+                assert track_file.is_file(), f"Missing track {track_file}"
+                assert track_file.stat().st_size > 500
 
     for rst_path in BOOK_DIR.rglob("*.rst"):
         content = rst_path.read_text(encoding="utf-8")

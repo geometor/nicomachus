@@ -1,0 +1,50 @@
+                               TRANSLATION: BOOK II                                               '49
+
+either up and down 1 or across, the successive numbers in the rows
+are discovered to have as differences the triangles in regular order.
+
+
+                                     CHAPTER XIII
+
+   From this it is easy to see what the solid number is and how its I
+series advances with equal sides; for the number which, in addition
+to the two dimensions contemplated in graphic representation in a
+plane, length, and breadth, has a third dimension, which some call
+depth, others thickness, and some height, that number would be a
+solid number, extended in three directions and having length, depth,
+and breadth.
+   This first makes its appearance in the so-called pyramids. These,
+are produced from rather wide bases narrowing to a sharp apex, first
+after the triangular form 2 from a triangular base, second after the
+form of the square from a square base, and succeeding these after the
+pentagonal form from a pentagonal base, then similarly from the
+hexagon, heptagon, octagon, and so on indefinitely.
+   Exactly so among the geometrical solid figures; if one imagines three 3
+lines from the three angles of an equilateral triangle, equal in length
+to the sides of the triangle, converging in the dimension height to one
+and the same point, a pyramid would be produced, bounded by four
+triangles, equilateral and equal one to the other, one the original tri-
+angle, and the other three bounded by the aforesaid three lines. And 4
+again, if one conceives of four lines starting from a square, equal in
+length to the sides of the square, each to each, and again converging
+in the dimension height to one and the same point, a pyramid would
+be completed with a square base and diminishing in square form,
+bounded by four equilateral triangles and one square, the original
+     1 Ast, Tluol. Arith., p. 288, declares that lud .. ~,hor (the reading of the Paris MS for Hoche'!!
+lI'«lll'QTa r>..cf.Tor, p. 99. 5) is an interpolation, but Hoche retains the words on the authority of
+Philoponus. The triangular numben; arc the differences in the table taken 'in depth' (KilT!
+(J490r); for in reading down the second column the common difference is I, that of the third
+column is 3, of the fourth 6, and so on, the differences agreeing in turn with each of the triangular
+numbers. Thi;; observation is omitted by Boethius, who devotes lI. 19 to showing that the
+triangular numbers furnish the differences taken across the breadth. When the numbers of the
+table are compared with those of the same column but in the row next above, and the comparisons
+are carried across the whole table. the differences are found to be the triangular numbers.
+Algebraically the corresponding equation is the same as that given in the note above to 11. 12. 3.
+    , That is, successive sections paraUel to the base are triangular. On pyramids, cf. Theon,
+p. 42, 3 fI.
+
+
+
+
+                                                Coogk              Or",,, .1 If '"'
+                                                               UNN£RSlTY Of MICHIGAN                      -

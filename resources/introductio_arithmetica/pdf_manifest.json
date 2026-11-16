@@ -1,0 +1,12 @@
+{
+  "edition": "introductio_arithmetica",
+  "source_pdf": "resources/introductio_arithmetica/pdfs/hoche_1866_teubner.pdf",
+  "total_pages": 224,
+  "dpi": 300,
+  "preserve_color": false,
+  "folio_png_count": 348,
+  "rendered_new_count": 0,
+  "extracted_text_pages": 215,
+  "extracted_graphics_count": 0,
+  "extracted_graphics": []
+}

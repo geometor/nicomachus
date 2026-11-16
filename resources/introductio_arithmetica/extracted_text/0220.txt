@@ -1,0 +1,47 @@
+                             NICOMACHUS OF GERASA
+
+      When this is compared with another number of similar properties, it
+      is found that it cannot be measured by a measure common to the
+      other, nor does it have a fractional part with the same denominator
+      as those in the other. As an illustration, let 9 be compared with 25.
+      Each in itself is secondary and composite, but relatively to each
+      other they have only unity as a common measure, and no factors in
+      them have the same denominator, for the third part in the former
+      does not exist in the latter nor is the fifth part in the latter found in
+      the former.
+    2    The production of these numbers is called by Eratosthenes the
+      'sieve,' because we take the odd numbers mingled together and indis-
+      criminate and out of them by this method of production separate, as
+      by a kind of instrument or sieve, the prime and incomposite by them-
+      selves, and the secondary and composite by themselves, and find the
+      mixed class by themselves.
+    3 The method of the' sieve' is as follows. I set forth all the odd num-
+      bers in order, beginning with 3, in as long a serie~ as possible, and
+      then starting with the first I observe what ones it can measure, and I
+      :find that it can measure the terms two places apart, as far as we care
+      to proceed. And I find that it measures not as it chances and at
+      random, but that it will measure the first one, that is, the one two
+      places removed, by the quantity of the one that stands first in the series,
+      that is, by its own quantity, for it measures it 3 times; ancj the one
+      two places from this by the quantity of the second in order, for this it
+      will measure 5 times; and again the one two places further on by the
+      quantity of the third in order, or 7 times, and the one two places still
+      farther on by the quantity of the fourth in order, or 9 times, and so ad
+      infinitum in the same way.
+    4 Then taking a fresh start I come to the second number and observe
+      what it can measure, and find that it measures all the terms four
+      places apart, the first by the quantity of the first in order, or 3 times;
+      the second by that of the second, or 5 times; the third by that of the
+      third, or 7 times; and in this order ad infinitum.
+    5 Again, as before, the third term 7, taking over the measuring func-
+      tion, will measure terms six places apart, and the first by the quantity
+      of 3, the first of the series, the second by that of 5, for this is the second
+      number, and the third by that of 7, for this has the third position in
+      the series.
+    6 And analogously throughout, this process will go on without in-
+
+
+
+
+-                             (,oogk          Or>9" .1 from
+                                          UNrY£RSlTY Of MICHIGAN

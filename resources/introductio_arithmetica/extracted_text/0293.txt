@@ -1,0 +1,48 @@
+                                    TRANSLATION: BOOK Il                                                 '77
+    term to term.' Then the combination' of both of these, sesquialter
+    and sesquitertian, the diapason, which comes next, is in the double
+    ratio, 6 : 3 in both of the examples, the ratio of term to term.' The fol-
+    lowing interval, that of the diapason and diapente together,' which
+    preserves the triple ratio of the two of them together, since it is the com-
+    bination of double and sesquialter, is as 6: " the ratio of term to term
+    in the example in the triple ratio, and likewise of difference to differ-
+    ence in the same, and in the proportion with double ratio it is the ratio
+    of the greatest term to the difference between that term and the mean
+    term, or of the difference between the extremes to the difference be-
+    tween the smaller terms. The last and greatest interval, the so-called
+    di-diapason, as it were twice the douhle, which is in the quadruple
+    ratio,' is as the middle term in the proportion in the double ratio to the
+    difference between the lesser terms, or as the difference between the
+    extremes, in the example in the triple ratio, to the difference between
+    the lesser terms.
+       Some, however, agreeing with Philolaus, believe that the proportion 2
+    is called harmonic because it attends upon all geometric harmony, and
+    they say that 'geometric harmony' is the cube because it is harmo-
+    nized in all three dimensions, being the product of a number thrice
+    multiplied together. For in every cube' this proportion is mirrored;
+                                      I'
+    there are in every cube sides, 8 angles and 6 faces; hence 8, the mean
+    between 6 and 12, is according to harmonic proportion, for as the
+    extremes are to each other, so is the difference between greatest and
+       I That is, the sesquialter ratio may   be derived from the terms of the two harmonic proportion!
+    cited without calling in differences.   6: .. comes from the double ratio; 3 : 2, from the triple.
+       f   Ct. 11 . S. 2.
+       I In both series (2, 3. 6 and 3. 4, 6) the diapason OCCUI'1 among the terms (3: 6) .
+       • This, a triple ratio, is seen in the triple harmonic series 2, 3, 6 (a ) in the terms 6 and 2; (b) in
+    the differences (6 - J - 3 and J - 2 - t ); and in the double series 3. 4. 6 (a) in the ratio of
+•
+    6 to (6 - 4). i.e., 2, and (b) in the ratio between the difference of 6 and 3 and that between ..
+    and J. On the triple ratio as the combination of the double and the sesquialter, cf. n. S· 4.
+    The harmonic series t. 3. 6 is of the type that Nicomachus used in illustration in 11. S. as may
+    be seen from the foUowing arrangement:
+                            2                           3                             6
+                                   Se.qn;alteJo                     DolIbl.
+                                   (Di&_le)                      (Di&p.... )
+                                                     Tri'p1e
+                                     ( DiapuoD and »iapent. together)
+
+       'In the double series 3, 4, 6, it is the ratio of 4 to (4 - J - ) I; in the triple, 2, 3, 6, it is the
+    ratio of (6 - 2 - ) 4 to (3 - 2 =-) 1.
+        • Nicomachus shows fIrst that this series, 6, 8, 12, conforms lo all the tests of the harmonic
+    proportion just statw., and then that all the ratios of the harmonic intervals are to be found
+    aalOng its terms and differences.

@@ -1,0 +1,55 @@
+                                TRANSLATION: BOOK I
+
+   The following feature of the diagram, moreover, is of no less exact- I7
+ness. The terms at the corners are units; the onc at the beginning
+a simple unit, that at the end the unit of the third course, I and the
+other two units of the second course appearing twice; so that the
+product (of the first two) is equal to the square (of the last). Further- 18
+morc, in reading either way there is an even progress from unity to
+the tens, and again on the opposite sides two other progressions from
+10 to 100.
+   The terms on the diagonal from 1 to 100 are all square numbers, 19
+the products of equals by equals, and those flanking them on either
+side are all heteromecic, unequal, and the products of sides of which
+one is greater' than the other by unity; and so the sum 3 of two suc-
+cessive squares and h\ice the heteromecic numbers between them is
+always a square, and conversely a square is always produced from the
+two heteromecic numbers on the sides and twice the square between
+them.
+   An ambitious person might find many other pleasing things dis- 20
+played in this diagram, upon which it is not now the time to dwell,
+
+    1 Ast, Theol. A,ith., pp. 254-55. has in his note on this passage: "Unitates sunt tres, prima I,
+secunda 10, tertia 100 . . . I~ ~I~qx,p"a'n in distractione. h.e., oppositione vel decussatione." As
+Iamblichus explains (111 N;com. , p. 88, 14 ff. Pistelli), < monads of the second and third courses'
+(po"4r i5e'I'rfpwi5ollJ4il'l1, f'p""i5ouJJI",,) are Pythagorean terms for 10 and 100. This designation
+depends on their belief that the first decade epitomizes all number, and the {ollo\\;ng numbers
+simply repeat, in a sense, the first 10. So in the Thcol. Arith. (p. 59 Ast) we are informed that
+they called 10 Pan " because no number is naturally greater, but if any is so conceived it somehow
+circles about to it again in repetition; for the hundred is 10 decads, the thousand is 10 hundreds,
+and each of the others will come, taking the return path either to it or to one of the numbers up
+to it." This notion is of necessity linked with the doctrine that 10 is the perfect number, and as
+the author (probably Nicomachus himself) says just before the words quoted, 10 exists as the
+epitome of all numbers in itself in order to offset and control unlimited multitude, to act as "a
+measure for the whole and as it were a gnomon and a straight edge" in the hands of the creating
+deity. The units then form the first course, the tens the second, the hundreds the third, and so on,
+circling around 10 and its powers as the turning points of a race-course. Cf. also Nesselmann,
+Geschichu dtr Algebra,!. Th., p. 139 (Berlin, 1841). The' product of the 6rst two,' then, is I X
+100 _ 100, and the' square of the other' is 10" or 100.
+    1Hoche here (p. 54, 17 of the text) reads &"''''0'. It is hard to see what &"""0' InpoJjI, .."        ,
+would be. It is better to read ,b£.rou with Cl and two other MSS referring to lrMllpais (or
+perhaps cbl6d.lus has dropped out of the text; d. ....,.d.CIS 4~I",ol would be easily explicable and
+would balance l.,.d./Ct, Cn'). To illustrate the meaning of the passage it may be observed that
+the numbers' flaniUng' 4 are 2 and 6, which are respectively t X 2 and 1 X 3; 9 is Banked hy 6,
+and Il (1 X 3.3 X 4) , In general mt is flanked by (m - I)m and (m             + l )m': On heteromecic
+numbers, see II. 17.
+    J Thus 6 is the heteromecic number between 4 and 9 and 4 + 9 + (2 X 6) = 25 ,.. 51.           The
+general formula for this proposition would be "" + (m + 1)2 + 2 m(", + 1) _ (2 m                +  1)'.
+ Again,6and Ilflenk9; now6 + 12 + (2 X9) - 36""@,or,ingeneral,(m-l)"'+(",+I)m
+ + 2 nr = 4 ",1.
+
+
+
+
+                                                                   0.",., .1 from
+                                               (,oogk         UNrY£RSlTY Of MICHIGAN

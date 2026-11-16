@@ -83,9 +83,9 @@ def register_greek_book_track(book_mod: Any = None) -> bool:
             return f"{doc_dir}/{local_name}" if doc_dir else local_name
 
         is_unit_dir = not doc_dir or stem == os.path.basename(doc_dir)
-        el_cands = [_qual(f"{stem}.el"), _qual(f"{stem}_el"), _qual(f"{stem}-el")]
+        el_cands = [_qual(f"{stem}.el"), _qual(f"{stem}_el"), _qual(f"{stem}-el"), _qual(f"{stem}-greek")]
         if is_unit_dir:
-            el_cands.append(_qual("el"))
+            el_cands.extend([_qual("el"), _qual("greek")])
 
         el_doc = next((cand for cand in el_cands if cand in found_docs), None)
         probe_page = pagename
@@ -93,7 +93,7 @@ def register_greek_book_track(book_mod: Any = None) -> bool:
             en_cand = next(
                 (
                     c
-                    for c in (_qual(f"{stem}-en"), _qual(f"{stem}_en"), _qual(f"{stem}.en"))
+                    for c in (_qual(f"{stem}-en"), _qual(f"{stem}_en"), _qual(f"{stem}.en"), _qual("index"), _qual("en"))
                     if c in found_docs
                 ),
                 None,
@@ -108,7 +108,7 @@ def register_greek_book_track(book_mod: Any = None) -> bool:
         if not tracks:
             en_cands = [_qual(f"{stem}.en"), _qual(f"{stem}_en"), _qual(f"{stem}-en")]
             if is_unit_dir:
-                en_cands.append(_qual("en"))
+                en_cands.extend([_qual("index"), _qual("en")])
             en_doc = next((cand for cand in en_cands if cand in found_docs), None)
             if en_doc and en_doc != el_doc:
                 return [
@@ -141,7 +141,7 @@ def register_greek_book_track(book_mod: Any = None) -> bool:
             item = dict(tr)
             item["active"] = item.get("docname") == pagename
             updated.append(item)
-            if item.get("key") == "en" and not inserted_el:
+            if (item.get("key") in ("en", "index") or item.get("label") == "English") and not inserted_el:
                 updated.append(el_entry)
                 inserted_el = True
 

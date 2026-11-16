@@ -1,0 +1,57 @@
+                               TRANSLATION: BOOK II                                                     '75
+
+arithmetic, but on the contrary, as the greatest term is to the small-
+est, so the difference between greatest and mean terms is to the differ-
+ence between mean and smallest term.l For example, take 3, 4, 6, or
+2, 3, 6. For 6 exceeds 4 by one third of itself, since 2 is one third of 6,
+and 3 falls short of 4 by one third of itself, for I is one third of 3. In
+the first example, the extremes are in double ratio and their differences
+with the mean term are again in the same double ratio to one another;
+but in the second they are each in the triple ratio.
+   It has a peculiar property, opposite, as we have said,' to that of the 2
+arithmetic proportion; for in the latter 3 the ratios were greater
+among the smaller terms, and smaller among the greater terms. Here,
+however, on the contrary, those among the greater terms are greater
+and those among the smaller terms smaller, so that in the geometric pro-
+portion, like a mean between them, there may be observed the equality
+of ratios on either side, a midground between greater and smaller.
+   Furthermore, in the arithmetic proportion" the mean term is seen 3
+to be greater and smaller than those on either side by the same fraction
+of itself, but by different fractions of the terms that flank it; in the har-
+monic, however, it is the opposite, for the middle term is greater and
+less than the terms on either side by different fractions of itself, but
+always the same fraction of those terms at its sides, a half of them or
+a third; but the geometric,' as if in the midground between them,
+   1 The general formula then is a : c =   a - b: b - c. For Tbeon's discussion see p. 114. J4 if.,
+Hiller.
+   ! Cr. H. 23. 6. Iamblichus (p. ITO, 18 ff.) says that this was the opinion of the Pythagorean!!
+but that some considered the harmonic proportion contrary to both the arithmetic and geometric.
+He then argues elaborately for the view expressed in the text, that it is subcontrary to the arith-
+metic only.
+   I Compare the ratios of the terms in the harmonic series 3, 4, 6 and the arithmetic series3, 4, 5:
+
+                           t - Jt (less)                t = It (greater)
+                           t = Ii (greater)             l - Il (less)
+   4 The following examples will illustrate Nicomachus's meaning.
+
+                                                    ARrnnu;TIC             HARMoNIC         GEOMEtRIC
+   Series • • • • • • • • • • • • •                     3, 4, 5                  3, 4, 6      4, 6, 9
+   Differences   •  • • • • • • • • • •                   ",                         "H '      'd
+   Which are the following fractions of the mean
+   And the following fractions of the extremes            ••
+                                                          1 1                        it
+                                                                                               H
+                                                                                               H
+In each case there are two differences. These are (a) in the arithmetic, the same fraction of the
+middle term but different fractions of the extremes; (b ) in the harmonic, different fractions of
+the mean, but the same fraction of the extremes; (c) in the geometric, different fractions of both
+mean and extremes.
+   '\\lbat is meant by the elliptic statement of the text, "the geometric . . . neither in the
+mean alone, nor in the extremes alone, but in both mean and extreme," may be seen from the
+example in the preceding note. The middle term does not differ from both e.ztremes by the same
+
+
+
+
+                                                                  0.",,, .1 If '"'
+                                               Coogk          UNN£RSlTY Of MICHIGAN

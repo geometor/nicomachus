@@ -1,0 +1,53 @@
+                                   TRANSLATION: BOOK Il
+
+greater. Nevertheless it is peculiar to this proportion 1 that the product
+of the greatest by the middle term is double that of the greatest by the
+smallest, for 5 times 4 is twice 5 times 2 .
+   The sixth form' comes about when, in a group of three terms, as the 5
+greatest is to the mean, so the excess of the mean over the lesser is to
+the excess of the greater over the mean, for example 1, 4, 6, for both
+are in the sesquialter ratio. There is in this case also a reasonable
+cause for its opposition to the geometrical ; for here, too, the likeness
+of the ratios reverses, as in the fifth form.
+   These are the six proportions commonly spoken of among previous 6
+writers, the three prototypes' having lasted from the times of Pythag-
+oras down to Aristotle and Plato, and the three others, opposites of
+the former, coming into use among the commentators and sectarians
+who succeeded these men. But certain men have devised in addition,
+by shifting the terms and differences of the former , four more which
+do not much appear in the writings of the ancients, but have been
+sparingly touched upon as an over-nice detail. These, however, we
+must run over in the following fashion, lest we seem ignorant.
+   The first of them,' and the seventh in the list of them all, exists when, 7
+as the greatest term is to the least, so their difference is to the difference
+of the lesser terms, as 6, 8, 9, for on comparison the ratio of each is seen
+to be the sesquialter.                                                                                         .,
+
+     1   Tbis statement again should be corrected in the same way as the former one.              It can be
+s tated that if ~ _ b -     l, whcll! a   > b > c, and r is the cons tant ratio , ab _ O€r. For, - ~ and
+                 c     a - b                                                                         c
+     X ~ - ab.       Nicomachus's proposition applies only to cases where , - ~ .
+QC
+         ,
+     General fonn, if Q > b > (, °b- = b - c. This giv~ fromlhe seriH, 1, 4,6,6 _ " - I , the
+     I
+                                         a-b                                      .. 6 - 4
+             'be'mg l_. sesqUla
+constant ratIO               . \ ter. F rom 1h e geometnc
+                                                        . proportion
+                                                                  o a- -b- IS      · e<t b- ( or " )
+                                                                             o d env
+                     2                                               b e                 e       b
+ _ a - b (See note on section 4). Here the ratio of differences is inverted . (er. Euclid, £lcm.,
+     b- ,
+V" Dcf. 16 : GNO'TpotI)fj >.6-rov IIfTI )..ihh, nu "OV,JIIOV .-,,01 Ti). VrfpDXIl., g iIr,plXfI Ta hoa\~I'O.
+TOU ~n,J/tfw. That is, as Heath puts it, conversion is taking ins tead of the ratio of a to b
+the ratio of a to a-b. This is e vidently not the sort of conversion here intended .)
+   I Boethius, 11 . S2, says: tI hae quidem sm" SfJ: muiietotes , quorum Ires usqut: a PylMIOTa ad
+
+Ploto~m A,islDtclcmquc monstTunt. Posl vero qlli illseculi surd 1uu tres alias, tk qui/nu sul"s
+d,ssCf'uimus, suis commmla,iis addidCf'unl. See note on H. 22. 1.
+
+                               ,
+     'The general form is ~ - : - " if a > b > c.
+                                     -,                    In the given series 6, 8, 9, we have

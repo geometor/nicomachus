@@ -1,0 +1,51 @@
+                              TRANSLATION: BOOK I                                             '°5
+terruption, so that the numbers 1 will succeed to the measuring func-
+tion in accordance with their fixed position in the series; the interval
+separating terms measured is determined by the orderly progress of
+the even numbers from 2 to infinity, or by the doubling of the position
+in the series occupied by the measuring term, and the number of times
+a term is measured is fixed by the orderly advance of the odd numbers
+in series from 3.
+   Now if you mark the numbers with certain signs, you will find that 7
+the terms which succeed one another in the measuring function neither
+measure all the same number - and sometimes not even two will
+measure the same one - nor do absolutely all of the numbers set
+forth submit themselves to a measure, but some entirely avoid being
+measured by any number whatsoever, some are measured by one only,
+and some by t\l,fQ or even more. Now these that are not measured at 8
+all, but avoid it, are primes and incomposites, sifted out as it were by
+a sieve j those measured by only one measure in accordance with its
+own quantity 2 will have but one fractional part with denominator
+different from the number itself, in addition to the part with the same
+denominator; and those which are measured by one measure only,
+but in accordance with the quantity of some other number than the
+measure and not its own, or are measured by two measures at the
+same time, will have several fractional parts 3 with other denominators
+besides the one with the same as the number itself; these will be sec-
+ondary and composite.
+   The third division,4 the onc common to both the former, which is 9
+in itself secondary and composite but primary and incomposite in
+relation to another, will consist of the numbers produced when some
+prime and incomposite number measures them in accordance with its
+   I It is generally a!'O~umed (as by Heath, lIistory, vol. I, p. 100) that in the' sie\'e of
+Eratosthenes· only the odd prime numbers take on su cce~si\"ely the measuring function, and
+indeed this is all that is ne<:CSAAry. for, e.g .• Q is a multiple of 3 and all its multiples are
+likewise multiples of 3, The text, however, seems to imply that all the odd m:mbers should
+be used, although perhaps Xicomachus did not intend that be should be so strictly
+interprcted.
+   t Rcading fa.VT()V (in~tead of ~a.IITW,,) with Cl. The numbers rcferred to are thc squares of
+odd prime numbcrs. 9, e.g., has ninths, of cour~e, and as it is measured by J, it will alro have
+thirds, the denomination of which is derived from J.
+    I Thus, if a, b, m are odd numbers grcatcr than unity, and m = ab, m is measured by a in the
+
+quantity of b, and vicc \·crsa, and m will have the factors m and m named respcetively from band a.
+                                                            ,     b
+   , Nicomachus evidently contemplates admitting into this division only the squares of prime
+odd numbers, though numbers like 15 (J X 5) and 77 (7 X Il ), when compared, would satisfy his
+requirements C<lually well .
+
+
+
+
+                                                                 Or>9" .1 from
+                                              Coogk          UNrY£RSlTY Of MICHIGAN

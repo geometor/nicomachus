@@ -1,0 +1,54 @@
+     ,,6                              NICOMACHUS OF GERASA
+
+ 4    If we care to investigate the second species of the superparticular,
+   the sesquitertian (for the fraction naturally following after the half
+   is the third), we shall have this definition of it - a number which
+   contains the whole of the number compared, and a third of it in addi-
+   tion to the whole. We may have examples of it, in the proper order,
+   in the successive quadruples beginning with 4 joined to the triples from
+   3, each tenn with the one in the corresponding position in the series,
+ 5 for example, 4: 3, 8: 6, 12: 9, and so on to infinity. It is plain that
+   that which corresponds to the sesquitertian but is called, with the
+   prefix sub-, subsesquitertian, is the number, the whole of which is
+   contained and a third part in addition, for example, 3: 4, 6: 8, 9: 12,
+   and the similar pairs of numbers in the same position in the series.
+ 6 And we must observe the never-failing corollary of all this, that
+   the first forms in each series, the so-called root numbers,l are next to
+   one another in the natural series j the next after the root-forms show
+   an interval of only one number; the third two; the fourth three;
+ 7 the fifth four; and so on, as far as you like. Furthermore, that the
+   fraction after which each of the superparticulars' is named is seen in
+   the lesser of the root numbers, never in the greater.
+ 8 That by nature and by no disposition of ours the multiple is a more
+   elementary and an older form than the superparticular we shall shortly
+   learn, through a somewhat intricate process. And here, for a simple
+
+"1      1 fru6pbff:      properly' stock' but here translated' root.' "ru9,u'lj. is the technical designation fOf
+     that onc in a series of equal ratios which is expressed in the lowest terms; in the words of Theon of
+     Smyma, p. So, IS 8'.: "Of all the ratios grouped in one species (e.g., double 5eSquialter, etc.)
+     those that are expressed in the smallest numbers and numbers prime to one another are called
+     primary among those bearing the same ratio and roots (T",9p.iWf) of those of the same species."
+     'l'"1I9~1f' is so used by Plato in the famous passage on the marriage number (Rep., 546 B-C). Apol-
+     lonius of Pergae used the term Tu6~1f' in a somewhat similar way, to designate the units which
+     serve as the 'stock' in numbers consisting of those units multiplied hy 10 or its powers; thus 5 is
+     the Tlle~~, of 50, 500, 5,000, etc. See Cantor, op. eit., vol. I, p. 347. Another use of the word
+     r",el'~' is described hy Heath, Rislery, vol. 1, p. 116. In the present case, if the sesquialters are
+     derived from the double and the triple series,
+                                               1 4 6 8 to, etc.,
+                                               3 6 9 t2 15, etc.,
+     as described above, the 'root sesquialter' is the ratio 3 : l, the 'second from the root numbers' is the
+     ratio 6: 4, etc. Boethius, I. 15, observes that the number of the 'intervening numbers,' of which
+     Nicomachus is here speaking, is always one less than the number designating the order of the
+     ratio in the series. E.g., in the third ratio of the series above, 9: 6, there are two intervening num-
+     bers between 9 and 6 (8 and 7).
+         ! The number giving the name to each variety of superparticuiar (e.g., in the case of the ses-
+
+     quitert;an. one and one third, hrl .,. P'''' 0 I) is to be observed always in the first instance of that ratio,
+     that is, in the' root numbers' explained in the preceding note; and more specifically this number
+     is always the smaller of the two in each' root ratio,' e.g., 2 in 3 : 2 (wbence sesquiallcr, ;, 1" 6NOf).
+
+
+
+
+                                        (,oogk              Or>9" .1 from
+                                                        UNrY£RSlTY Of MICHIGAN

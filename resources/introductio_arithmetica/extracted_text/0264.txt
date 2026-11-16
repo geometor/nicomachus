@@ -1,0 +1,48 @@
+                                    NICOMACHUS OF GERASA
+
+      the ",me order, they will produce the hexagonals in due order, and
+      again the same triangles with the latter will make the heptagonals in
+      order, the octagonals after the heptagonals, and so on to infinity.
+    4   To remind us, let us set forth rows of the polygonals, written in
+      parallel lines, as follows: The first row, triangles, the next squares,
+      after them pentagonals, then hexagonals, then heptagonals, then if
+      one wishes the succeeding polygonals.
+
+        Triangles             I     3       6     10        IS             2I    28    36    45        55
+        Squares                I    4       9     16        25             36    49    64    81       100
+        Pentagonals            I    5      12     22        35             SI    70    92   II7       145
+        Hexagonals             I    6      IS     28        45             66    91   120   153       190
+        Heptagonals           I     7      18     34        55             81   II2   148   189       235
+
+     You can also set forth the succeeding polygonals in similar parallel
+     lines.
+    S In general, you will find that the squares are the sum of the triangles
+     above those that occupy the same place in the series, plus the numbers
+     of that same class in the next place back; 1 for example, 4 equals 3
+     plus I, 9 equals 6 plus 3, 16 equals 10 plus 6, 25 equals IS plus 10,36
+     equals 2 I plus IS, and so on.
+        The pentagons are the sum of the squares above them in the same
+     place in the series, plus the elementary triangles that are one place
+     further back in the series; for example, 5 equals 4 plus I, 12 equals
+     9 plus 3,22 equals 16 plus 6, 35 equals 25 plus 10, and so on.
+    6 Again, the hexagonals are similarly the sums of the pentagons above
+     them in the same place in the series plus the triangles one place back;
+     for instance, 6 equals 5 plus I, IS equals 12 plus 3, 28 equals 22 plus 6,
+     45 equals 35 plus 10, and as far as you like.
+    7 The same applies to the heptagonals, for 7 is the sum of 6 and I,
+     18 equals IS plus 3, 34 equals 28 plus 6, and so on. Thus each polyg-
+     onal number is the sum of the polygonal in the same place in the series
+     with one less angle, plus the triangle, in the highest row, one place
+     back in the series.
+    S Naturally, then, the triangle is the element of the polygon 2 both in
+     figures and in numbers, and we say this because in the table, reading
+•
+        I That is, in the column next to the left.
+        t Cf. 11. 7. 4. Theol. A Nth., p. 8 Ast, states that the triangle is the element of both magnitudes
+     and numbers and is made by the congress of the monad and the dyad.
+
+
+
+
+                                                        Or",,, .1 If '"'
+                                     (,oogk         UNN£RSlTY Of MICHIGAN

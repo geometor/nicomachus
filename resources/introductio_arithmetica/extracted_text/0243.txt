@@ -1,0 +1,57 @@
+                                TRANSLATION: BOOK I                                                 227
+
+
+and then will come the superquadripartient, the superquintipartient,t
+and according to the foregoing as far as one may proceed.
+   Now you must have certain rules, like invariable and inviolable 8
+natural laws, following which the whole aforesaid advance and progress
+from equality may go on without failure. These are the directions: 2
+Make the first equal to the first, the second equal to the sum of the
+first and second, and the third to the sum of the first, twice the second,
+and the third. For if you fashion according to these rules you would
+get first all the forms of the multiple in order out of the three given
+terms of the equality, as it were, sprouting and growing without your
+paying any heed or offering any aid. From equality you will first'
+get the double; from the double the triple, from the triple succes-
+sively the quadruple, and from this the quintuple in due order, and so
+on. From these same multiples in their regular order, reversed, there 9
+are immediately produced by a sort of natural necessity through the
+agency of the same three rules the superparticulars, and these not as
+it chances and irregularly but in their proper sequence; for from the
+first," the double, reversed, comes the first, the sesquialter, and from
+the second, the triple, the second in this class, the sesquitertian; then
+the sesquiquartan from the quadruple, and in general each one from
+the one of similar name. And with a fresh start, if the superparticulars 10
+are set forth in the order of their production, but with terms reversed,
+the superpartients, which naturally follow them, are brought to light,
+
+    I ,ud fVev, 1'6 Iff'fttI'To,lMpir (p. 66, 14 Hoche) is omitted by Cooex G.
+    ! As stated by Theon of Smyma, p. l07. 24 tr., Adrastus thus formulatM. the rule: "Given
+
+three terms in any proportion, if three others be taken formed from thl'SC, the tirst equal to the
+first, the second equal to the sum of the first and sc<ond, and the third the sum of the first, twice
+the !'oecond and the third , those thus taken will again be proportional." Algebraically this method                  ..
+obtains (rom a, ar, ar2 the series, a, 0(1 + r), a(1 + r)l. All of the remaining results of this          1 " ·,- "
+chapter are included in this formula. The examples given by Theon start with thne equal
+tenns, as here.
+    I The results thus produced will be:
+
+                                 , ,           ,      equality
+                                 , ,          4       doubles
+                                 , 3                  triples
+                                 , 4          9
+                                             ,6       quadruples
+                                 , 5         '5       quintuples, etc.
+   Theon gives like results.
+  t Theon includes this process in his discussion; its results are as follows:
+
+        4     2     I, doubles re\·er.>ed, giving        4      6         9, sesquialters
+        9     3     t, triples reversed, giving          9     IJ        16, sesquitertians
+       16     4     I, quadruples reversM, giving       16     20        2S, sesquiquartans
+       2S     S     I, quintuples reversed, giving      2S     30        36, sesquiquintans, etc.
+
+
+
+
+                                                    (,oogk           Or"", .1 from
+                                                                 UNrY£RSlTY Of MICHIGAN

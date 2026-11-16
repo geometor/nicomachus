@@ -1,0 +1,54 @@
+             •
+
+
+
+
+                                TRANSLATION: BOOK II                                                 237
+
+the germs of these ideas are taken over into arithmetic, as the science I
+which is the mother of geometry and more elementary than it. For .
+we recall that a short time ago we saw that arithmetic abolishes the
+other sciences with itself,' but is not abolished by them, and conversely
+is of necessity implied by them but does not itself imply them.
+   First, however, we must recognize that each letter by which we in- 2
+dicate a number, such as iota, the sign for 10, kappa for 20, and omega
+for Boo, designates that number by man's convention and agreement,
+not by nature. On the other hand, the natural, unartificial, and there- \
+fore simplest indication of numbers would be the setting forth one
+beside the other of the units contained in each. For example, the
+writing of one unit by means of one alpha will be the sign for I; two
+units side by side, that is, a series of two alphas, will be the sign for
+2; when three are put in a line it will be the character for 3, four in a
+line for 4, five for 5, and so on. For by means of such a notation and
+indication alone could the schematic arrangement of the plane and
+solid numbers mentioned be made clear and evident, thus:
+                                The number I,             a
+                                The number 2,             a a
+                                The number 3,             a a 0.
+                                The number 4,             a a 0. 0.
+                                The number S,             a a. a. a. a.
+
+and further in similar fashion.
+   Unity, then, occupying the place and character of a point, will be 3
+the beginning of intervals and of numbers, but not itself an interval
+or a nurnber,2 just as the point is the beginning of a line, or an interval,
+but is not itself line or interval.' Indeed, when a point is added to a
+point, it makes no increase, for when an non-dimensional thing is added
+to another non-dimensional thing, it "'''ill not thereby have dimension;
+just as if one should examine the sum of nothing added to nothing,
+   1 Cl. T. 4. 2-5.                          I See p. II6.
+    I With this passage should be compared Theon of Smyma, p. 81, 6 fr., where 'interval' ("14i-
+G'T1I'-') is defmed: '''Inlerval' and 'ratio' ().,ryor) are different; for 'interval' is that which is be-
+tween homogeneous unequal terms, 'ratio' merely the relation of homogeneous terms to onc an-
+other. Wherefore there is in the case of equal terms no interval between, but there is one and the
+same ratio, that of equality; whereas in the case of unequals. there is one and the same interval
+from each to each, but a different and opposite ratio of each to each. For example, there is one
+and the same interval from 2 to I and from I to 2, but a different ratio; 2 : I is a double ratio and
+I : 2 is one half."  He then quotes Eratosthenes on the subject. This will explain what is said
+below as to intervals in connection with the relation of equality.
+
+
+
+
+                                                                      0.",., .1 from
+                                                 (,oogk          UNrY£RSlTY Of MICHIGAN

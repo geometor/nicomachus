@@ -1,0 +1,53 @@
+                               TRANSLATION: BOOK II
+
+double ratio is found between 6 and 4 as a superparticular; and again
+the difference between 9 and 6, as a sesquialter, is found between 12
+and 9 as a sesquitertian, and so on. What is the same in quality 1 is
+different in quantity, and just the opposite, what is the same in quan-
+tity is different in quality. Again, it is clear that in all their relations' 4
+the same difference between two terms will necessarily be called frac-
+tions with names that differ by I, and be the half of one and the third
+of the other, or the third of one and the quarter of the other, or the
+fourth of one and the fifth of the other, and so on.
+   But what will most of all confirm the fact that the odd, and never 5
+the even, is preeminently the cause of sameness, is to be demonstrated
+in every series beginning with I following some ratio, for example,
+the double ratio, 1, 2, 4, 8, 16, 32, 64, 128, 256, or the triple,
+1,3,9, 27, 8r, 243, 729, 2,187, and as far as you like. You will :find 3
+that of necessity all the terms in the odd places in the series are squares,
+and no others by any device whatsoever, and that no square is to be
+found in an even place.
+   But all the products of a number multiplied twice into itself, that is,
+the cubes, which are extended in three dimensions and seen to share
+in sameness to an even greater extent, are the product of the odd num-
+bers, not the even,4i I, 8, 27, 64, 125, and 216, and those that go on
+analogously, in a simple, unvaried progression as well. For when the
+successive odd numbers are set forth indefinitely beginning with I,
+observe this: The first one makes the potential cube; the next two,
+
+   I  This is substantially a repetition of the previous statement. In the terminology of Nicoma-
+chus two pairs of numbers have a relation (crxicrlf) Qualitatively (..-ouSn1'n) alike if they exhibit
+the same ratio ; numerically ("-0G"6TlTn), if they have the same arithmetical difference. This
+terminology appears again in the discussion of tbe proportions; cf. 23, 4 below.
+    ~ Ifxilf€ll: That is. the comparisons of the pairs of terms from the two series; see on 21. 2
+below for a further discussion of the meaning of IfXilflf 'relation.' For illustration of the mean-
+ing, we may take pairs of homologous terms from the two seriC'S, as t, 2; 4, 6; 9, t 2; 16, 20;
+etc., and their differencC'S I, 2, 3, 4, etc. I is the whole of I and the half of 2; 2 is the half of
+4 and the third of 6; 3 is the third part of 9 and the fourth of 12, etc. Or, compare 4, 2 with
+4,6; 9, 6 with 9,12; etc.
+    J Philo, De Mlmdi Opifido,36 , points out further propertiC'S of the table of doubles : "If one
+doubles he will find that the third from unity (Le., counting both ends in the Greek fashion) is a
+square, the fourth a cube, and the seventh, arising from both the third and the fourth, a cube
+and square together." Similarly Theon, p. 34, 16 ff ., points out that the terms in every other
+place (he does not spedfically say 'odd ' ) of the series of multiples are squares, those in every
+third place cubes, and those in every fifth place both cubes and squares. He adds furthermore
+that squares are always divisible by 3 and 4, either as they stand or when I is subtracted, that
+those divisible by 3 when I is subtracted are always divisible by 4 if they are even, and vice versa,
+etc.
+   , See Part I, p. 133.
+
+
+
+
+                                             (,oogk             Or",,, .1 I< '"'
+                                                            UNN£RSlTY Of MICHIGAN                       --

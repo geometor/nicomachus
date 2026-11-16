@@ -1,0 +1,50 @@
+      210                              NICOMACHUS OF GERASA
+
+       accompanying characteristic 1 to end alternately in 6 or 8, and always
+       to be even.
+    4    There is a method of producing them,' neat and unfailing, which
+       neither passes by any of the perfect numbers nor fails to differentiate
+       any of those that are not such, which is carried out in the following
+       way.
+         You must set forth the even-times even numbers from unity, ad-
+       vancing in order in one line, as far as you please: I, 2,4,8, 16,32,64,
+       128, 256, 5I 2, 1,024, 2,048, 4,096. . .. Then you must add them to-
+      gether, one at a time, and each time you make a sununation observe
+      the result to see what it is. If you find that it is a prime, incomposite
+      number, multiply it by the quantity of the last !lumber added, and
+      the result will always be a perfect number. If, however, the result is
+      secondary and composite, do not multiply, but add the next and ob-
+      serve again what the resulting number is j if it is secondary and com-
+      posite, again pass it by and do not multiply; but add the next; but
+      if it is prime and incomposite, multiply it by the last term added, and
+      the result will be a perfect number; and so on to infinity. In similar
+      fashion you will produce all the perfect numbers in succession, over-
+      looking none.
+         For example, to I I add 2, and observe the sum, and find that it is
+•
+      3, a prime and incomposite number in accordance with our previous
+      demonstrations; for it has no factor with denominator different from
+      the number itself,' but only that with denominator agreeing. There-
+      fore I multiply it by the last number to be taken into the sum, that is,
+      2; I get 6, and this I declare to be the first perfect number in actuality,'
+      and to have those parts which are beheld in the numbers of which it
+      is composed. For it will have unity' as the factor with denominator
+      the same as itself, that is, its sixth part; and 3 as the half, which is
+      seen in 2, and conversely 2 as its third part.
+    S Twenty-eight likewise is produced by the same method when another
+      number, 4, is added to the previous ones. For the sum of the three, I,
+        I Cf. Boethiu5,   t. 20: El se1'lt~ hi nlH1uri duobus paribus terminal'llur, 6 et 8, et semiel' tUlenuJJi",
+     in MS n"","os summaru", fim: prC1f1ttliem. See p. 52.
+         t Euclid (IX. 36) and Theon of Smyma (P.45, 140'. Hiller) report this method of discovering
+     perfect numbers.                                    I That is, i.
+         4' Actual' (11'f/(1"Ytl,,) is here specified because in sect. 8 Nicomachus designates 1 as a potential
+     (6vodlU') perfect number. On his use of Aristotelian terminology. as here, see p. 35.
+         • Boethius, t. 20, speaking of this matter says of 6: habd unam quidlm a se dtnominalam par-
+     tNII, id est, slxtam, 3 ,,"0 mtdicJatem secundum duaiifattnl, aJ f)Cro 2 secundum coaan;alumem, id est,
+     slCundum lemarium, qIW1Iiam coaccrtlGJi J multiplicaJi sum.
+
+
+
+
+                                                          0.", •••1from
+                                     (,oogk          UNrY£RSlTY Of MICHIGAN

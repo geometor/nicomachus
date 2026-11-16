@@ -1,0 +1,57 @@
+                                        TRANSLATION: BOOK II
+
+two or more relations, even if they are not brought under the same
+ratio, but rather a difference, or something else.
+   Now a ratio 1 is the relation of two terms to one another, and the 3
+combination of such is a proportion, so that three is the smallest num-
+ber of terms of which the latter is composed, although it can be a series
+of more, subject to the same ratio or the same difference. For ex-
+ample, I : 2 is one ratio, where there are two terms; but 2 : 4 is another
+similar ratio; hence I, 2, 4 is a proportion, for it is a combination of
+ratios, or of three terms which are observed to be in the same ratio to
+one another. The same thing may be observed also in greater numbers 4
+and longer series of terms; for let a fourth term, 8, be joined to the
+former after 4, again in a sinaiIar relation, the double, and then 16 after
+8 and so on.
+  Now if the same term, one and unchanging, is compared to those on 5
+Myo, does not mean 'ratio,' but 'scheme,' 'plan,' or, practically, 'de6nition.' In 1. s. I he
+speaks of dp~"I ..ol }..6-yOl. meaning the intervals of harmony, but only to point out that these
+are really ratios in the strict sense .
+  A good illustration of the proper use of the words >'6yor and rTxlrT" is found in Theon, p. 22, 19
+Hiller: cui!6,iUI'OI Si Toll, >.6-yOIlf Tijr frpOf 4}..X.q:\oVf rTx.lrT~wt iuh'WI' ,£UIOe"'I" ("as they increase
+they diminish the ratios of their relation to onc another " ), He is speaking of the fact that in
+the natural series of numbers the ratios between the terms decrease as you ascend in the series,
+e.g., :l; I > 3: l > 4: 3, etc. )..VyOI is the ratio; trXltrlf means the general relation existing
+between pairs of terms, that is, the simple pairing amI comparing of the terms. It is further
+to be noted with regard to the terminology of proportions that, according to Iamblichus (p. 99.
+ :lS ff. ) , o:bClM,,(ICl properly refers to the continued proportion (that in three terms), as opposed to
+.,.3 d...i).o"(o,., which means rather a geometrical progres~on and is the more proper term to apply
+to the disjunct proportion (in four terms). Needless to say, the distinction is not observed by
+Nicomachus.
+     1 In view of what has been said in the preceding note this definition is a poor one, for it merely
+
+asserts that a ratio ()"6"(os) is a relation ("'x/.:,",s) . Nicomachus is either guilty of carelessness,
+or, as is \'ery probable, the word roui has fallen out before ".x/".n, leaving no trace in the M$5.
+The addition of this onc word would make the definition fairly satisfactory , although it would
+still lack the precision of Euclid's, or Theon's. In mathematical language rou~ trxltr" 'a rela-
+tion of some kind,' 'a qualitath'c relation,' means onc that can be described as 'of some kind,'
+that is, double, triple, sesquialter, or the like, in other words, a ratio proper, and it would be con-
+trasted with ro"'~ trx/".", fa relation of a certain amount,' which would mean a relation where a
+mere arithmetical difference between the terms is in question. Euclid uses this terminology
+in his definitions of ratio and proportion in Book V, init. : "Ratio is the qualitative relation with
+reference to size between two homologous magnitudes. Proportion is the likeness of ratios"
+()..Vyos I".rl alio p.r"yffJo;,,. o,uo"(e"o;,,. 1] KIIon~ ·....'l)"u:br'lrd. rOlQ; "'x/".". d,.a.)..o"(lCl 5' ~(fT'I,. 1] ro;,,.
+)..Vy",,, O,uo'Or'lI) ; d. also Hero of Alexandria, Drfinitkm 127, ed. Hultscb, p. 36, As Nesselmann
+(Gcu h. d. Alg., 212) showed, the inclusion of O,uo"(f),o;,,,, r'l)..'1I'61o"",4 and 3,uoj(~r'll brings out points
+overlooked by Nicomachus, but even more important is rOId.. On the necessity of terms in a
+ratio being homogeneous, see on 1. 17. 4; Nicomachus neglects this matter. Theon's definitions
+of ratio and proportion are more like Euclid's, but that of proportion is either poorly stated or
+wrongly transmitted: "Ratio is the qualitative relation in analogy (II'Clr' dvciM"(O,.) existing
+between two terms of the same genus" (p. 73, I6) j "Proportion is the qualitative relation of
+ratios to one another" (p. 74, l:l),
+
+
+
+
+                                                                                   Or",,, .1 If '"'
+                                                            (,oogk             UNN£RSlTY Of MICHIGAN

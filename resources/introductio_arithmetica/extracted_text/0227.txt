@@ -1,0 +1,56 @@
+                               TRANSLATION: BOOK I                                              2II
+
+
+2, and 4, is 7, and is found to be prime and incomposite, for it admits
+only the factor with denominator like itself, the seventh part. There-
+fore I multiply it by the quantity of the term last taken into the sum-
+mation, and my result is 28, equal to its own parts, and having its
+factors derived from the numbers already adduced, a half correspond-
+ing to 2; a fourth, to 7; a seventh, to 4; a fourteenth to offset the
+half; and a twenty-eighth, in accordance with its own nomenclature,
+which is I in all numbers.
+   When these have been discovered, 6 among the units and 28 in the 6
+tens, you must do the same to fashion the next. Again add the next 7
+number, 8, and the sum is 15. Observing this, I find that we no longer
+have a prime and incomposite number, but in addition to the factor
+with denominator like the number itself,' it has also a fifth and a
+third, with unlike denominators. Hence I do not multiply it by 8,
+but add the next number, 16, and 31 results. As this is a prime, in-
+composite number, of necessity it will be multiplied, in accordance
+with the general rule of the process, by the last number added, 16, and
+the result is 496, in the hundreds; and then comes 8,128 in the thou-
+sands, and so on,2 as far as it is convenient for one to follow.
+   Now unity is potentially a perfect number, but not actually; for 8
+taking it from the series as the very first I observe what sort it is,
+according to the rule, .a nd find it prime and incomposite; for it is
+so in very truth,' not by participation like the rest, but it is the primary
+   ,   ~.
+
+   t  Thomas Taylor (Tlmwctic Arithmetic, p. 33) gives the following table, showing how the per-
+fect numbers may be formed by Nicomachus's method:
+    E"1'II1y etttn numb"!:
+       I, 2,4,8, 16,32,64,128, 256,512, 1,024. 2,048,4,0C}6;
+    Odd numb,,! prodllud by oddin, the abOtJ(:
+                   •
+       1,3,7, 15,31,   63,' 127, 255,1,023,2,047,4,095,
+                                    ,       ,      ,       '8 ,19'1·•
+    Pajed numb"!:
+       1,6, 28, 496, 8,128.
+The odd numbers which are not prime, and hence cannot be used to make perfect numbers, are
+marked with an accent .
+    • This statement is to be understood in the light of Nicomachus's essentially Pythagorean view
+of arithmetic, and with it should be compared H. 17. 2 and incidental remarks elsewhere, e.g.,
+11. 17.4,5; 18. I, 4 (end); 20.2; I. 1 (end), etc. In n. 17. 2 it is stated that' sameness' is found
+fundamentally in the monad, and most of the other passages cited bring out the principle that the
+odd numbers and the squares participate in 'sameness' indirectly, through the monad. the monad
+being that which' determines the specific form' of the odd numbers (flaorolfi~), and the latter
+in turn acting as the bases h~w,lolO",') of the squares. Likewise 'othemess' inheres fundamen-
+tally in the dyad. and is hence con\,eyed secondarily. as it were, into the even numbers and the
+heteromecic numbers. A similar construction may be placed on the passage at hand; the only
+difference is that 'primeness,' instead of 'sameness,' is in question. The monad is per se prime.
+
+
+
+
+                                              (,oogk             0.>9, ••1from
+                                                             UNrY£RSlTY Of MICHIGAN                    -

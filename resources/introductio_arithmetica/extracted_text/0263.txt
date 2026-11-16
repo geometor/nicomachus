@@ -1,0 +1,65 @@
+                                         TRANSLATION: BOOK II                                                                    247
+
+Every square figure I diagonally divided is resolved into two triangles
+and every square number is resolved into two consecutive triangular
+numbers, and hence is made up of two successive triangular numbers.
+For example, 1,3,6,10,15,21, 28,36,45,55, and so on, are triangular
+numbers and I, 4, 9, 16, 25, 36, 49,64, 81, 100, squares. If you add 2
+any two consecutive triangles that you please, you will always make a
+square, and hence, whatever square you resolve, you will be able to
+make two triangles of it.
+  Again, any triangle 2 joined to any square figure makes a pentagon,
+for example, the triangle I joined with the square 4 makes the penta-
+gon 5; the next triangle, 3 of course, with 9, the next square, makes
+the pentagon 12; the next, 6, with the next square, 16, gives the next
+pentagon, 22; 10 and 2S give 3S j and 50 on.
+   Similarly,' if the triangles are added to the pentagons, following 3
+    MS G gives the follo-wing figure as an illustration. The principle may be proved from the
+    1
+
+formulas of arithmetic progression,
+
+            S =     , + I), 1
+                    "' (a            =   a + {,. - I)d.
+
+   Two successive triangular numbers, formed ac·
+carding to definition by the summation of nand
+n + I terms respectively, will therefore be                       ,.t +
+                                                                      ,"
+and lit + 3 n + 2, and their sum is
+               ,                                     "l + 2" + J, which is (N + 1)1, a perfect square.
+    The Neo-Pythagoreans employed an interesting development of this principle to display the
+relative characters of the monad and the dyad (cf. Thtol . A,ith., p. 9 Ast, and Iamblichus In Nie .,
+p . 75. 20 fI.). The matter is stated in the Theol. A,itJ,., I. c., as follows: The monad is the cause
+of squares not only because the odd numbers successively arranged about it give squares, but also
+"because each side, as the turning point (se. of a double race course) from the monad as starting
+point to the monad as finish line has as the sum of its going forth and of its return its own square"
+(aAA' 6n Kill b::o.V"T"f/ .. ).n'p4, tw ..fp Ka~""T ~p a ..o Vcr .."'"lTYYOJ ,IoUIvd..50f d, .5. vVVcrll .. ,IoUI..o.611, ..d.).". ,lx,
+"Tijr .. po6doll ul l .. a..o.JoII "T-I) .. crli..tifcr,,, ~' laln'"ij. IlliTb "TO" '1npo.-ywJIO'). That is, to take the
+side 5, when the successive numbers up to 5 are set out as one side of the race-track, 5 is made
+the turning point and the other side is made up of the descending numbers to I, e.g.,
+                                       1   2   3    4
+                                                                               5
+                                                 3    I
+                                                      4     2
+the sum of the whole series is 25. or 5'. The series 1 • • • 5, of course, is one triangular number.
+and the descending series 4 . . . I the immediately preceding one. From its resemblance to
+the double race course of the Greek games this proposition was apparently recognized under
+the name 'diaulos' (cf. Iamblichus, p. 15, 25). Its further application to the heteromecic num-
+bers is not pertinent to the present subject.
+   t This may be seen by comparing the figure of the pentagon as shown in the diagrams ac-
+companying Chapter X j and it is an argument in lavor of representing them as does h--lS G.
+   1 This proposition and the preceding are special cases of the theorem that the polygonal
+
+number of , sides with side 11, plus the triangular number with side n - 1, makes the polyg-
+onal number with, + I sides and side 11.                           Algebraically" + 1 (2 + n4) + n (n + I) :m
+n  + I
+              +. +                                                                           ::                           2
+    ,
+"-I..! [,   [d  I)].
+
+
+
+
+                                                                                       Or",,, .1 If '"'
+                                                                (,oogk             UNN£RSlTY Of MICHIGAN

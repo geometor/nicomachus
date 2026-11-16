@@ -1,0 +1,55 @@
+                               NICOMACHUS OF GERASA
+
+ 5 one. And starting from a pentagon,' hexagon, heptagon, and how-
+   ever far you care to go, lines equal in number to the angles, erected
+   in the same fashion from the angles and converging to one and the
+   same point, will complete a pyramid named from its pentagonal,
+   hexagonal, or heptagonal base, or similarly.
+6 So likewise among numbers, each linear number increases from unity,
+   as from a point, as for example, I, 2, 3, 4, 5, and successive numbers
+   to infinity; and from these same numbers, which are linear and ex-
+   tended in one direction, combined in no random manner, the polyg-
+   onal and plane numbers are fashioned - the triangles by the combi-
+   nation of root-numbers' immediately adjacent, the square by adding
+7 every other term, the pentagons every third term, and so on. In
+  exactly the same way, if the plane polygonal numbers are piled one
+  upon the other and as it were built up, the pyramids that are akin to
+  each of them are produced, the triangular pyramid from the triangles,
+  the square pyramid from the squares, the pentagonal from the penta-
+  gons, the hexagonal from the hexagons, and so on throughout.
+8 The pyramids with a triangular base, then, in their proper order,
+  are these: I, 4, 10, 20,35, 56, 84, and so on; and their origin is the
+  piling up of the triangular numbers one upon the other, first I, then I,
+  3, then I, 3, 6, then 10 in addition to these, and next IS together
+  with the foregoing, then 2I besides these, next 28, and so on to infinity.
+9 It is clear that the greatest number is conceived of as being lowest,
+    1 The following diagrams arc: from Codex G:
+     Pyramids on square, triangular and pentagonal bans:
+
+
+
+                   •           •
+
+                   «           •
+     Pyramids numerically reprcsented:
+                   •                               •                          •
+                   •                               •                          •
+                 ••                            • •                           • •
+                                              • • •                         • • •
+                                              • • •                         • • •
+             First Pyramid                Second Pyramid                  Third Pyramid
+ They are built up in layers as it were (cf. sections 7. 9 infra), like piles of shot or spberes of
+ any kind, and the layers are the triangular numbers in order. If all were put in triangular
+ form, it would be clearer.
+    t That is, gnomons j see OD I. 9. 4- In this case the gnomons are the natural series.
+
+
+
+
+                                                                                           •
+
+
+
+
+                                                  Or",,, .1 If '"'
+                               (,oogk         UNN£RSlTY Of MICHIGAN

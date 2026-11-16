@@ -1,0 +1,46 @@
+                                TRANSLATION: BOOK 11                                               257
+
+'wedges,' to be sure, were the products of three unequal numbers, and
+cubes of three equal ones.
+   Among the cubes, some of them, in addition to being the product of 7
+three equal numbers, have the further property of ending at every
+multiplication in the same number as that from which they began; these
+are called spherical, and also recurrent.' Such indeed are those with
+sides 5 or 6; for however many times I increase each one of these, it
+will by all means end each time in the same figure, the derivative of
+6 in 6 and that of 5 in 5. For example, the product of 5 times 5 will
+end in 5, and so will 5 times this product and if necessary, 5
+times this again, and to infinity no other concluding term will be
+found except 5. From 6, too, in the same fashion 6 and no other will
+be the concluding term; and so 1 likewise is potentially spherical
+and recurrent, for as is reasonable it has the same property as the
+spheres and circles. For each one of them, circling and turning around,
+ends where it begins. And so these numbers aforesaid are the only
+ones of the products of equal factors to return to the same starting
+point from which they began, in the course of all their increases. If
+they increase in the manner of planes, in two dimensions, they are
+called circular, like 1, 25, and 36, derived from 1 times I, 5 times 5,
+and 6 times 6; but if they have three dimensions, or are multiplied
+still further than this, they are called spherical solid numbers, for
+example I, 125,216, or, again, 1,625, 1,296.
+
+
+
+                                     CHAPTER XVIII
+
+   Regarding the solid numbers this is for the present sufficient. The I
+physical philosophers, however, and those that take their start with
+mathematics, call 'the same' and 'the other' the principles of the uni-
+verse, and it has been shown that 'the same' inheres in unity and the
+odd numbers, to which unity gives specific form , and to an even greater
+degree in the squares, made by the continued addition of odd numbers,
+because in their sides they share in equality; while 'the other' inheres in
+2 and the whole even series, which is given specific form by 2, and partic-
+
+   1 &"D,,"'_"''I'IKO( : So Theon of Smyrna, p. 38, t 6 ft . Hi11~r, citing 5 and 6 as examples.
+                                                                                           Lydus
+also (De M,ruibw, IV. 76 WUnscb) calls 5 a fl4>o.ip" for the same reason. This property of 5 is
+mentioned also by Anatolius, p. JJ. 2 ft. Heiberg; and by Capella, De Nl4ptiis Phi/ . et },fere.,
+VII, 735 (who calls it a,O€alastalicus). Anatolius remarks on the similar property of 6; cf.
+           fi,"."
+"", TJ.<ol .     p. 35 Ast. In fact these propositioDs were regular topics of ... rithmology.

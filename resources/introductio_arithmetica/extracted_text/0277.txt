@@ -1,0 +1,72 @@
+                                                    TRANSLATION: BOOK II
+
+form, the third to the third the third sesquitertian from the root-form,
+and the succeeding terms will go on in similar fashion.
+   Furthermore, the squares 1 among themselves will have only the odd 4
+numbers as differences, the heteromecic, even numbers. And if we
+put' the first heteromecic number as a mean term between the first two
+squares, the second between the next two, the third between the two
+following, and the fourth between the two next succeeding, therein will
+be seen still more regularly the numerical relations 3 in groups of three
+terms. For as 4 is to 2, SO is 2 to I ; and as 9 is sesquialter to 6, so is 6 to
+4; and as 16 to 12, SO is 12 to 9, and so on, with both numbers and ratios
+regularly advancing. As the greater is to the mean, so will the mean
+be to the lesser, and not in the same ratio, but always a different one,
+by an increase. In all the groupings, too, the product of the extremes
+is equal to the square of the mean; and the extremes, plus twice the
+mean, by exchange will always give a square' What is neatest of all,
+from the addition of both' there comes about the production of the
+triangles in due order, showing that the nature of these is more ancient'
+   I SqUdres.'        t           ...       9           16       25        36      49. etc.
+                          3             5           7        9        II        13, etc.; odd differences.
+    Hewomuk.'                 2             6                    '0        30      42       56, etc.
+                                    4           6            8                          14. etc.; even difference5.
+   I Cf. Theon, p . 28, 16 If. Hiller .
+   • That is, m', rn(m                  +
+                             I ), and ('" + 1)1 always constitute the terms of a geometrical pro-
+portion. Theon notes this (c. 16), adding that the successive heteromecic numbers do not make
+& proportion with the included square j i.e., ",(m - I), ",t, and m (m+ 1) are not proportional.
+         • The ratios formed as directed and the additional properties of the series may be seen in this
+table:
+                  RaJibs              Sum of extremes      Plus       2 X mM" term            Sum
+              1:2-2 : 4
+              4:6-6:9
+                                             5
+                                            13
+                                                            +
+                                                            +
+                                                                              4                  9
+                                                                                                           "
+                                                                                                                    --
+              9:12 -12:16
+             16:10""20:25
+                                            25
+                                           41
+                                                            +
+                                                            +
+                                                                            '4
+                                                                            40          =
+                                                                                                '5
+                                                                                                49
+                                                                                                81
+                                                                                                                    -
+Generally, in the ratio m2 : m(m + I) - m(m + I): (m + I)', the sum of the extremes plus
+t ..... ice the mean ....ill be 4 mt + 4 m + I, which is a perfect square.
+         i This may best be seen by setting the squares and beteromccic numbers alternately and
+combining them in pairs thus:
+       1         :I           4             6           9        12        16      20       25        30
+           3      6     10     IS    2I     28    36     45    55     - triangular numbers.
+    5 This is significant to Nicomachus because he believed that the 'same' and the 'other' were
+the ultimate elements, and that they resided par excellence in the squares and the heteromecic
+numbers respectively (Cf. 11. 17.3; 18. I). Now that into which all plane figures are ultimately
+analyzed is the triangle (11. 7. 4; d . 12. 8); as Nicomachus himself shows; and it is to be re-
+membered that in the Timaeus the triangle is made the ultimate basis of the corpuscles of the
+elements, a theory which he doubtless has in mind . Therefore the present proposition confirms
+his position in holding 'sameness' and 'otherness' to be the most elementary things, prior even
+to the elementary triangle. An interesting confirmation of the interpretation above is found in
+
+
+
+
+                                                                                                0.",,, .1 If '"'
+                                                                           (,oogk           UNN£RSlTY Of MICHIGAN

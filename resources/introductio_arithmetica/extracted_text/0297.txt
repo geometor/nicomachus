@@ -1,0 +1,86 @@
+                                TRANSLATION: BOOK II                                                ,s,
+another, divide this by 2 and make the mean, for example, the double,
+in the case of a quadruple ratio. For the harmonic mean,' you must
+multiply the difference of the extremes by the lesser term and divide
+the product by the sum of the extremes, then add the quotient to the
+lesser term, and the result will be the harmonic mean.
+
+
+                                  CHAPTER XXVIII
+
+  So much, then, concerning the three proportions celebrated by the I
+ancients, which we have discussed the more clearly and at length for
+just this reason, that they are to be met with frequently and in various
+forms in the writings of those authors.' The succeeding forms,' how-
+ever, we must only epitomize, since they do not occur frequently in
+the ancient writings, but are included merely for the sake of our own
+proportion! of the type cited in Nicomacbus's example, those where the ratio is the quadruple.
+For if 11 : ~ - ~ : or, then air -
+                "                      .
+                                       or and <4 r - r _ 0 . Only two values of , satisfy this con-
+dilion, 4 and 0, of which the latter need not be taken into consideration when dealing with the
+number system of Nicomachus. Nicomachus should have dirKted that the square root of r be
+taken , nOl its half ; then, provided that, wece a periec:t square, he could set up the proportion,
+a : a..f; - a     v,:
+                  ar. The number 4 is the only one of which the haJf and the square root are
+identical (among the positive integers).
+                    (if a > c), the harmonic mean is {a - e)e + c. This is equal to 2 at , which
+     I Given Cl and ,
+                                                       a+e                          a+e
+was given above as the general formula for the harmonic mean (see on 11 . 2S. 4) and would be
+a simpler one to follow.
+   t That is, in the sections of the works of ancient authors read and interpreted in the schools
+(d••..,.':'(I",114 Ta) .
+     ITheen of Smyma also enumerated other proportions in addition to the fi rst and principal
+three. In addition he says (p. 106, 13) there are the 'subcontra ry' (se. to the harmonic; cf.
+p . 11 S, S fr .) , fifth and sixth, and then six more, !.ubcontraries to the first six . This second set
+of six, however, he leaves without explanation or illustration. For the sake of the conspectus,
+the general formulae for the proportions as the two authors give them may be set do~o'D . letting
+a>o >c ineach :
+                                     NICOYACRUS                                 TREON
+     Arithmetic                        a-O -o - c (11. '3· 5)             4 -0 -0 -e (p. 11 3, 18).
+                                                                               -,-
+J.
+                                        a     b                            a       b
+2.   Geometric                          - = -
+                                               ,       (lI. 24)           ..                 (p. 114. I ).
+
+
+                                                                          ,-
+                                        b                                  b
+
+                                       ,-
+                                        a     a - b                       a   a-b
+3. Harmonic                            - b- ,          (1I. '5)           ..
+                                                                              b - ,
+                                                                                           Cp. 114, 14) .
+                                                                          ,
+4. Subconlrary to harmonic             -a b - ,
+                                       ,   ~
+
+                                              a - b
+                                                      (11. 28 . 3)
+                                                                          a - a-b
+                                                                              b -,
+                                                                                             (p. li S, S)·
+
+
+                                       ,-
+s. Firth form                            b
+                                        ..
+                                              b -,
+                                                      (II. 28. 4)
+                                                                          ,
+                                                                          . = a - b        (p. u S. 12) .
+                                              a - b                       b   b- ,
+6. Sixth form                           a.. = b- c
+                                         b    • - b
+                                                      (11. ,8. 51
+                                                                          b
+                                                                               -
+                                                                              a - b
+                                                                          - b- ,
+                                                                          a
+                                                                                           (p. US. 20).
+
+In the last three forms Tbeon consistently reverses the formulae of Nicomachus.

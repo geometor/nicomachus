@@ -1,0 +1,59 @@
+                                                      NICOMACHUS OF GERASA
+
+                    dimension; and plane numbers are those 1 that begin with 3 as their
+                    most elementary root and proceed through the next succeeding num-
+                    bers. They receive their names also in the same order; for there are
+                    first the triangles, then the squares, the pentagons after these, then
+                    the hexagons, the heptagons, and so on indefinitely, and, as we said,
+                    they are named after the successive numbers beginning with 3.
+                  4    The triangle, therefore, is found to be the most original and elemen-
+                    tary form of the plane number. This we can see from the fact that,
+                    among plane figures,' graphically represented, if lines are drawn from
+                    the angles to the centers each rectilinear figure will by all means be
+                    resolved into as many triangles as it has sides; but the triangle itself,
+                    if treated like the rest, will not change into anything else but itself.
+
+                       1Nicomachus, here and in the following chapters, adopts the broadest view of what consti-
+                   tutes the class of plane numbers. Not all the ancients agreed witb bim; Euclid. in Ekmellir,
+                   VII, De!. 17. defines the plane number as we should, as that which is produced when two numbers
+                   multiply each other, the multiplier and multiplicand being its sides (,snp II~ ,,,:.0 dp18~1 ..oXX,,-
+                   .. Xa.crL4ITcr.,.Tfr oiX).,P.OVf rOIw,,1 TI"", & 'Yt"s,1oI00~ Irlrtllof JtAXriTclI, rXfupa.1 IIj cr.!!Tou ol roU""XCW'I-
+                   ",,)'TU 4)..).~AoIIf d",8I1DO. and Theon of Smyma twice defines them similarly {p. 31 , 9 Hiller,                              .
+                                                                                                                                                      ,
+                   &r01 k& 1160 dpl8l'w, roUca r).llVllito)'TlIU; p. 36. 5. ol (liX'" ..oU.a... )._,«t6~_ hrlrellol) . Tb.                    .
+                   Martin clearly explains the difference between this application of the term and its more com-
+                   prehensive use by Nicomachus: "En diet, les nombres rectangles et carres expriment la
+                   mesure des surfaces, et les nombres parallelipipldes rectangles et cubiques expriment la mesure
+                   des solides. Au contraire, les nombres triangles, pentagones, hexagones, etc., de m~me que lea
+                   nombres tHraedres, pentaedres, hexa.b:lres, etc., n'expriment rien qu'une disposition imaginaire
+                   des unites dans l'espace" (ChapUru IX' d XX , du Livre Second de 1'],JI,oduction ArilhmltiqU4
+                   de Nicomaque de Gtrase, Rome, I8S8, p . ,).
+                        In spite of his definition, Thron of Smyrna lists triangular and other polygonal numbers, like
+                   Nicomachus, and consequently must have known and shared to a certain extent Nicomachus's
+                                                                                                                                              ,
+                   conception of them, whether or not he was aware of any inconsistency; and that this conception
+                   was somewhat generally current is shown by its appearance in the works of Philo Judaeus (see
+                   p . .32)' Further, it may be noted that this notion of the polygonals is found in Diophantus
+                   when (De Polygonis NIlmn1.s, vot. I, p. 450, 3 Tannery) he remarks that " each of the numbers
+                   beginning with the triad and increasing by unity is a polygonal number in the fint degue from the
+, ,~, .. " , 'I    monad, and has as many angles as the number of units in it, and its side is the next number after
+                   the monad, 2" (hcurT"f T~J' cb'~ Tilf TpId!", d.p'eJl>~' "v~~"'"" po"!' "'''>'VyColMlr iITTI rp;"'"" d.·KO
+                   Tilt po,d!"r, 1C,,1 tXft ')'W,l"f r"O'''IfT''! &ro" i"""//f T~ r>..ij80r 1"~" h aVT~ po..toJCoI"· r>.nlpd. 1"f ctVT"G
+                   IITrt .. ~ I~ilr Tilr ,l'Qv4oJos d.p'flpiJr, 6 (f).    From Nicomachus's point of vie ..... , evidently, the same
+                   number could be called linear, plane, or solid, according to the assumed arrangement of its
+                   component monads.
+                         2 Nicomachus here agrees with Plato , Timaeus, 53 c ff., in declaring the triangle to be the
+                   fundamental form of the plane surface. Plato in the passage cited uses the principle further
+                   to explain the forms of the minutest particles of the four elements. He agrees with Nicomachus
+                   in stating that all plane surfaces may be reduced to triangles (Timaeu.'J, 53 c, f, ~j 6p8~ l"11r bn-
+                   .. ioJou fjdO'fllX IIC l"p,,),rJ,,,",, ITU..IITT'In) , but with reference to the subdivision of the triangle
+                   itself, he points out that each may be reduced by dropping a perpendicular from the apex (in.
+                   stead of drawing lines to the center, according to Nicomachus) 10 two elementary forms, the
+                   right· angled scalene or the rigbt·angled isosceles. Cf. also T~ologumena Arithnwticae, p. 18,
+                   Ast, and H. 12. S below.
+
+
+
+
+                                                      (,oogk                Or>9" .1 from
+                                                                        UNrY£RSlTY Of MICHIGAN

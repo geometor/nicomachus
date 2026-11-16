@@ -1,0 +1,56 @@
+                                                                                         •
+                                  NlCOMACHUS OF GERASA
+
+ fixed, with respect to the two even terms. For as the greatest tenn 1
+ is to the least, so is the difference of the greater terms to that of the
+ lesser; by what fractions, seen as fractions of the greater term, the
+ mean is smaller than the greater term, by these the same mean term is
+ greater than the smallest term when they are looked upon as fractions
+ of the smallest term; the ratio between tbe greater terms is greater,
+ and that of the smaller terms, smaller, a thing which is not true of any
+ other proportion; and the sum of tbe extremes multiplied by the mean
+ is double the product of the extremes.
+6 If, bowever, the two terms that are given are not even but odd, like
+ 5, 45, the same number, 25, will make the arithmetic proportion;
+ and the reason for this is that the terms on either side overpass it and
+ fail to come up to it by an equal number, keeping the same quantitative
+ difference with respect to it. 'S substituted makes the geometric
+ proportion, as it is the triple and subtriple of each respectively; and
+ if 9 takes over the function of mean term it gives the harmonic; for by
+ those parts of the smaller term by which it exceeds, namely, four fifths
+ of the smaller, it is also less than the greater, if they be regarded as
+ parts of the greater term, for this too is four fifths, and if you try all the
+ previously mentioned properties of the harmonic ratio you will find
+ that they will fit.
+7 And let this be your method whereby you might scientifically fashion
+ the mean terms that are illustrated in the three proportions. For the
+ two terms given you, whether odd or even, you will find the arithmetic '
+ mean by adding the extremes and putting down half of them as the
+ mean, or if you divide by 2 the excess of the greater over the smaller,
+ and add this to the smaller, you will have the mean. As for the geo-
+ metric mean, if you find the square root of the product' of the ex-
+ tremes, you will produce it, or, observing the ratio' of the terms to one
+    1 In the series 10, 16, 40
+    (a) ~ _ 40 -       16 _ 24.
+          10    16 -   106
+    (6) The difference between 40 and 16, 24. is f of 40, and the difference between 16 and 10,
+          6,isloflo.
+    (,) »> tt·
+    (d) (40    + IQ) X 16 - 2 X (40 X 10) ,. Soo.
+    t In general terms, the arithmetic mean between a and b is a
+                                                                     , b • or, if a < b, it is a + b -, a.
+                                                                     +
+    J   In general terms the geometric mean is v;b.
+    I   Nicomachus is stating the following proposition put into general terms: given a and ar, ar
+                                                                                                        ,
+                           . Wl'th th em an d·'
+                                             a: - "" '"
+  . form a geometnc
+ Will             . proportlon                       - : Br.
+                                                              , ,       This will hold good only for
+
+
+
+
+                                                 Or",,, .1 If '"'
+                                  (,oogk     UNN£RSlTY Of MICHIGAN

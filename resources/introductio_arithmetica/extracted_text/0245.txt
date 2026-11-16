@@ -1,0 +1,58 @@
+                                  TRANSLATION : BOOK 1                                            "9
+
+of the one from which both of the differentiated ones are derived,
+the last term is always the same and a square; the first term becomes
+the smallest, and invariably the extremes are squares.
+   Moreover the multiple superpartients and superpartients of other 16
+kinds are made to appear in yet another way out of the superpartients;
+for example, from the superbipartient relation arranged so as to be-
+gin with the smallest term comes the double superbipartient, but,
+arranged so as to start with the greatest, the superpartient ratio of
+8: 5. Thus from 9, IS, 25 comes either 9, 24,64 or 25, 40, 64. From
+the supertripartient, beginning with the smallest term, we have the
+double supertripartient, and, beginning with the largest, the ratio of
+I I : 7. Thus, from 16, 28, 49 comes either 16,44, 121 or 49, 77, 121.
+Again, from the superquintipartient, as, for example, 25, 45, 81, be- 17
+ginning with the lesser term we derive the double superquintipartient
+in the terms 25,70,196, but beginning with the greater a superpartient
+again, the ratio of 14: 9, in the terms 81, 126, 196. And you will
+find the results analogous and in agreement with the foregoing in all
+successive cases to infinity.l
+ratios that may be derived from any given ratio by the application of the rules under discussion
+to the given ratio taken in direct and reversed order in turn, and it is because of the latter circum_
+stance that they are called 'contrasted' (so Ast, Theol. Arilh., p. 268, disilmcJi.f et i,"" se opposi-
+lis, uno 1Iimjrum recta, aJkrll contre1'sa). In further illustration of the meaning the ratios men-
+tioned by the author may be examined;
+Orjginnl ralios :
+   Direc.f ortkr,        6                    16     ,6   '0   25 ;
+   Rna'se order,
+                    4
+                         6  4
+                              9      9
+                                    16
+                                       " 9           'S   '0   ,6 ,.
+                                    ,6 "
+                    9
+   Derived forms,   9   'S 'S          ,8 49         'S 4S 8, ,.
+                    4   '0 'S                 49      ,6 36 8,
+                                     9
+                                         "
+Now whenever theM: derivative ratios are produced, ( I) the last term, a square, is the same in each
+('5,49,81 in the scheme above); (,) the first term in the 61'5t derivative is the larger square of
+the original ratio, but in the second it is the smaller ('it changes from the larger to the smaller') ;
+(J ) all the extreme terms are squares.
+     I Certain of the MSS (See the critical note, p. 70, r5 Hoche) here add : .. Moreover in all the
+given series the extremes are always squares; and the mean terms are derived from their sides
+multiplied together; and the first term of the generating ratio becomes the smaller term of the
+ratio generated. And in both the ratios generated the last and greater square is the same."
+This material was used by Ast to reconstruct the tut of section IS , which would then read much
+like the addition to the text just translated. In comparing the ratios given in the preceding note
+it may be observed that in 4, 6, 9. for example, the mean, 6, is 2 X 3 (the product of the sides of
+the squares 4 and 9) and the same is true of the rest. Then again the first tenn of 9.6.4 is the
+smallest of the series 9. IS, 25 derived from it, while the lint term of 4.6.9 is the smallest of the
+derivative series 4, 10. 2S. and so with the rest.
+
+
+
+
+                                                                                                          I,•
