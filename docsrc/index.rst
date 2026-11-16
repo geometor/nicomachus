@@ -2,13 +2,13 @@
 
 .. container:: author-overline
 
-   the works of
+   semantic digital archive • the works of
 
 ====================
 Nicomachus of Gerasa
 ====================
 
-The mission of this project is to capture a semantic digital library of the works of :person:`Nicomachus of Gerasa <nicomachus>` (c. 60 – c. 120 CE), the Neo-Pythagorean philosopher and mathematician whose *Introductio Arithmetica* established the classical curriculum of the Quadrivium and the systematic theory of figurate numbers, ratio unfolding, and harmonic proportion.
+The works of :person:`Nicomachus of Gerasa <nicomachus>` (c. 60 – c. 120 CE) established the classical curriculum of the Quadrivium and the systematic theory of figurate numbers, ratio unfolding, and harmonic proportion in his masterwork *Introductio Arithmetica*. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, these foundational texts are liberated from static print bounds into addressable semantic units, calibrated vector diagrams, primary-source folio provenance, and exact symbolic algebra speaking one shared geometric language.
 
 .. collection::
    :type: book
