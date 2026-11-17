@@ -68,7 +68,7 @@ def test_apparatus_jsons_and_rst_anchors() -> None:
     assert len(concordance["loci"]) >= 20
 
     bib_rst = (BOOK_DIR / "bibliography.rst").read_text(encoding="utf-8")
-    per_rst = (BOOK_DIR / "persons.rst").read_text(encoding="utf-8")
+    per_rst = "\n".join(p.read_text(encoding="utf-8") for p in sorted((BOOK_DIR / "people").glob("*.rst")))
     glo_rst = (BOOK_DIR / "glossary.rst").read_text(encoding="utf-8")
 
     for key in citations:
