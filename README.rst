@@ -20,6 +20,18 @@ Books in This Archive
 
 - `Introduction to Arithmetic <https://geometor.github.io/nicomachus/introductio_arithmetica/>`_ — Foundational Pythagorean exposition of arithmetic, figurative numbers, ratios, and proportion theory (Hoche 1866 & D'Ooge 1926).
 
+Python Package & Modules
+------------------------
+
+The ``geometor-nicomachus`` Python package (``import geometor.nicomachus``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
+
+- ``equality_tree.py`` — Nicomachus's Rule of Three Terms & Reduction to Equality (Book I, Chs. 17–23; Book II, Chs. 1–2).
+- ``figurate_gnomons.py`` — Sieve, Perfect Numbers, Polygonal Gnomons & Nicomachus's Cubes Theorem (Book I.13–16; Book II.6–20).
+- ``ten_means_and_cube.py`` — Ten Nicomachean Proportions & the Cube Harmony 6 : 8 :: 9 : 12 (Book II, Chs. 21–29).
+- ``sphinx_ext.py`` — Runtime Sphinx & photon-platform/publish integration for GEOMETOR Nicomachus.
+
+See the `API Reference <https://geometor.github.io/nicomachus/modules/>`_ for full module documentation.
+
 Repository Contents
 -------------------
 
