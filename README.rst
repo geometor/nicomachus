@@ -3,17 +3,22 @@ GEOMETOR • nicomachus
 
 **Visit the Online Archive:** https://geometor.github.io/nicomachus/
 
-**Nicomachus of Gerasa • Introductio Arithmetica • semantic digital archive**
+.. image:: docsrc/_static/figures/cube-most-perfect-proportion.svg
+   :alt: GEOMETOR • nicomachus featured geometric construction
+   :target: https://geometor.github.io/nicomachus/
+   :align: center
+
+**Nicomachus of Gerasa • Introduction to Arithmetic • semantic digital archive**
 
 Mission
 -------
 
-``geometor/nicomachus`` is part of the interconnected `GEOMETOR <https://geometor.com>`_ semantic digital archive. It preserves Nicomachus of Gerasa's foundational Greek treatise *Introductio Arithmetica* (*Ἀριθμητικὴ Εἰσαγωγή*), which established the classical Quadrivium curriculum through the systematic theory of figurate numbers, polygonal gnomons, ratio unfolding from equality, and ten Neo-Pythagorean means. Through addressable semantic units, calibrated theme-adaptive vector diagrams, primary-source folio provenance, and exact SymPy symbolic algebra, Nicomachus's arithmetical geometry connects ancient Pythagorean number theory to modern constructive algebra across the GEOMETOR corpus.
+``geometor/nicomachus`` is part of the interconnected `GEOMETOR <https://geometor.com>`_ semantic digital archive. It preserves Nicomachus of Gerasa's foundational Greek treatise *Introduction to Arithmetic* (*Ἀριθμητικὴ Εἰσαγωγή*), which established the classical Quadrivium curriculum through the systematic theory of figurate numbers, polygonal gnomons, ratio unfolding from equality, and ten Neo-Pythagorean means. Through addressable semantic units, calibrated theme-adaptive vector diagrams, primary-source folio provenance, and exact SymPy symbolic algebra, Nicomachus's arithmetical geometry connects ancient Pythagorean number theory to modern constructive algebra across the GEOMETOR corpus.
 
 Books in This Archive
 ---------------------
 
-- **`Introductio Arithmetica <https://geometor.github.io/nicomachus/introductio_arithmetica/>`_** — Foundational Pythagorean exposition of arithmetic, figurative numbers, ratios, and proportion theory (Hoche 1866 & D'Ooge 1926).
+- **`Introduction to Arithmetic <https://geometor.github.io/nicomachus/introductio_arithmetica/>`_** — Foundational Pythagorean exposition of arithmetic, figurative numbers, ratios, and proportion theory (Hoche 1866 & D'Ooge 1926).
 
 Repository Contents
 -------------------
