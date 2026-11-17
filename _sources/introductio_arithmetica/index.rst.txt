@@ -2,21 +2,22 @@
 :order: 1
 :type: book
 :layout: book
-:nav_title: Introductio Arithmetica
-:breadcrumb_title: Introductio Arithmetica
-:book_title: Introductio Arithmetica
+:nav_title: Introduction to Arithmetic
+:breadcrumb_title: Introduction to Arithmetic
+:book_title: Introduction to Arithmetic
 :book_subtitle: Ἀριθμητικὴ Εἰσαγωγή — Nicomachus of Gerasa (Hoche 1866 & D'Ooge 1926)
 :author: Nicomachus of Gerasa
 :book_theme: classical-serif
 :hero: /_static/figures/quadrivium-tetrad.svg
+:tracks: English: index | Greek: title-el
 :excerpt: Nicomachus's foundational Neo-Pythagorean treatise on the quadrivium, ratio unfolding, figurate numbers, arithmetic gnomons, and harmonic proportion.
 
 .. _introductio-arithmetica:
 .. _introductio-arithmetica-index:
 
-=======================
-Introductio Arithmetica
-=======================
+==========================
+Introduction to Arithmetic
+==========================
 
 .. rubric:: *Ἀριθμητικὴ Εἰσαγωγή* (*Introductio Arithmetica*) — Nicomachus of Gerasa
 
@@ -63,3 +64,10 @@ Scholarly Apparatus
    bibliography
    persons
    glossary
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-el
