@@ -18,7 +18,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`Introduction to Arithmetic <https://geometor.github.io/nicomachus/introductio_arithmetica/>`_** — Foundational Pythagorean exposition of arithmetic, figurative numbers, ratios, and proportion theory (Hoche 1866 & D'Ooge 1926).
+- `Introduction to Arithmetic <https://geometor.github.io/nicomachus/introductio_arithmetica/>`_ — Foundational Pythagorean exposition of arithmetic, figurative numbers, ratios, and proportion theory (Hoche 1866 & D'Ooge 1926).
 
 Repository Contents
 -------------------
