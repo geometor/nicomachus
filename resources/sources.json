@@ -1,0 +1,39 @@
+{
+  "repository": "geometor/nicomachus",
+  "rights_category": "public-domain",
+  "sources": [
+    {
+      "id": "hoche-1866-teubner",
+      "title": "Nicomachi Geraseni Pythagorei Introductionis Arithmeticae Libri II (1866)",
+      "author": "Richard Hoche (ed.)",
+      "year": "1866",
+      "era": "Internet Archive",
+      "languages": [
+        "Greek",
+        "Latin"
+      ],
+      "site_url": "https://archive.org/details/nicomachigerasen00nicouoft",
+      "local_path": "resources/introductio_arithmetica/pdfs/hoche_1866_teubner.pdf",
+      "pages": 224,
+      "publisher": "B. G. Teubner, Leipzig",
+      "rights": "Public Domain (1866)",
+      "excerpt": "Teubner Greek critical edition (1866), 224 pp., paired with First1KGreek TEI XML."
+    },
+    {
+      "id": "dooge-1926-michigan",
+      "title": "Introduction to Arithmetic (D'Ooge Translation, 1926)",
+      "author": "Martin Luther D'Ooge (trans.)",
+      "year": "1926",
+      "era": "HathiTrust",
+      "languages": [
+        "English"
+      ],
+      "site_url": "https://babel.hathitrust.org/cgi/pt?id=mdp.39015005675411",
+      "local_path": "resources/introductio_arithmetica/pdfs/dooge_1926_michigan.pdf",
+      "pages": 348,
+      "publisher": "University of Michigan Press",
+      "rights": "Public Domain (1926)",
+      "excerpt": "University of Michigan English translation & studies (1926), 348 pp., HathiTrust."
+    }
+  ]
+}
