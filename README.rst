@@ -1,13 +1,13 @@
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • nicomachus Medallion
+   :target: https://geometor.github.io/nicomachus/
+   :width: 150px
+   :align: right
+
 GEOMETOR • nicomachus
 =====================
 
 **Visit the Online Archive:** https://geometor.github.io/nicomachus/
-
-.. image:: docsrc/_static/logo.png
-   :alt: GEOMETOR • nicomachus Medallion
-   :target: https://geometor.github.io/nicomachus/
-   :width: 180px
-   :align: center
 
 .. image:: docsrc/_static/figures/cube-most-perfect-proportion.svg
    :alt: GEOMETOR • nicomachus featured geometric construction
