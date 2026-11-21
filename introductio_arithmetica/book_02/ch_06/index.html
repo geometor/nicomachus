@@ -1,0 +1,229 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../../../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Book II, Ch. 6: Chapter 6: Alpha-Pebble Notation, the Monad, and the Three Dimensions — Introduction to Arithmetic • GEOMETOR</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="canonical" href="https://geometor.github.io/nicomachus/introductio_arithmetica/book_02/ch_06/" />
+  <meta name="description" content="1. Thus far we have spoken sufficiently concerning relative quantity, selecting what is fitting and readily grasped by beginners. What remains on that subject will be filled in once we have…" />
+  <meta property="og:site_name" content="GEOMETOR" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Book II, Ch. 6: Chapter 6: Alpha-Pebble Notation, the Monad, and the Three Dimensions — Introduction to Arithmetic • GEOMETOR" />
+  <meta property="og:description" content="1. Thus far we have spoken sufficiently concerning relative quantity, selecting what is fitting and readily grasped by beginners. What remains on that subject will be filled in once we have…" />
+  <meta property="og:url" content="https://geometor.github.io/nicomachus/introductio_arithmetica/book_02/ch_06/" />
+  <meta property="og:image" content="https://geometor.github.io/nicomachus/_static/social/introductio_arithmetica.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1280" />
+  <meta property="og:image:height" content="640" />
+  <meta property="og:image:alt" content="Nicomachus of Gerasa — GEOMETOR" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Book II, Ch. 6: Chapter 6: Alpha-Pebble Notation, the Monad, and the Three Dimensions — Introduction to Arithmetic • GEOMETOR" />
+  <meta name="twitter:description" content="1. Thus far we have spoken sufficiently concerning relative quantity, selecting what is fitting and readily grasped by beginners. What remains on that subject will be filled in once we have…" />
+  <meta name="twitter:image" content="https://geometor.github.io/nicomachus/_static/social/introductio_arithmetica.png" />
+  <meta name="twitter:image:alt" content="Nicomachus of Gerasa — GEOMETOR" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../../_static/css/styles.css?v=eb8dadcd" />
+  <link rel="stylesheet" type="text/css" href="../../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=7ec4242d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../../_static/favicon.ico" />
+</head>
+
+<body class="is-book-page book-theme-classical-serif" data-folio="introductio_arithmetica:0252">
+  <header>
+    <div class="logo">
+      <a href="../../../index.html" title="Home">
+        <img src="../../../_static/logo.png" class="logo" alt="GEOMETOR nicomachus"/>
+        <div class="org-repo">
+          <span class="org">GEOMETOR</span>
+          <span class="sep" aria-hidden="true">&bull;</span>
+          <span class="repo">nicomachus</span>
+        </div>
+      </a>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../../index.html" class="is-active" aria-selected="true" >Introduction to Arithmetic</a>
+        </li>
+        <li>
+          <a href="../../people/index.html"  >People</a>
+        </li>
+        <li>
+          <a href="../../../sources/index.html"  >Sources</a>
+        </li>
+        <li>
+          <a href="../../bibliography.html"  >Bibliography</a>
+        </li>
+        <li>
+          <a href="../../concordance.html"  >Concordance</a>
+        </li>
+        <li>
+          <a href="../../glossary.html"  >Glossary</a>
+        </li>
+        <li>
+          <a href="../../../about/index.html"  >About</a>
+        </li>
+        <li>
+          <a href="../../../log/index.html"  >Log</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane" data-folio="introductio_arithmetica:0252" data-canonical-id="Book II, Ch. 6">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <nav class="book-breadcrumbs" aria-label="Breadcrumb">
+            <a class="book-section-home-link" href="../../index.html">Introduction to Arithmetic</a>
+            <span class="book-crumb-sep" aria-hidden="true">/</span>
+            <a class="book-crumb-link" href="../index.html">Book II</a>
+            <span class="book-crumb-sep" aria-hidden="true">/</span>
+            <a class="book-crumb-link" href="el.html">Ch. 6</a>
+          </nav>
+          <div class="book-provenance-badges">
+            <span class="book-badge folio-badge">D’Ooge pp. 236–239 · Hoche pp. 82–86</span>
+            <a class="book-badge folio-badge folio-link" href="https://raw.githubusercontent.com/geometor/nicomachus/main/resources/introductio_arithmetica/folios/0252.png" target="_blank" rel="noopener" title="View Folio introductio_arithmetica:0252">Folio 0252</a>
+          </div>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../ch_05/index.html" title="Chapter 5: Composition and Resolution of Multiples from Superparticulars">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+            <nav class="book-tracks-nav" aria-label="Document Tracks">
+              <strong class="book-track-item is-active" aria-current="page">English</strong>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-track-item" href="el.html">Greek (Hoche 1866)</a>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-track-item" href="summary.html">Summary</a>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-track-item" href="notes.html">Notes</a>
+            </nav>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../ch_07/index.html" title="Chapter 7: Point, Line, Surface, and the Triangle as Element of Polygons"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content folio-book-page" role="main">
+        <section class="level-1" id="chapter-6-alpha-pebble-notation-the-monad-and-the-three-dimensions">
+        <span id="nicomachus-en-2-6"></span><h1>Chapter 6: Alpha-Pebble Notation, the Monad, and the Three Dimensions<a class="headerlink" href="#chapter-6-alpha-pebble-notation-the-monad-and-the-three-dimensions" title="Link to this heading">¶</a></h1>
+        <span class="folio-anchor" id="folio-introductio_arithmetica:0252" data-folio="introductio_arithmetica:0252" data-page="p. 236"></span><p><strong>1.</strong> Thus far we have spoken sufficiently concerning relative quantity, selecting what is fitting and readily grasped by beginners. What remains on that subject will be filled in once we have paused to set forth earlier matters that belong to absolute quantity and have prior claim—for mathematical theorems ever illuminate one another.
+        What we must first examine concerns linear, plane, and solid numbers—cubic and spherical, equilateral and scalene, bricks, beams, wedges, and the like—which properly belong to geometry as concerning magnitude, yet are taken up seminally into arithmetic as their mother and elder; for we remember how arithmetic</p>
+        <span class="folio-milestone" id="folio-introductio_arithmetica:0253" data-folio="introductio_arithmetica:0253" data-page="p. 237"><a class="folio-link" href="https://raw.githubusercontent.com/geometor/nicomachus/main/resources/introductio_arithmetica/folios/0253.png" target="_blank" rel="noopener" title="View Folio introductio_arithmetica:0253 (p. 237) PNG">f. 0253 · p. 237</a></span>
+        <p>recently proved to abolish the other sciences with itself while not being abolished with them, and to be implied necessarily by them while not implying them.</p>
+        <p><strong>2.</strong> First, we must recognize that every letter by which we mark a number—such as <span class="math notranslate nohighlight">\(\iota\)</span> for ten, <span class="math notranslate nohighlight">\(\kappa\)</span> for twenty, <span class="math notranslate nohighlight">\(\omega\)</span> for eight hundred—signifies the number by human convention and agreement, not by nature.
+        The natural, artless, and therefore simplest notation for numbers is the side-by-side display of the units contained in each: thus one unit written by a single <em>alpha</em> will signify <span class="math notranslate nohighlight">\(1\)</span>; two units side by side, two <em>alphas</em>, will signify <span class="math notranslate nohighlight">\(2\)</span>; three set in a straight line will be the mark of <span class="math notranslate nohighlight">\(3\)</span>; four in line, of <span class="math notranslate nohighlight">\(4\)</span>; five, of <span class="math notranslate nohighlight">\(5\)</span>; and so onward. Only through such writing can the shapes of planes and solids be clearly shown:</p>
+        <blockquote>
+        <div><p>The monad <code class="docutils literal notranslate"><span class="pre">α</span></code>, the dyad <code class="docutils literal notranslate"><span class="pre">αα</span></code>, the triad <code class="docutils literal notranslate"><span class="pre">ααα</span></code>, the tetrad <code class="docutils literal notranslate"><span class="pre">αααα</span></code>, the pentad <code class="docutils literal notranslate"><span class="pre">ααααα</span></code>,</p>
+        </div></blockquote>
+        <p>and similarly for greater numbers.
+        <strong>3.</strong> Now the <a class="term-ref glossary-term" id="occ-term-monas-1" href="../../glossary.html#term-monas" data-term="monas" title="monas (μονάς) (monad / unity): The indivisible principle and seed (σπέρμα) of all number, containing potentially (δυνάμει) every even, odd, polygonal, and solid form prior to actualization.">monad</a>, holding the place and character of a point, will be the principle of intervals and numbers, though not yet an interval or a number—just as a point is the principle of line and interval, though not yet line or interval. Indeed, point added to point makes nothing greater, for the dimensionless joined to the dimensionless gains no dimension, as though one added nothing to nothing,</p>
+        <span class="folio-milestone" id="folio-introductio_arithmetica:0254" data-folio="introductio_arithmetica:0254" data-page="p. 238"><a class="folio-link" href="https://raw.githubusercontent.com/geometor/nicomachus/main/resources/introductio_arithmetica/folios/0254.png" target="_blank" rel="noopener" title="View Folio introductio_arithmetica:0254 (p. 238) PNG">f. 0254 · p. 238</a></span>
+        <p>which produces nothing. We saw the same with <a class="term-ref glossary-term" id="occ-term-isotes-1" href="../../glossary.html#term-isotes" data-term="isotes" title="isotes (ἰσότης) (equality): Unvarying 1 : 1 relation admitting no species or subdivision; proved in I.23 and II.1–2 to be the primordial &#x27;mother and root&#x27; (μήτηρ καὶ ῥίζα) from which all five species of inequality unfold and into which all resolve.">equality</a> among ratios: proportion is preserved—as first to second, so second to third—yet no interval is generated between the extremes, as happens in all unequal ratios. Likewise the monad alone among all numbers, when multiplied by itself, generates nothing greater than itself.
+        <strong>4.</strong> Thus the monad is dimensionless and foundational; interval is first discovered in the dyad, then in the triad, the tetrad, and those that follow, since an interval is what is beheld between two terms. The first interval is called <em>line</em>—what is extended in one dimension; two intervals make <em>surface</em>—extended in two dimensions; three intervals make <em>solid</em>—extended in three dimensions. Nor can we conceive a solid with more than three dimensions: depth, breadth, and length. By these are defined the six directions belonging to every body, along which spatial motions are distinguished—forward and back, up and down, right and left—two opposite directions accompanying each dimension.</p>
+        <span class="folio-milestone" id="folio-introductio_arithmetica:0255" data-folio="introductio_arithmetica:0255" data-page="p. 239"><a class="folio-link" href="https://raw.githubusercontent.com/geometor/nicomachus/main/resources/introductio_arithmetica/folios/0255.png" target="_blank" rel="noopener" title="View Folio introductio_arithmetica:0255 (p. 239) PNG">f. 0255 · p. 239</a></span>
+        <p><strong>5.</strong> The statement also converts: whatever is solid has all three dimensions—length, depth, and breadth—and whatever has three dimensions is necessarily solid and nothing else. What has only two dimensions is not solid, but <em>surface</em>, admitting two dimensions alone; here too the converse holds: surface is what is two-dimensional, and what is two-dimensional is necessarily surface. Thus surface falls short of solid by one dimension; line, being one-dimensional, falls short of surface by one dimension and of solid by two; and the point falls short of line by one dimension—being dimensionless, falling short of solid by three dimensions, of surface by two, and of line by one.</p>
+        <div class="toctree-wrapper compound">
+        </div>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../ch_05/index.html" title="Chapter 5: Composition and Resolution of Multiples from Superparticulars">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../../index.html">Introduction to Arithmetic</a>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../ch_07/index.html" title="Chapter 7: Point, Line, Surface, and the Triangle as Element of Polygons"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../../../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../../../log/26.316-initial-codex.html">Initial Codex & Symbolic Engine — Introductio Arithmetica (Hoche 1866 Teubner & D’Ooge 1926 Critical Text)</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../../../types/book.html">book</a></li>
+        <li><a href="../../../types/book_title.html">book_title</a></li>
+        <li><a href="../../../types/log.html">log</a></li>
+        <li><a href="../../../types/person.html">person</a></li>
+        <li><a href="../../../types/source_record.html">source_record</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../../../usage/index.html"  >Usage</a></li>
+        <li><a href="../../../changelog.html"  >Changelog</a></li>
+        <li><a href="https://github.com/geometor/nicomachus" target="_blank" rel="noopener">GitHub</a></li>
+        <li><a href="https://github.com/geometor/nicomachus/issues" target="_blank" rel="noopener">Support</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 2026, GEOMETOR • Hoche Teubner (1866) & D'Ooge Michigan (1926) Critical Codex.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../../_static/documentation_options.js?v=59fadc99"></script>
+  <script src="../../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../../_static/js/collection_directory.js?v=2422530d"></script>
+  <script src="../../../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+  <script src="../../../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

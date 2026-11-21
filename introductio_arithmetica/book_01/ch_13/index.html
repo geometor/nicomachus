@@ -1,0 +1,421 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../../../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Book I, Ch. 13: Chapter 13: Relatively Prime Numbers &amp; the Sieve of Eratosthenes — Introduction to Arithmetic • GEOMETOR</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="canonical" href="https://geometor.github.io/nicomachus/introductio_arithmetica/book_01/ch_13/" />
+  <meta name="description" content="1. While these two species of the odd stand opposed to one another, a third is discerned in the middle between them, taking its form as it were from both—that which in itself is secondary and…" />
+  <meta property="og:site_name" content="GEOMETOR" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Book I, Ch. 13: Chapter 13: Relatively Prime Numbers &amp; the Sieve of Eratosthenes — Introduction to Arithmetic • GEOMETOR" />
+  <meta property="og:description" content="1. While these two species of the odd stand opposed to one another, a third is discerned in the middle between them, taking its form as it were from both—that which in itself is secondary and…" />
+  <meta property="og:url" content="https://geometor.github.io/nicomachus/introductio_arithmetica/book_01/ch_13/" />
+  <meta property="og:image" content="https://geometor.github.io/nicomachus/_static/social/introductio_arithmetica.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1280" />
+  <meta property="og:image:height" content="640" />
+  <meta property="og:image:alt" content="Nicomachus of Gerasa — GEOMETOR" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Book I, Ch. 13: Chapter 13: Relatively Prime Numbers &amp; the Sieve of Eratosthenes — Introduction to Arithmetic • GEOMETOR" />
+  <meta name="twitter:description" content="1. While these two species of the odd stand opposed to one another, a third is discerned in the middle between them, taking its form as it were from both—that which in itself is secondary and…" />
+  <meta name="twitter:image" content="https://geometor.github.io/nicomachus/_static/social/introductio_arithmetica.png" />
+  <meta name="twitter:image:alt" content="Nicomachus of Gerasa — GEOMETOR" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../../_static/css/styles.css?v=eb8dadcd" />
+  <link rel="stylesheet" type="text/css" href="../../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=7ec4242d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../../_static/favicon.ico" />
+</head>
+
+<body class="is-book-page book-theme-classical-serif" data-folio="introductio_arithmetica:0219">
+  <header>
+    <div class="logo">
+      <a href="../../../index.html" title="Home">
+        <img src="../../../_static/logo.png" class="logo" alt="GEOMETOR nicomachus"/>
+        <div class="org-repo">
+          <span class="org">GEOMETOR</span>
+          <span class="sep" aria-hidden="true">&bull;</span>
+          <span class="repo">nicomachus</span>
+        </div>
+      </a>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../../index.html" class="is-active" aria-selected="true" >Introduction to Arithmetic</a>
+        </li>
+        <li>
+          <a href="../../people/index.html"  >People</a>
+        </li>
+        <li>
+          <a href="../../../sources/index.html"  >Sources</a>
+        </li>
+        <li>
+          <a href="../../bibliography.html"  >Bibliography</a>
+        </li>
+        <li>
+          <a href="../../concordance.html"  >Concordance</a>
+        </li>
+        <li>
+          <a href="../../glossary.html"  >Glossary</a>
+        </li>
+        <li>
+          <a href="../../../about/index.html"  >About</a>
+        </li>
+        <li>
+          <a href="../../../log/index.html"  >Log</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane" data-folio="introductio_arithmetica:0219" data-canonical-id="Book I, Ch. 13">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <nav class="book-breadcrumbs" aria-label="Breadcrumb">
+            <a class="book-section-home-link" href="../../index.html">Introduction to Arithmetic</a>
+            <span class="book-crumb-sep" aria-hidden="true">/</span>
+            <a class="book-crumb-link" href="../index.html">Book I</a>
+            <span class="book-crumb-sep" aria-hidden="true">/</span>
+            <a class="book-crumb-link" href="el.html">Ch. 13</a>
+          </nav>
+          <div class="book-provenance-badges">
+            <span class="book-badge folio-badge">D’Ooge pp. 203–206 · Hoche pp. 28–36</span>
+            <a class="book-badge folio-badge folio-link" href="https://raw.githubusercontent.com/geometor/nicomachus/main/resources/introductio_arithmetica/folios/0219.png" target="_blank" rel="noopener" title="View Folio introductio_arithmetica:0219">Folio 0219</a>
+          </div>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../ch_12/index.html" title="Chapter 12: Secondary and Composite Numbers">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+            <nav class="book-tracks-nav" aria-label="Document Tracks">
+              <strong class="book-track-item is-active" aria-current="page">English</strong>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-track-item" href="el.html">Greek (Hoche 1866)</a>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-track-item" href="summary.html">Summary</a>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-track-item" href="notes.html">Notes</a>
+            </nav>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../ch_14/index.html" title="Chapter 14: Superabundant Numbers"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content folio-book-page" role="main">
+        <section class="level-1" id="chapter-13-relatively-prime-numbers-the-sieve-of-eratosthenes">
+        <span id="nicomachus-en-1-13"></span><h1>Chapter 13: Relatively Prime Numbers &amp; the Sieve of Eratosthenes<a class="headerlink" href="#chapter-13-relatively-prime-numbers-the-sieve-of-eratosthenes" title="Link to this heading">¶</a></h1>
+        <figure class="photon-picture photon-svg">
+            <svg class="euclid-graphic" xmlns="http://www.w3.org/2000/svg" data-graphic-id="sieve-perfect-numbers" width="820" height="474" viewBox="0 0 820 474" role="img" data-svg-scope="s-98644b72">
+          <style>
+            svg[data-svg-scope="s-98644b72"] .title { fill: #e8e2d5; font-size: 16px; font-weight: 700; letter-spacing: 0.02em }
+            svg[data-svg-scope="s-98644b72"] .subtitle { fill: #a8a195; font-size: 12px; font-style: italic }
+            svg[data-svg-scope="s-98644b72"] .lbl-b { fill: #e8e2d5; font-size: 13.5px; font-weight: 700 }
+            svg[data-svg-scope="s-98644b72"] .lbl-sm { fill: #a8a195; font-size: 11.5px }
+            svg[data-svg-scope="s-98644b72"] .lbl-gr { fill: #e2b553; font-size: 13px; font-style: italic }
+            svg[data-svg-scope="s-98644b72"] .lbl-accent { fill: #e2b553; font-weight: 700 }
+            svg[data-svg-scope="s-98644b72"] .lbl-blue { fill: #6ba9d8 }
+            svg[data-svg-scope="s-98644b72"] .lbl-green { fill: #78c491 }
+            svg[data-svg-scope="s-98644b72"] .lbl-rose { fill: #dc7d7d }
+            svg[data-svg-scope="s-98644b72"] .lbl-violet { fill: #b48ee0 }
+            svg[data-svg-scope="s-98644b72"] .mono { font-family: "JetBrains Mono", "Fira Code", monospace; font-size: 12px; fill: #e8e2d5 }
+            svg[data-svg-scope="s-98644b72"] .construct { stroke: #e8e2d5; stroke-width: 1.75; fill: none }
+            svg[data-svg-scope="s-98644b72"] .guide { stroke: #9a9488; stroke-width: 1.2; stroke-dasharray: 5 4; fill: none }
+            svg[data-svg-scope="s-98644b72"] .guide-accent { stroke: #e2b553; stroke-width: 1.6; stroke-dasharray: 5 4; fill: none }
+            svg[data-svg-scope="s-98644b72"] .accent-line { stroke: #e2b553; stroke-width: 2.2; fill: none }
+            svg[data-svg-scope="s-98644b72"] .blue-line { stroke: #6ba9d8; stroke-width: 2.0; fill: none }
+            svg[data-svg-scope="s-98644b72"] .green-line { stroke: #78c491; stroke-width: 2.0; fill: none }
+            svg[data-svg-scope="s-98644b72"] .rose-line { stroke: #dc7d7d; stroke-width: 2.0; fill: none }
+            svg[data-svg-scope="s-98644b72"] .violet-line { stroke: #b48ee0; stroke-width: 2.0; fill: none }
+            svg[data-svg-scope="s-98644b72"] .card { fill: #202026; fill-opacity: 0.72; stroke: #8e887c; stroke-width: 1.15 }
+            svg[data-svg-scope="s-98644b72"] .card-accent { fill: #202026; fill-opacity: 0.78; stroke: #e2b553; stroke-width: 1.85 }
+            svg[data-svg-scope="s-98644b72"] .card-blue { fill: #202026; fill-opacity: 0.78; stroke: #6ba9d8; stroke-width: 1.7 }
+            svg[data-svg-scope="s-98644b72"] .card-green { fill: #202026; fill-opacity: 0.78; stroke: #78c491; stroke-width: 1.7 }
+            svg[data-svg-scope="s-98644b72"] .card-violet { fill: #202026; fill-opacity: 0.78; stroke: #b48ee0; stroke-width: 1.7 }
+            svg[data-svg-scope="s-98644b72"] .card-rose { fill: #202026; fill-opacity: 0.78; stroke: #dc7d7d; stroke-width: 1.7 }
+            svg[data-svg-scope="s-98644b72"] .pt { fill: #e8e2d5 }
+            svg[data-svg-scope="s-98644b72"] .pt-accent { fill: #e2b553; stroke: #18181c; stroke-width: 1.1 }
+            svg[data-svg-scope="s-98644b72"] .alpha-pebble { font-size: 15px; font-weight: 700; text-anchor: middle; dominant-baseline: central }
+          </style>
+          <defs>
+            <marker id="geom-tick-1" viewBox="-6 -8 12 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="16" orient="auto">
+              <line x1="0" y1="-5.5" x2="0" y2="5.5" stroke="#e2b553" stroke-width="1.6" stroke-linecap="round"/>
+            </marker>
+            <marker id="geom-tick-2" viewBox="-8 -8 16 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="auto">
+              <line x1="-2.4" y1="-5.5" x2="-2.4" y2="5.5" stroke="#e2b553" stroke-width="1.5" stroke-linecap="round"/>
+              <line x1="2.4" y1="-5.5" x2="2.4" y2="5.5" stroke="#e2b553" stroke-width="1.5" stroke-linecap="round"/>
+            </marker>
+            <marker id="geom-tick-3" viewBox="-10 -8 20 16" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="20" markerHeight="16" orient="auto">
+              <line x1="-4.2" y1="-5.5" x2="-4.2" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+              <line x1="0" y1="-5.5" x2="0" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+              <line x1="4.2" y1="-5.5" x2="4.2" y2="5.5" stroke="#e2b553" stroke-width="1.4" stroke-linecap="round"/>
+            </marker>
+            <marker id="arrow-accent" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+              <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#e2b553"/>
+            </marker>
+            <marker id="arrow-muted" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+              <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#9a9488"/>
+            </marker>
+          </defs>
+          <g id="highlights"/>
+          <text x="410" y="28" text-anchor="middle" class="title">Nicomachus I.13 &amp; I.16 — The Odd Koskinon of Eratosthenes &amp; Perfect Numbers</text>
+          <text x="410" y="48" text-anchor="middle" class="subtitle">Top: Sieving odd numbers by strides of 3 and 5 · Bottom: Dyadic Euclid–Nicomachus generation of 6, 28, 496, 8128</text>
+          <rect x="20" y="62" width="780" height="148" rx="8" class="card"/>
+          <text x="36" y="84" class="lbl-b">I.13 · Odd Progression (3 … 35): Stride-3 arcs (rose) &amp; Stride-5 arcs (blue)</text>
+          <g data-ref="SIEVE3">
+            <path d="M 42.0 110.0 Q 110.2 82.0 178.5 110.0" fill="none" class="rose-line"/>
+            <path d="M 178.5 110.0 Q 246.8 82.0 315.0 110.0" fill="none" class="rose-line"/>
+            <path d="M 315.0 110.0 Q 383.2 82.0 451.5 110.0" fill="none" class="rose-line"/>
+            <path d="M 451.5 110.0 Q 519.8 82.0 588.0 110.0" fill="none" class="rose-line"/>
+            <path d="M 588.0 110.0 Q 656.2 82.0 724.5 110.0" fill="none" class="rose-line"/>
+          </g>
+          <g data-ref="SIEVE5">
+            <path d="M 87.5 146.0 Q 201.2 182.0 315.0 146.0" fill="none" class="blue-line"/>
+            <path d="M 315.0 146.0 Q 428.8 182.0 542.5 146.0" fill="none" class="blue-line"/>
+            <path d="M 542.5 146.0 Q 656.2 182.0 770.0 146.0" fill="none" class="blue-line"/>
+          </g>
+          <g data-ref="P3">
+            <circle cx="42.0" cy="128.0" r="16" class="card-accent"/>
+            <text x="42.0" y="132.0" text-anchor="middle" class="mono">3</text>
+          </g>
+          <g data-ref="P5">
+            <circle cx="87.5" cy="128.0" r="16" class="card-accent"/>
+            <text x="87.5" y="132.0" text-anchor="middle" class="mono">5</text>
+          </g>
+          <g data-ref="P7">
+            <circle cx="133.0" cy="128.0" r="16" class="card-accent"/>
+            <text x="133.0" y="132.0" text-anchor="middle" class="mono">7</text>
+          </g>
+          <g>
+            <circle cx="178.5" cy="128.0" r="16" class="card"/>
+            <line x1="168.5" y1="138.0" x2="188.5" y2="118.0" stroke="#dc7d7d" stroke-width="1.4"/>
+            <text x="178.5" y="132.0" text-anchor="middle" class="mono">9</text>
+          </g>
+          <g>
+            <circle cx="224.0" cy="128.0" r="16" class="card-accent"/>
+            <text x="224.0" y="132.0" text-anchor="middle" class="mono">11</text>
+          </g>
+          <g>
+            <circle cx="269.5" cy="128.0" r="16" class="card-accent"/>
+            <text x="269.5" y="132.0" text-anchor="middle" class="mono">13</text>
+          </g>
+          <g data-ref="P15">
+            <circle cx="315.0" cy="128.0" r="16" class="card-violet"/>
+            <line x1="305.0" y1="138.0" x2="325.0" y2="118.0" stroke="#dc7d7d" stroke-width="1.4"/>
+            <text x="315.0" y="132.0" text-anchor="middle" class="mono">15</text>
+          </g>
+          <g>
+            <circle cx="360.5" cy="128.0" r="16" class="card-accent"/>
+            <text x="360.5" y="132.0" text-anchor="middle" class="mono">17</text>
+          </g>
+          <g>
+            <circle cx="406.0" cy="128.0" r="16" class="card-accent"/>
+            <text x="406.0" y="132.0" text-anchor="middle" class="mono">19</text>
+          </g>
+          <g>
+            <circle cx="451.5" cy="128.0" r="16" class="card"/>
+            <line x1="441.5" y1="138.0" x2="461.5" y2="118.0" stroke="#dc7d7d" stroke-width="1.4"/>
+            <text x="451.5" y="132.0" text-anchor="middle" class="mono">21</text>
+          </g>
+          <g>
+            <circle cx="497.0" cy="128.0" r="16" class="card-accent"/>
+            <text x="497.0" y="132.0" text-anchor="middle" class="mono">23</text>
+          </g>
+          <g>
+            <circle cx="542.5" cy="128.0" r="16" class="card"/>
+            <line x1="532.5" y1="138.0" x2="552.5" y2="118.0" stroke="#dc7d7d" stroke-width="1.4"/>
+            <text x="542.5" y="132.0" text-anchor="middle" class="mono">25</text>
+          </g>
+          <g>
+            <circle cx="588.0" cy="128.0" r="16" class="card"/>
+            <line x1="578.0" y1="138.0" x2="598.0" y2="118.0" stroke="#dc7d7d" stroke-width="1.4"/>
+            <text x="588.0" y="132.0" text-anchor="middle" class="mono">27</text>
+          </g>
+          <g>
+            <circle cx="633.5" cy="128.0" r="16" class="card-accent"/>
+            <text x="633.5" y="132.0" text-anchor="middle" class="mono">29</text>
+          </g>
+          <g>
+            <circle cx="679.0" cy="128.0" r="16" class="card-accent"/>
+            <text x="679.0" y="132.0" text-anchor="middle" class="mono">31</text>
+          </g>
+          <g>
+            <circle cx="724.5" cy="128.0" r="16" class="card"/>
+            <line x1="714.5" y1="138.0" x2="734.5" y2="118.0" stroke="#dc7d7d" stroke-width="1.4"/>
+            <text x="724.5" y="132.0" text-anchor="middle" class="mono">33</text>
+          </g>
+          <g>
+            <circle cx="770.0" cy="128.0" r="16" class="card"/>
+            <line x1="760.0" y1="138.0" x2="780.0" y2="118.0" stroke="#dc7d7d" stroke-width="1.4"/>
+            <text x="770.0" y="132.0" text-anchor="middle" class="mono">35</text>
+          </g>
+          <text x="36" y="198" class="lbl-sm">Gold circles = Prime &amp; incomposite (πρῶτοι καὶ ἀσύνθετοι) · Crossed = Secondary &amp; composite (δεύτεροι καὶ σύνθετοι; 9 = 3², 15 = 3×5)</text>
+          <rect x="20" y="222" width="780" height="236" rx="8" class="card"/>
+          <text x="36" y="246" class="lbl-b">I.16 · Perfect Numbers (τέλειοι): Equal to the Sum of Their Proper Aliquot Parts</text>
+          <g data-ref="PERF6">
+            <text x="36" y="274" class="lbl-b">6 = 2¹(2² − 1) = 1 + 2 + 3</text>
+            <rect x="36" y="284" width="60" height="28" fill="#e2b553" fill-opacity="0.24" stroke="#e2b553" stroke-width="1.2"/>
+            <rect x="96" y="284" width="120" height="28" fill="#6ba9d8" fill-opacity="0.24" stroke="#6ba9d8" stroke-width="1.2"/>
+            <rect x="216" y="284" width="180" height="28" fill="#78c491" fill-opacity="0.24" stroke="#78c491" stroke-width="1.2"/>
+            <text x="66" y="303" text-anchor="middle" class="mono">1</text>
+            <text x="156" y="303" text-anchor="middle" class="mono">2</text>
+            <text x="306" y="303" text-anchor="middle" class="mono">3</text>
+            <path d="M 36.00 322.00 L 216.00 322.00 L 396.00 322.00" fill="none" class="accent-line" marker-mid="url(#geom-tick-1)"/>
+            <text x="216" y="339" text-anchor="middle" class="lbl-sm">Whole = 6 (first perfect number, in units)</text>
+          </g>
+          <g data-ref="PERF28">
+            <text x="36" y="368" class="lbl-b">28 = 2²(2³ − 1) = 1 + 2 + 4 + 7 + 14</text>
+            <rect x="36" y="378" width="13" height="28" fill="#e2b553" fill-opacity="0.24" stroke="#e2b553" stroke-width="1.2"/>
+            <rect x="49" y="378" width="26" height="28" fill="#6ba9d8" fill-opacity="0.24" stroke="#6ba9d8" stroke-width="1.2"/>
+            <rect x="75" y="378" width="51" height="28" fill="#78c491" fill-opacity="0.24" stroke="#78c491" stroke-width="1.2"/>
+            <rect x="126" y="378" width="90" height="28" fill="#b48ee0" fill-opacity="0.24" stroke="#b48ee0" stroke-width="1.2"/>
+            <rect x="216" y="378" width="180" height="28" fill="#dc7d7d" fill-opacity="0.24" stroke="#dc7d7d" stroke-width="1.2"/>
+            <text x="55" y="397" text-anchor="middle" class="mono">1+2</text>
+            <text x="100" y="397" text-anchor="middle" class="mono">4</text>
+            <text x="171" y="397" text-anchor="middle" class="mono">7</text>
+            <text x="306" y="397" text-anchor="middle" class="mono">14</text>
+            <path d="M 36.00 416.00 L 216.00 416.00 L 396.00 416.00" fill="none" class="green-line" marker-mid="url(#geom-tick-2)"/>
+            <text x="216" y="434" text-anchor="middle" class="lbl-sm">Whole = 28 (second perfect number, in tens)</text>
+          </g>
+          <g data-ref="MERSENNE">
+            <rect x="424" y="258" width="360" height="182" rx="8" class="card-accent"/>
+            <text x="604" y="280" text-anchor="middle" class="lbl-b">Dyadic Rule: P = 2ᵖ⁻¹ · (2ᵖ − 1)</text>
+            <text x="440" y="306" class="mono">p = 2 : 1+2 = 3 (prime)     → 2·3    = 6</text>
+            <text x="440" y="328" class="mono">p = 3 : 1+2+4 = 7 (prime)   → 4·7    = 28</text>
+            <text x="440" y="350" class="mono">p = 5 : 2⁵ − 1 = 31 (prime) → 16·31  = 496</text>
+            <text x="440" y="372" class="mono">p = 7 : 2⁷ − 1 = 127 (prime)→ 64·127 = 8128</text>
+            <line x1="440" y1="386" x2="768" y2="386" class="guide"/>
+            <text x="440" y="408" class="mono lbl-rose">p = 11: 2¹¹ − 1 = 2047 = 23 × 89</text>
+            <text x="440" y="426" class="lbl-sm">Composite! Breaks naive 10⁴ alternation</text>
+          </g>
+        </svg>
+        <figcaption>Top (Book I, Ch. 13): Eratosthenes's Koskinon operates strictly on the odd sequence 3, 5, 7, 9, 11, 13, 15, ...</figcaption>
+        </figure>
+        <span class="folio-anchor" id="folio-introductio_arithmetica:0219" data-folio="introductio_arithmetica:0219" data-page="p. 203"></span><p><strong>1.</strong> While these two species of the odd stand opposed to one another, a third is discerned in the middle between them, taking its form as it were from both—that which in itself is secondary and composite, yet relative to another is prime and incomposite.
+        This occurs whenever a number, besides unity as its common measure, is also measured by some other measure and is therefore able to admit a part or parts with a different name alongside the part sharing its own name; yet</p>
+        <span class="folio-milestone" id="folio-introductio_arithmetica:0220" data-folio="introductio_arithmetica:0220" data-page="p. 204"><a class="folio-link" href="https://raw.githubusercontent.com/geometor/nicomachus/main/resources/introductio_arithmetica/folios/0220.png" target="_blank" rel="noopener" title="View Folio introductio_arithmetica:0220 (p. 204) PNG">f. 0220 · p. 204</a></span>
+        <p>when set alongside another number similarly constituted, it proves unable to be measured by any common measure with that other, nor does it hold any part sharing the same name as those strictly contained in that other. For instance, 9 compared with 25: each on its own is secondary and composite, yet toward each other they have unity alone as a common measure,
+        and no fractional part shares the same name in both—the third that lies in 9 is not in 25, nor is the fifth that lies in 25 found in 9.</p>
+        <p><strong>2.</strong> Their mode of generation is named by Eratosthenes a <a class="term-ref glossary-term" id="occ-term-koskinon-1" href="../../glossary.html#term-koskinon" data-term="koskinon" title="koskinon Eratosthenous (κόσκινον Ἐρατοσθένους) (Sieve of Eratosthenes): Algorithmic winnowing of the odd progression 3, 5, 7, 9, 11, … by striding p places from each odd prime p to mark off secondary/composite numbers and isolate primes.">Sieve</a>, since we take the odd numbers mixed together and indistinguishable and separate them out by this generative procedure as through a sieve or sifting instrument, finding by themselves the prime and incomposite, by themselves the secondary and composite, and apart from them the mixed class.</p>
+        <p><strong>3.</strong> The working of the sieve is this: setting out in order all the odd numbers from <span class="geom-ref" data-ref="sieve-perfect-numbers:P3" title="P3">3</span> in as long a row as possible, I start from the first term and examine which ones it is able to measure, and I find that it can <span class="geom-ref" data-ref="sieve-perfect-numbers:SIEVE3" title="SIEVE3">measure those that skip two intervening places</span> as far as we care to go—not measuring at random or carelessly, but measuring the very first reached (passing over two terms) according to the quantity of the first number in the row, namely itself, three times;
+        the one skipping two places beyond that according to the second term in order, five times; the one again skipping two places further according to the third, seven times; the one lying still two places beyond according to the fourth, nine times; and so onward without end.</p>
+        <p><strong>4.</strong> Next, turning afresh to the second term, <span class="geom-ref" data-ref="sieve-perfect-numbers:P5" title="P5">5</span>, I inspect which numbers it can measure, and I find <span class="geom-ref" data-ref="sieve-perfect-numbers:SIEVE5" title="SIEVE5">all those skipping four intervening places</span>: the first according to the quantity of the first in the row, three times;
+        the second according to the second, five times; the third according to the third, seven times; and so on forever.</p>
+        <p><strong>5.</strong> Again starting from the top, the third number, <span class="geom-ref" data-ref="sieve-perfect-numbers:P7" title="P7">7</span>, takes over the measuring and will measure those skipping six intervening places: the very first according to the quantity of 3 standing first, the second according to 5 (which holds second place), and the third according to 7 (for it too holds third rank in the row).</p>
+        <p><strong>6.</strong> By the same proportion this will advance throughout without in-</p>
+        <span class="folio-milestone" id="folio-introductio_arithmetica:0221" data-folio="introductio_arithmetica:0221" data-page="p. 205"><a class="folio-link" href="https://raw.githubusercontent.com/geometor/nicomachus/main/resources/introductio_arithmetica/folios/0221.png" target="_blank" rel="noopener" title="View Folio introductio_arithmetica:0221 (p. 205) PNG">f. 0221 · p. 205</a></span>
+        <p>terruption: they will succeed to the task of measuring according to the order of their position in the row; the count of terms skipped follows the regular progression of even numbers from 2 upward—that is, doubling the rank where the measurer stands; and how many times each is measured follows the regular advance of the odd numbers from 3 upward.</p>
+        <p><strong>7.</strong> If, then, you mark the numbers with distinguishing signs, you will discover that those taking turns at measuring never all measure the same number together—sometimes not even two measure the same one—nor do all the numbers set down fall under some measure of theirs; rather, some completely escape being measured by any whatever, some are measured by one alone, and some by two or even more.</p>
+        <p><strong>8.</strong> Those never measured at all, having escaped this process, are prime and incomposite, separated out as by a sieve; those measured by a single factor according to its own quantity will have only one differently named part in addition to the part sharing their own name; while those measured either by one factor in another’s quantity (not its own), or by two factors together (such as <span class="geom-ref" data-ref="sieve-perfect-numbers:P15" title="P15">15</span>), will have several differently named parts besides the one sharing their name, and these will be secondary and composite.
+        As for the third division common to both—that which in itself is secondary and composite, yet relative to another is prime and incomposite—it will consist of those numbers formed when a prime and incomposite number measures by its own quantity, whenever any number so generated is compared against another generated in the same way: for example, 9 (which came from 3 measuring by its own quantity, three times), if compared with 25 (which came from 5 measuring by its own quantity, five times), has no common measure with it except unity.</p>
+        <span class="folio-milestone" id="folio-introductio_arithmetica:0222" data-folio="introductio_arithmetica:0222" data-page="p. 206"><a class="folio-link" href="https://raw.githubusercontent.com/geometor/nicomachus/main/resources/introductio_arithmetica/folios/0222.png" target="_blank" rel="noopener" title="View Folio introductio_arithmetica:0222 (p. 206) PNG">f. 0222 · p. 206</a></span>
+        <p><strong>9.</strong> Now, that we may also possess a diagnostic method for numbers that are either prime and incomposite or secondary and composite relative to each other—since unity is the common measure of the former, while of the latter some other number besides unity is, and to find what number this is: if two odd numbers are set before us and someone asks us to determine whether they are relatively prime and incomposite or secondary and composite, and if secondary and composite, what number is their common measure,
+        we must compare the proposed numbers against each other and continually subtract the lesser from the greater as many times as possible, then after subtracting it, subtract in turn from the remainder as often as possible; for this alternating reversal and mutual subtraction (<em>antaphairesis</em>) must of necessity terminate either at unity or at one and the same number, necessarily odd. Whenever the subtractions end at unity, they show the numbers to be relatively prime and incomposite;
+        but whenever they terminate at some other odd number repeated as the same quantity, declare them relatively secondary and composite, and that repeated number itself to be their common measure.</p>
+        <p><strong>10.</strong> For instance, if 23 and 45 are proposed to us, subtract 23 from 45, and 22 will remain; subtracting this in turn from 23, 1 remains; subtracting 1 from 22 as many times as possible, you will end at 1. Therefore they are relatively prime and incomposite, and the remaining unity is their common measure.</p>
+        <p><strong>11.</strong> If someone proposes other numbers, 21 and 49, I subtract the lesser from the greater, leaving 28; then again from this I subtract the same 21 (for this is possible), leaving 7; this I subtract in turn from 21, leaving 14; from which again I subtract 7 (for this is possible), and 7 will remain, and 7 cannot be subtracted from 7. Their end therefore came to rest at the repeated 7; declare the original 21 and 49 relatively secondary and composite, and 7 their common measure alongside universal unity.</p>
+        <div class="toctree-wrapper compound">
+        </div>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../ch_12/index.html" title="Chapter 12: Secondary and Composite Numbers">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../../index.html">Introduction to Arithmetic</a>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../ch_14/index.html" title="Chapter 14: Superabundant Numbers"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../../../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../../../log/26.316-initial-codex.html">Initial Codex & Symbolic Engine — Introductio Arithmetica (Hoche 1866 Teubner & D’Ooge 1926 Critical Text)</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../../../types/book.html">book</a></li>
+        <li><a href="../../../types/book_title.html">book_title</a></li>
+        <li><a href="../../../types/log.html">log</a></li>
+        <li><a href="../../../types/person.html">person</a></li>
+        <li><a href="../../../types/source_record.html">source_record</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../../../usage/index.html"  >Usage</a></li>
+        <li><a href="../../../changelog.html"  >Changelog</a></li>
+        <li><a href="https://github.com/geometor/nicomachus" target="_blank" rel="noopener">GitHub</a></li>
+        <li><a href="https://github.com/geometor/nicomachus/issues" target="_blank" rel="noopener">Support</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 2026, GEOMETOR • Hoche Teubner (1866) & D'Ooge Michigan (1926) Critical Codex.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../../_static/documentation_options.js?v=59fadc99"></script>
+  <script src="../../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../../_static/js/collection_directory.js?v=2422530d"></script>
+  <script src="../../../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script src="../../../_static/js/search_highlight.js"></script>
+
+</body>
+</html>
