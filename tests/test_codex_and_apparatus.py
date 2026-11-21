@@ -30,14 +30,8 @@ EXPECTED_FIGURES = (
 )
 
 EXPECTED_BOOKS = {
-    "book_01": [
-        "sec_01_philosophy_quadrivium_primes",
-        "sec_02_inequality_equality_tree",
-    ],
-    "book_02": [
-        "sec_01_figurate_gnomons_cubes",
-        "sec_02_ten_means_cube_harmony",
-    ],
+    "book_01": [f"ch_{i:02d}" for i in range(1, 24)],
+    "book_02": [f"ch_{i:02d}" for i in range(1, 30)],
 }
 
 
