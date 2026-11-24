@@ -7,6 +7,9 @@
 :book_title: Introduction to Arithmetic
 :book_subtitle: Ἀριθμητικὴ Εἰσαγωγή — Nicomachus of Gerasa (Hoche 1866 & D'Ooge 1926)
 :author: Nicomachus of Gerasa
+:year: 100
+:year_label: ca. 100 CE
+:edition_year: 1926
 :book_theme: classical-serif
 :hero: /_static/figures/quadrivium-tetrad.svg
 :tracks: English: index | Greek: title-el
