@@ -23,6 +23,15 @@ For example, since :math:`3` is sesquialter of :math:`2` and :math:`4` is sesqui
 .. folio:: introductio_arithmetica:0251
    :page: p. 235
 
+.. picture:: 0251.g1.png
+   :alt: Archival scan crop for 0251.g1
+   :caption: D'Ooge (1926, p. 235): Manuscript crescent diagrams of compound ratios. (Archival Witness)
+
+.. picture:: 0251.g1.svg
+   :alt: Calibrated vector diagram for 0251.g1
+   :caption: D'Ooge (1926, p. 235): Manuscript crescent diagrams of compound ratios. (Interactive Vector)
+
+
 **2.** Again, taking a fresh start, this first species of multiple thus generated, together with the first species of superparticular, yields the next species of the same genus—namely the second multiple, which is the triple; for from every double and sesquialter combined a triple necessarily arises. For since :math:`12` is double of :math:`6`, and :math:`18` is sesquialter of :math:`12`, immediately :math:`18` is triple of :math:`6`. Or if I choose not to make :math:`12` the middle term, but rather :math:`9`, the sesquialter of :math:`6`, the very same harmonious result will follow: since :math:`18` is double of :math:`9`, it will preserve the triple ratio to :math:`6`.
 Thus from a sesquialter and a double blended together arises the triple, and into them it always resolves: behold, :math:`6`, being triple of :math:`2`, has :math:`3` between them, exhibiting the sesquialter to :math:`2` and the double of itself in :math:`6`.
 

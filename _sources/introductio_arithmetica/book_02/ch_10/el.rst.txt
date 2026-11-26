@@ -30,6 +30,24 @@ Chapter 10: Pentagonal Numbers and Gnomons Differing by Three — Greek (Hoche 1
 .. folio:: hoche_1866:0111
    :page: p. 93
 
+.. picture:: 0111.g2.png
+   :alt: Archival scan crop for 0111.g2
+   :caption: Hoche (1866, p. 93): Codex G interlocking-arc diagram of pentagonal gnomons. (Archival Witness)
+
+.. picture:: 0111.g2.svg
+   :alt: Calibrated vector diagram for 0111.g2
+   :caption: Hoche (1866, p. 93): Codex G interlocking-arc diagram of pentagonal gnomons. (Interactive Vector)
+
+
+.. picture:: 0111.g1.png
+   :alt: Archival scan crop for 0111.g1
+   :caption: Hoche (1866, p. 93): Pentagonal alpha-pebble figures [1], [2], [3]. (Archival Witness)
+
+.. picture:: 0111.g1.svg
+   :alt: Calibrated vector diagram for 0111.g1
+   :caption: Hoche (1866, p. 93): Pentagonal alpha-pebble figures [1], [2], [3]. (Interactive Vector)
+
+
 ἔκ τε τῶν δύο προτέρων καὶ τοῦ ζ ἐπισωρευθέντος αὐτοῖς, ἵνα καὶ αὐτὸς τριάδα πλευρὰν σχῇ, ὡς τριῶν συντεθέντων εἰς τὴν αὐτοῦ σύστασιν, ὡς καὶ ὁ πρὸ αὐτοῦ ὁ ε δυάδα πλευρὰν εἶχεν ἐκ δύο συντεθείς, ἡ δὲ σχηματογραφία αὐτοῦ τοιαύτη ἐστίν·
 
 .. code-block:: text

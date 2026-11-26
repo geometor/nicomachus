@@ -17,6 +17,15 @@ Chapter 21: Generation of Superpartients & Overview of Compound Species
 .. folio:: introductio_arithmetica:0237
    :page: p. 221
 
+.. picture:: 0237.g1.png
+   :alt: Archival scan crop for 0237.g1
+   :caption: D'Ooge (1926, p. 221): Table of the Superpartients. (Archival Witness)
+
+.. picture:: 0237.g1.svg
+   :alt: Calibrated vector diagram for 0237.g1
+   :caption: D'Ooge (1926, p. 221): Table of the Superpartients. (Interactive Vector)
+
+
 **1.** The regular arrangement and orderly production of both species are discovered when we set forth the successive even and odd numbers, beginning with 3, and compare with them the simple series of odd numbers only, from 5 in succession, first to first—that is, 5 to 3,—second to second—that is, 7 to 4,—third to third—that is, 9 to 5,—fourth to fourth—that is, 11 to 6,—and so on in the same order as far as you like. In this way the forms of the superpartient and the subsuperpartient, in due order, will be disclosed through the root-forms of each species, the superbipartient first, then the supertripartient, superquadripartient, and superquintipartient, and further in succession in similar manner; for after the root-forms of each species the ones which follow them will be produced by doubling, or tripling, both the terms, and in general by multiplying after the regular forms of the multiple.
 
 .. list-table:: Table of the Superpartients

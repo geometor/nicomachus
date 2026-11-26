@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="euclid-graphic" data-graphic-id="0210.g1" data-folio="0210" data-graphic="g1" width="650" height="310" viewBox="0 0 650 310" role="img">
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M 0 -4.5 L 0 0 L 0 4.5" stroke="var(--geom-assert)" stroke-width="1.6" stroke-linecap="round" fill="none"/>
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M -2 -4.5 L -2 0 L -2 4.5" stroke="var(--geom-assert)" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+      <path d="M 2 -4.5 L 2 0 L 2 4.5" stroke="var(--geom-assert)" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M -3.5 -4.5 L -3.5 0 L -3.5 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+      <path d="M 0 -4.5 L 0 0 L 0 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+      <path d="M 3.5 -4.5 L 3.5 0 L 3.5 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+    </marker>
+  </defs>
+  <style>
+    .euclid-graphic {
+      --geom-fg: #1c1917;
+      --geom-bg: #faf8f5;
+      --geom-muted: #78716c;
+      --geom-accent: #b45309;
+      --geom-assert: #15803d;
+      --geom-grid: #d6d3d1;
+      font-family: "Gentium Plus", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+    }
+    @media (prefers-color-scheme: dark) {
+      .euclid-graphic {
+        --geom-fg: #e8e2d5;
+        --geom-bg: #1c1c21;
+        --geom-muted: #a8a195;
+        --geom-accent: #e2b553;
+        --geom-assert: #78c491;
+        --geom-grid: #44403c;
+      }
+    }
+    .euclid-graphic .geom-stroke { stroke: var(--geom-fg); stroke-width: 1.5; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .euclid-graphic .geom-grid { stroke: var(--geom-grid); stroke-width: 1.0; fill: none; }
+    .euclid-graphic .geom-dash { stroke: var(--geom-muted); stroke-width: 1.2; stroke-dasharray: 4 3; fill: none; }
+    .euclid-graphic .geom-arc { stroke: var(--geom-accent); stroke-width: 1.6; fill: none; }
+    .euclid-graphic .geom-overlay { stroke: var(--geom-assert); stroke-width: 2.2; fill: none; opacity: 0; }
+    .euclid-graphic .geom-pt { fill: var(--geom-accent); stroke: var(--geom-fg); stroke-width: 0.9; }
+    .euclid-graphic .geom-lbl { fill: var(--geom-fg); font-size: 13px; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-lbl-sm { fill: var(--geom-muted); font-size: 11px; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-lbl-b { fill: var(--geom-fg); font-size: 13px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-alpha { fill: var(--geom-accent); font-size: 14px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+  </style>
+  <g id="elements">
+  </g>
+  <g id="graphics">
+    <path d="M 60.00 36.00 A 273.00 28.00 0 0 0 322.50 64.00 A 273.00 28.00 0 0 0 585.00 36.00" class="geom-arc" data-ref="ARC1"/>
+    <path d="M 135.00 36.00 A 195.00 54.00 0 0 0 322.50 90.00 A 195.00 54.00 0 0 0 510.00 36.00" class="geom-arc" data-ref="ARC2"/>
+    <path d="M 210.00 36.00 A 117.00 80.00 0 0 0 322.50 116.00 A 117.00 80.00 0 0 0 435.00 36.00" class="geom-arc" data-ref="ARC3"/>
+    <path d="M 285.00 36.00 A 39.00 106.00 0 0 0 322.50 142.00 A 39.00 106.00 0 0 0 360.00 36.00" class="geom-arc" data-ref="ARC4"/>
+    <path d="M 97.00 196.00 A 234.00 28.00 0 0 0 322.00 224.00 A 234.00 28.00 0 0 0 547.00 196.00" class="geom-arc" data-ref="BRC1"/>
+    <path d="M 172.00 196.00 A 156.00 54.00 0 0 0 322.00 250.00 A 156.00 54.00 0 0 0 472.00 196.00" class="geom-arc" data-ref="BRC2"/>
+    <path d="M 247.00 196.00 A 78.00 80.00 0 0 0 322.00 276.00 A 78.00 80.00 0 0 0 397.00 196.00" class="geom-arc" data-ref="BRC3"/>
+    <path d="M 316.00 196.00 A 6.24 18.00 0 0 0 322.00 214.00 A 6.24 18.00 0 0 0 328.00 196.00" class="geom-arc" data-ref="BRC4"/>
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+  </g>
+  <g id="points">
+    <circle cx="60.00" cy="36.00" r="3.0" class="geom-pt" data-ref="A1"/>
+    <circle cx="135.00" cy="36.00" r="3.0" class="geom-pt" data-ref="A2"/>
+    <circle cx="210.00" cy="36.00" r="3.0" class="geom-pt" data-ref="A3"/>
+    <circle cx="285.00" cy="36.00" r="3.0" class="geom-pt" data-ref="A4"/>
+    <circle cx="360.00" cy="36.00" r="3.0" class="geom-pt" data-ref="A5"/>
+    <circle cx="435.00" cy="36.00" r="3.0" class="geom-pt" data-ref="A6"/>
+    <circle cx="510.00" cy="36.00" r="3.0" class="geom-pt" data-ref="A7"/>
+    <circle cx="585.00" cy="36.00" r="3.0" class="geom-pt" data-ref="A8"/>
+    <circle cx="97.00" cy="196.00" r="3.0" class="geom-pt" data-ref="B1"/>
+    <circle cx="172.00" cy="196.00" r="3.0" class="geom-pt" data-ref="B2"/>
+    <circle cx="247.00" cy="196.00" r="3.0" class="geom-pt" data-ref="B3"/>
+    <circle cx="322.00" cy="196.00" r="3.0" class="geom-pt" data-ref="B4"/>
+    <circle cx="397.00" cy="196.00" r="3.0" class="geom-pt" data-ref="B5"/>
+    <circle cx="472.00" cy="196.00" r="3.0" class="geom-pt" data-ref="B6"/>
+    <circle cx="547.00" cy="196.00" r="3.0" class="geom-pt" data-ref="B7"/>
+  </g>
+  <g id="labels">
+    <text x="60.00" y="20.00" class="geom-lbl-b" data-ref="N1">1</text>
+    <text x="135.00" y="20.00" class="geom-lbl-b" data-ref="N2">2</text>
+    <text x="210.00" y="20.00" class="geom-lbl-b" data-ref="N3">4</text>
+    <text x="285.00" y="20.00" class="geom-lbl-b" data-ref="N4">8</text>
+    <text x="360.00" y="20.00" class="geom-lbl-b" data-ref="N5">16</text>
+    <text x="435.00" y="20.00" class="geom-lbl-b" data-ref="N6">32</text>
+    <text x="510.00" y="20.00" class="geom-lbl-b" data-ref="N7">64</text>
+    <text x="585.00" y="20.00" class="geom-lbl-b" data-ref="N8">128</text>
+    <text x="97.00" y="180.00" class="geom-lbl-b" data-ref="M1">1</text>
+    <text x="172.00" y="180.00" class="geom-lbl-b" data-ref="M2">2</text>
+    <text x="247.00" y="180.00" class="geom-lbl-b" data-ref="M3">4</text>
+    <text x="322.00" y="180.00" class="geom-lbl-b" data-ref="M4">8</text>
+    <text x="397.00" y="180.00" class="geom-lbl-b" data-ref="M5">16</text>
+    <text x="472.00" y="180.00" class="geom-lbl-b" data-ref="M6">32</text>
+    <text x="547.00" y="180.00" class="geom-lbl-b" data-ref="M7">64</text>
+  </g>
+</svg>

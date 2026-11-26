@@ -21,6 +21,15 @@ Chapter 9: Square Numbers and Odd-Number Gnomons
 .. folio:: introductio_arithmetica:0258
    :page: p. 242
 
+.. picture:: 0258.g2.png
+   :alt: Archival scan crop for 0258.g2
+   :caption: D'Ooge (1926, p. 242): Square alpha-pebble arrays (1, 4, 9, 16, 25). (Archival Witness)
+
+.. picture:: 0258.g2.svg
+   :alt: Calibrated vector diagram for 0258.g2
+   :caption: D'Ooge (1926, p. 242): Square alpha-pebble arrays (1, 4, 9, 16, 25). (Interactive Vector)
+
+
 **1.** Next after this is the :g:`square number <polygonal-alpha-gnomons:SQR>`, displaying in its diagram not three angles like the previous one, but four, yet still in equilateral arrangement—such as :math:`1, 4, 9, 16, 25, 36, 49, 64, 81, 100`. Their equilateral square diagrams take shape thus:
 
 .. code-block:: text

@@ -25,4 +25,13 @@ Chapter 11: Hexagonal, Heptagonal, and Higher Polygonal Numbers — Greek (Hoche
 .. folio:: hoche_1866:0113
    :page: p. 95
 
+.. picture:: 0113.g1.png
+   :alt: Archival scan crop for 0113.g1
+   :caption: Hoche (1866, p. 95): Codex G heptagonal arc and polygonal alpha-pebble figures. (Archival Witness)
+
+.. picture:: 0113.g1.svg
+   :alt: Calibrated vector diagram for 0113.g1
+   :caption: Hoche (1866, p. 95): Codex G heptagonal arc and polygonal alpha-pebble figures. (Interactive Vector)
+
+
 α, ζ, ιη, λδ, νε, πα, ριβ, ρμη καὶ τοῦτο μέχρι παντός. ὀκτάγωνοι δὲ κατὰ τὴν αὐτὴν τάξιν τοῖς τε γνώμοσιν ἑξάδι διαφέροντες προκόπτουσι καὶ τοῖς συστήμασιν ἀναλόγως. ἵνα δὲ ἐπὶ πάντων παρατηροῦντι τοῦτο καθολικὸν σύμφωνον ᾖ, ἑκάστου πολυγώνου τοὺς γνώμονας διαφέρειν ἀλλήλων δυάδι ἐλαττόνως, ἢ κατὰ τὴν ἐν τῷ ὀνόματι ποσότητα τῶν γωνιῶν, τουτέστι μονάδι μὲν τὸν τρίγωνον, δυάδι δὲ τὸν τετράγωνον, τριάδι δὲ τὸν πεντάγωνον, τετράδι δὲ τὸν ἑξάγωνον καὶ πεντάδι τὸν ἑπτάγωνον καὶ ἀεὶ κατὰ παραύξησιν οὕτως.

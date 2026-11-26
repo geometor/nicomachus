@@ -25,4 +25,21 @@ Chapter 12: Decomposition of Squares and Polygons into Triangles — Greek (Hoch
 .. folio:: hoche_1866:0114
    :page: p. 96
 
+.. picture:: 0114.g1.png
+   :alt: Archival scan crop for 0114.g1
+   :caption: Hoche (1866, p. 96): Codex G square divided diagonally into two triangles. (Archival Witness)
+
+.. picture:: 0114.g1.svg
+   :alt: Calibrated vector diagram for 0114.g1
+   :caption: Hoche (1866, p. 96): Codex G square divided diagonally into two triangles. (Interactive Vector)
+
+
 ἐκ τῆς σχηματογραφίας τῆς καθʼ ἕκαστον, ἀλλὰ κἀκεῖθεν· πᾶν τετράγωνον σχῆμα διαγωνίως διαιρεθὲν εἰς δύο τρίγωνα λύεται καὶ πᾶς τετράγωνος ἀριθμὸς εἰς δύο τριγώνους συνεχεῖς λύεται καὶ ἐξ ἄρα δύο τριγώνων συνεχῶν συνέστηκεν· οἷον τρίγωνοι μέν εἰσιν α, γ, ϛ, ι, ιε, κα, κη, λϛ, με, νε καὶ οἱ ἑξῆς, τετράγωνοι δὲ α, δ, θ, ιϛ, κε, λϛ, μθ, ξδ, πα, ρ.
+
+.. picture:: 0115.g1.png
+   :alt: Archival scan crop for 0115.g1
+   :caption: Hoche (1866, p. 97): Parallel rows of polygonal numbers (μῆκος καὶ πλάτος). (Archival Witness)
+
+.. picture:: 0115.g1.svg
+   :alt: Calibrated vector diagram for 0115.g1
+   :caption: Hoche (1866, p. 97): Parallel rows of polygonal numbers (μῆκος καὶ πλάτος). (Interactive Vector)

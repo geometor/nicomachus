@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="euclid-graphic" data-graphic-id="0108.g1" data-folio="0108" data-graphic="g1" width="530" height="172" viewBox="0 0 530 172" role="img">
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M 0 -4.5 L 0 0 L 0 4.5" stroke="var(--geom-assert)" stroke-width="1.6" stroke-linecap="round" fill="none"/>
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M -2 -4.5 L -2 0 L -2 4.5" stroke="var(--geom-assert)" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+      <path d="M 2 -4.5 L 2 0 L 2 4.5" stroke="var(--geom-assert)" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M -3.5 -4.5 L -3.5 0 L -3.5 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+      <path d="M 0 -4.5 L 0 0 L 0 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+      <path d="M 3.5 -4.5 L 3.5 0 L 3.5 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+    </marker>
+  </defs>
+  <style>
+    .euclid-graphic {
+      --geom-fg: #1c1917;
+      --geom-bg: #faf8f5;
+      --geom-muted: #78716c;
+      --geom-accent: #b45309;
+      --geom-assert: #15803d;
+      --geom-grid: #d6d3d1;
+      font-family: "Gentium Plus", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+    }
+    @media (prefers-color-scheme: dark) {
+      .euclid-graphic {
+        --geom-fg: #e8e2d5;
+        --geom-bg: #1c1c21;
+        --geom-muted: #a8a195;
+        --geom-accent: #e2b553;
+        --geom-assert: #78c491;
+        --geom-grid: #44403c;
+      }
+    }
+    .euclid-graphic .geom-stroke { stroke: var(--geom-fg); stroke-width: 1.5; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .euclid-graphic .geom-grid { stroke: var(--geom-grid); stroke-width: 1.0; fill: none; }
+    .euclid-graphic .geom-dash { stroke: var(--geom-muted); stroke-width: 1.2; stroke-dasharray: 4 3; fill: none; }
+    .euclid-graphic .geom-arc { stroke: var(--geom-accent); stroke-width: 1.6; fill: none; }
+    .euclid-graphic .geom-overlay { stroke: var(--geom-assert); stroke-width: 2.2; fill: none; opacity: 0; }
+    .euclid-graphic .geom-pt { fill: var(--geom-accent); stroke: var(--geom-fg); stroke-width: 0.9; }
+    .euclid-graphic .geom-lbl { fill: var(--geom-fg); font-size: 13px; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-lbl-sm { fill: var(--geom-muted); font-size: 11px; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-lbl-b { fill: var(--geom-fg); font-size: 13px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-alpha { fill: var(--geom-accent); font-size: 14px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+  </style>
+  <g id="elements">
+    <path d="M 30.00 98.00 L 46.00 98.00 L 62.00 98.00" class="geom-stroke"/>
+    <path d="M 62.00 98.00 L 62.00 114.00 L 62.00 130.00" class="geom-stroke"/>
+    <path d="M 62.00 130.00 L 46.00 130.00 L 30.00 130.00" class="geom-stroke"/>
+    <path d="M 30.00 130.00 L 30.00 114.00 L 30.00 98.00" class="geom-stroke"/>
+    <path d="M 88.00 78.00 L 114.00 78.00 L 140.00 78.00" class="geom-stroke"/>
+    <path d="M 140.00 78.00 L 140.00 104.00 L 140.00 130.00" class="geom-stroke"/>
+    <path d="M 140.00 130.00 L 114.00 130.00 L 88.00 130.00" class="geom-stroke"/>
+    <path d="M 88.00 130.00 L 88.00 104.00 L 88.00 78.00" class="geom-stroke"/>
+    <path d="M 166.00 58.00 L 202.00 58.00 L 238.00 58.00" class="geom-stroke"/>
+    <path d="M 238.00 58.00 L 238.00 94.00 L 238.00 130.00" class="geom-stroke"/>
+    <path d="M 238.00 130.00 L 202.00 130.00 L 166.00 130.00" class="geom-stroke"/>
+    <path d="M 166.00 130.00 L 166.00 94.00 L 166.00 58.00" class="geom-stroke"/>
+    <path d="M 264.00 38.00 L 310.00 38.00 L 356.00 38.00" class="geom-stroke"/>
+    <path d="M 356.00 38.00 L 356.00 84.00 L 356.00 130.00" class="geom-stroke"/>
+    <path d="M 356.00 130.00 L 310.00 130.00 L 264.00 130.00" class="geom-stroke"/>
+    <path d="M 264.00 130.00 L 264.00 84.00 L 264.00 38.00" class="geom-stroke"/>
+    <path d="M 382.00 18.00 L 438.00 18.00 L 494.00 18.00" class="geom-stroke"/>
+    <path d="M 494.00 18.00 L 494.00 74.00 L 494.00 130.00" class="geom-stroke"/>
+    <path d="M 494.00 130.00 L 438.00 130.00 L 382.00 130.00" class="geom-stroke"/>
+    <path d="M 382.00 130.00 L 382.00 74.00 L 382.00 18.00" class="geom-stroke"/>
+  </g>
+  <g id="graphics">
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+  </g>
+  <g id="points">
+  </g>
+  <g id="labels">
+    <text x="46.00" y="114.00" class="geom-alpha">α</text>
+    <text x="46.00" y="150.00" class="geom-lbl-b" data-ref="S1">α</text>
+    <text x="104.00" y="94.00" class="geom-alpha">α</text>
+    <text x="124.00" y="94.00" class="geom-alpha">α</text>
+    <text x="104.00" y="114.00" class="geom-alpha">α</text>
+    <text x="124.00" y="114.00" class="geom-alpha">α</text>
+    <text x="114.00" y="150.00" class="geom-lbl-b" data-ref="S2">δ</text>
+    <text x="182.00" y="74.00" class="geom-alpha">α</text>
+    <text x="202.00" y="74.00" class="geom-alpha">α</text>
+    <text x="222.00" y="74.00" class="geom-alpha">α</text>
+    <text x="182.00" y="94.00" class="geom-alpha">α</text>
+    <text x="202.00" y="94.00" class="geom-alpha">α</text>
+    <text x="222.00" y="94.00" class="geom-alpha">α</text>
+    <text x="182.00" y="114.00" class="geom-alpha">α</text>
+    <text x="202.00" y="114.00" class="geom-alpha">α</text>
+    <text x="222.00" y="114.00" class="geom-alpha">α</text>
+    <text x="202.00" y="150.00" class="geom-lbl-b" data-ref="S3">θ</text>
+    <text x="280.00" y="54.00" class="geom-alpha">α</text>
+    <text x="300.00" y="54.00" class="geom-alpha">α</text>
+    <text x="320.00" y="54.00" class="geom-alpha">α</text>
+    <text x="340.00" y="54.00" class="geom-alpha">α</text>
+    <text x="280.00" y="74.00" class="geom-alpha">α</text>
+    <text x="300.00" y="74.00" class="geom-alpha">α</text>
+    <text x="320.00" y="74.00" class="geom-alpha">α</text>
+    <text x="340.00" y="74.00" class="geom-alpha">α</text>
+    <text x="280.00" y="94.00" class="geom-alpha">α</text>
+    <text x="300.00" y="94.00" class="geom-alpha">α</text>
+    <text x="320.00" y="94.00" class="geom-alpha">α</text>
+    <text x="340.00" y="94.00" class="geom-alpha">α</text>
+    <text x="280.00" y="114.00" class="geom-alpha">α</text>
+    <text x="300.00" y="114.00" class="geom-alpha">α</text>
+    <text x="320.00" y="114.00" class="geom-alpha">α</text>
+    <text x="340.00" y="114.00" class="geom-alpha">α</text>
+    <text x="310.00" y="150.00" class="geom-lbl-b" data-ref="S4">ιϛ</text>
+    <text x="398.00" y="34.00" class="geom-alpha">α</text>
+    <text x="418.00" y="34.00" class="geom-alpha">α</text>
+    <text x="438.00" y="34.00" class="geom-alpha">α</text>
+    <text x="458.00" y="34.00" class="geom-alpha">α</text>
+    <text x="478.00" y="34.00" class="geom-alpha">α</text>
+    <text x="398.00" y="54.00" class="geom-alpha">α</text>
+    <text x="418.00" y="54.00" class="geom-alpha">α</text>
+    <text x="438.00" y="54.00" class="geom-alpha">α</text>
+    <text x="458.00" y="54.00" class="geom-alpha">α</text>
+    <text x="478.00" y="54.00" class="geom-alpha">α</text>
+    <text x="398.00" y="74.00" class="geom-alpha">α</text>
+    <text x="418.00" y="74.00" class="geom-alpha">α</text>
+    <text x="438.00" y="74.00" class="geom-alpha">α</text>
+    <text x="458.00" y="74.00" class="geom-alpha">α</text>
+    <text x="478.00" y="74.00" class="geom-alpha">α</text>
+    <text x="398.00" y="94.00" class="geom-alpha">α</text>
+    <text x="418.00" y="94.00" class="geom-alpha">α</text>
+    <text x="438.00" y="94.00" class="geom-alpha">α</text>
+    <text x="458.00" y="94.00" class="geom-alpha">α</text>
+    <text x="478.00" y="94.00" class="geom-alpha">α</text>
+    <text x="398.00" y="114.00" class="geom-alpha">α</text>
+    <text x="418.00" y="114.00" class="geom-alpha">α</text>
+    <text x="438.00" y="114.00" class="geom-alpha">α</text>
+    <text x="458.00" y="114.00" class="geom-alpha">α</text>
+    <text x="478.00" y="114.00" class="geom-alpha">α</text>
+    <text x="438.00" y="150.00" class="geom-lbl-b" data-ref="S5">κε</text>
+  </g>
+</svg>

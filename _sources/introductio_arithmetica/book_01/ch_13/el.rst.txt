@@ -55,6 +55,15 @@ Chapter 13: Relatively Prime Numbers & the Sieve of Eratosthenes — Greek (Hoch
 .. folio:: hoche_1866:0048
    :page: p. 30
 
+.. picture:: 0048.g1.png
+   :alt: Archival scan crop for 0048.g1
+   :caption: Hoche (1866, p. 30): Sieve of Eratosthenes linear arrays (Codex G). (Archival Witness)
+
+.. picture:: 0048.g1.svg
+   :alt: Calibrated vector diagram for 0048.g1
+   :caption: Hoche (1866, p. 30): Sieve of Eratosthenes linear arrays (Codex G). (Interactive Vector)
+
+
 τους, χωρὶς δὲ τοὺς μικτοὺς εὑρίσκομεν. ἔστι δὲ ὁ
 τρόπος τοῦ κοσκίνου τοιοῦτος· ἐκθέμενος τοὺς ἀπὸ
 
@@ -62,6 +71,15 @@ Chapter 13: Relatively Prime Numbers & the Sieve of Eratosthenes — Greek (Hoch
 
 .. folio:: hoche_1866:0049
    :page: p. 31
+
+.. picture:: 0049.g1.png
+   :alt: Archival scan crop for 0049.g1
+   :caption: Hoche (1866, p. 31): Sieve of Eratosthenes (τὸ Ἐρατοσθένειον κόσκινον). (Archival Witness)
+
+.. picture:: 0049.g1.svg
+   :alt: Calibrated vector diagram for 0049.g1
+   :caption: Hoche (1866, p. 31): Sieve of Eratosthenes (τὸ Ἐρατοσθένειον κόσκινον). (Interactive Vector)
+
 
 πάντας ἐφεξῆς περισσοὺς ὡς δυνατὸν μάλιστα
 ἐπὶ μήκιστον στίχον, ἀρξάμενος ἀπὸ τοῦ πρώτου

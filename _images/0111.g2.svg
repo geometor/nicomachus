@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="euclid-graphic" data-graphic-id="0111.g2" data-folio="0111" data-graphic="g2" width="660" height="175" viewBox="0 0 660 175" role="img">
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M 0 -4.5 L 0 0 L 0 4.5" stroke="var(--geom-assert)" stroke-width="1.6" stroke-linecap="round" fill="none"/>
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M -2 -4.5 L -2 0 L -2 4.5" stroke="var(--geom-assert)" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+      <path d="M 2 -4.5 L 2 0 L 2 4.5" stroke="var(--geom-assert)" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M -3.5 -4.5 L -3.5 0 L -3.5 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+      <path d="M 0 -4.5 L 0 0 L 0 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+      <path d="M 3.5 -4.5 L 3.5 0 L 3.5 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+    </marker>
+  </defs>
+  <style>
+    .euclid-graphic {
+      --geom-fg: #1c1917;
+      --geom-bg: #faf8f5;
+      --geom-muted: #78716c;
+      --geom-accent: #b45309;
+      --geom-assert: #15803d;
+      --geom-grid: #d6d3d1;
+      font-family: "Gentium Plus", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+    }
+    @media (prefers-color-scheme: dark) {
+      .euclid-graphic {
+        --geom-fg: #e8e2d5;
+        --geom-bg: #1c1c21;
+        --geom-muted: #a8a195;
+        --geom-accent: #e2b553;
+        --geom-assert: #78c491;
+        --geom-grid: #44403c;
+      }
+    }
+    .euclid-graphic .geom-stroke { stroke: var(--geom-fg); stroke-width: 1.5; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .euclid-graphic .geom-grid { stroke: var(--geom-grid); stroke-width: 1.0; fill: none; }
+    .euclid-graphic .geom-dash { stroke: var(--geom-muted); stroke-width: 1.2; stroke-dasharray: 4 3; fill: none; }
+    .euclid-graphic .geom-arc { stroke: var(--geom-accent); stroke-width: 1.6; fill: none; }
+    .euclid-graphic .geom-overlay { stroke: var(--geom-assert); stroke-width: 2.2; fill: none; opacity: 0; }
+    .euclid-graphic .geom-pt { fill: var(--geom-accent); stroke: var(--geom-fg); stroke-width: 0.9; }
+    .euclid-graphic .geom-lbl { fill: var(--geom-fg); font-size: 13px; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-lbl-sm { fill: var(--geom-muted); font-size: 11px; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-lbl-b { fill: var(--geom-fg); font-size: 13px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-alpha { fill: var(--geom-accent); font-size: 14px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+  </style>
+  <g id="elements">
+    <path d="M 30.00 110.00 L 330.00 110.00 L 630.00 110.00" class="geom-stroke"/>
+  </g>
+  <g id="graphics">
+    <circle cx="110" cy="110" r="44" class="geom-stroke" data-ref="( C1 R )"/>
+    <circle cx="174" cy="110" r="44" class="geom-stroke" data-ref="( C2 R )"/>
+    <circle cx="238" cy="110" r="44" class="geom-stroke" data-ref="( C3 R )"/>
+    <circle cx="302" cy="110" r="44" class="geom-stroke" data-ref="( C4 R )"/>
+    <circle cx="366" cy="110" r="44" class="geom-stroke" data-ref="( C5 R )"/>
+    <circle cx="430" cy="110" r="44" class="geom-stroke" data-ref="( C6 R )"/>
+    <circle cx="494" cy="110" r="44" class="geom-stroke" data-ref="( C7 R )"/>
+    <circle cx="558" cy="110" r="44" class="geom-stroke" data-ref="( C8 R )"/>
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+  </g>
+  <g id="points">
+  </g>
+  <g id="labels">
+    <text x="330.00" y="18.00" class="geom-lbl-b">γνώμονες πενταγώνων · πεντάγωνοι (Codex G)</text>
+    <text x="110.00" y="88.00" class="geom-lbl-b">α</text>
+    <text x="110.00" y="132.00" class="geom-lbl-b">α</text>
+    <text x="174.00" y="88.00" class="geom-lbl-b">δ</text>
+    <text x="174.00" y="132.00" class="geom-lbl-b">ε</text>
+    <text x="238.00" y="88.00" class="geom-lbl-b">ζ</text>
+    <text x="238.00" y="132.00" class="geom-lbl-b">ιβ</text>
+    <text x="302.00" y="88.00" class="geom-lbl-b">ι</text>
+    <text x="302.00" y="132.00" class="geom-lbl-b">κβ</text>
+    <text x="366.00" y="88.00" class="geom-lbl-b">ιγ</text>
+    <text x="366.00" y="132.00" class="geom-lbl-b">λε</text>
+    <text x="430.00" y="88.00" class="geom-lbl-b">ιϛ</text>
+    <text x="430.00" y="132.00" class="geom-lbl-b">να</text>
+    <text x="494.00" y="88.00" class="geom-lbl-b">ιθ</text>
+    <text x="494.00" y="132.00" class="geom-lbl-b">ο</text>
+    <text x="558.00" y="88.00" class="geom-lbl-b">κβ</text>
+    <text x="558.00" y="132.00" class="geom-lbl-b">ϟβ</text>
+    <text x="52.00" y="88.00" class="geom-lbl-sm">γνώμονες</text>
+    <text x="52.00" y="132.00" class="geom-lbl-sm">πεντάγωνοι</text>
+  </g>
+</svg>

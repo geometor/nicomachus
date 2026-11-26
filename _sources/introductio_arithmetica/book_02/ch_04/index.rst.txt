@@ -17,6 +17,15 @@ Chapter 4: Triple Ratio Diagram and Natural Order of Multiples
 .. folio:: introductio_arithmetica:0249
    :page: p. 233
 
+.. picture:: 0249.g2.png
+   :alt: Archival scan crop for 0249.g2
+   :caption: D'Ooge (1926, p. 233): Diagram of Triples (breadth, depth, hypotenuse). (Archival Witness)
+
+.. picture:: 0249.g2.svg
+   :alt: Calibrated vector diagram for 0249.g2
+   :caption: D'Ooge (1926, p. 233): Diagram of Triples (breadth, depth, hypotenuse). (Interactive Vector)
+
+
 **1.** We ought to draw a like illustration for the triple:
 
 .. list-table:: Diagram of Triples (Triple along the breadth · Sesquitertian along the depth · Quadruple along the hypotenuse)

@@ -39,6 +39,15 @@ Chapter 19: Second Species of Inequality: The Superparticular
 .. folio:: introductio_arithmetica:0233
    :page: p. 217
 
+.. picture:: 0233.g1.png
+   :alt: Archival scan crop for 0233.g1
+   :caption: D'Ooge (1926, p. 217): 10×10 multiplication table (1–100). (Archival Witness)
+
+.. picture:: 0233.g1.svg
+   :alt: Calibrated vector diagram for 0233.g1
+   :caption: D'Ooge (1926, p. 217): 10×10 multiplication table (1–100). (Interactive Vector)
+
+
 **9.** demonstration, we must prepare in regular and parallel lines the multiples specified above, according to their varieties, first the double in one line, then in a second the triple, then the quadruple in a third, and so on as far as the tenfold multiples, so that we may detect their order and variety, their regulated progress, and which of them is naturally prior, and indeed other corollaries delightful in their exactness. Let the diagram be as follows:
 
 .. list-table::

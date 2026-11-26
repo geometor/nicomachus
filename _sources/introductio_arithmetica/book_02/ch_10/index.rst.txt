@@ -27,6 +27,24 @@ Chapter 10: Pentagonal Numbers and Gnomons Differing by Three
 .. folio:: introductio_arithmetica:0260
    :page: p. 244
 
+.. picture:: 0260.g2.png
+   :alt: Archival scan crop for 0260.g2
+   :caption: D'Ooge (1926, p. 244): Regular pentagonal gnomon-dot diagrams (1)–(4). (Archival Witness)
+
+.. picture:: 0260.g2.svg
+   :alt: Calibrated vector diagram for 0260.g2
+   :caption: D'Ooge (1926, p. 244): Regular pentagonal gnomon-dot diagrams (1)–(4). (Interactive Vector)
+
+
+.. picture:: 0260.g1.png
+   :alt: Archival scan crop for 0260.g1
+   :caption: D'Ooge (1926, p. 244): Pentagonal alpha-pebble figures (1, 5, 12). (Archival Witness)
+
+.. picture:: 0260.g1.svg
+   :alt: Calibrated vector diagram for 0260.g1
+   :caption: D'Ooge (1926, p. 244): Pentagonal alpha-pebble figures (1, 5, 12). (Interactive Vector)
+
+
 unity is first potentially; :math:`5` is second, made from :math:`1 + 4`; and :math:`12` is third, from the first two together with :math:`7` piled onto them so that it may have a side of :math:`3`, just as :math:`5` before it had a side of :math:`2`:
 
 .. code-block:: text

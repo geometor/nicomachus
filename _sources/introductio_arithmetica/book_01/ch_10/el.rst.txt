@@ -77,6 +77,15 @@ Chapter 10: The Odd-Times Even Number — Greek (Hoche 1866)
 .. folio:: hoche_1866:0043
    :page: p. 25
 
+.. picture:: 0043.g1.png
+   :alt: Archival scan crop for 0043.g1
+   :caption: Hoche (1866, p. 25): Table of odd-times even numbers (οἱ περισσάρτιοι). (Archival Witness)
+
+.. picture:: 0043.g1.svg
+   :alt: Calibrated vector diagram for 0043.g1
+   :caption: Hoche (1866, p. 25): Table of odd-times even numbers (οἱ περισσάρτιοι). (Interactive Vector)
+
+
 .. list-table:: Οἱ γνώμονες τοῦ περισσαρτίου · οἱ περισσάρτιοι (πλάτος × μῆκος)
    :header-rows: 2
 

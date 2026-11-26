@@ -21,6 +21,15 @@ Chapter 14: Truncated, Bi-Truncated & Tri-Truncated Pyramids
 .. folio:: introductio_arithmetica:0267
    :page: p. 251
 
+.. picture:: 0267.g1.png
+   :alt: Archival scan crop for 0267.g1
+   :caption: D'Ooge (1926, p. 251): Square-based pyramid alpha-layer representations. (Archival Witness)
+
+.. picture:: 0267.g1.svg
+   :alt: Calibrated vector diagram for 0267.g1
+   :caption: D'Ooge (1926, p. 251): Square-based pyramid alpha-layer representations. (Interactive Vector)
+
+
 for here as well every side of any pyramid must measure as many units as the count of polygons stacked together to build it. Once more, I set the whole pyramid 14, whose base is the square 9, upon the square 16, and 30 is completed—the third pyramid in actuality among those on a square base. By the very same ordering and procedure, from a pentagonal base, a hexagonal base, a heptagonal base, and advancing ever further, we shall construct pyramids by stacking upon each other the polygons proper to each class, beginning from unity as the least and proceeding indefinitely in each kind.
 
 **2.** From this too it grows plain that triangles are more elementary; for all pyramids without exception, whatever their several polygonal bases, are enclosed by triangles right up to the summit.

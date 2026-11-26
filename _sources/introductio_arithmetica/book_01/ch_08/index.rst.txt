@@ -38,6 +38,15 @@ naturally indivisible monad.
 .. folio:: introductio_arithmetica:0210
    :page: p. 194
 
+.. picture:: 0210.g1.png
+   :alt: Archival scan crop for 0210.g1
+   :caption: D'Ooge (1926, p. 194): Factor correspondence arcs for even-times even numbers. (Archival Witness)
+
+.. picture:: 0210.g1.svg
+   :alt: Calibrated vector diagram for 0210.g1
+   :caption: D'Ooge (1926, p. 194): Factor correspondence arcs for even-times even numbers. (Interactive Vector)
+
+
 **8–9.** The generation of the even-times even—so that none may escape, but all fall under a single rule—takes place thus: as one advances from the monad as from a root in the double ratio without end, all the numbers that arise are even-times even, and it is impossible to find any others besides these; for example:
 
 .. math::

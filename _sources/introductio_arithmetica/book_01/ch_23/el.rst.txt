@@ -329,6 +329,15 @@ Chapter 23: The Multiple Superpartient & Unfolding All Inequalities from Equalit
 .. folio:: hoche_1866:0090
    :page: p. 72
 
+.. picture:: 0090.g1.png
+   :alt: Archival scan crop for 0090.g1
+   :caption: Hoche (1866, p. 72): Codex G scholia on superparticular and superpartient species. (Archival Witness)
+
+.. picture:: 0090.g1.svg
+   :alt: Calibrated vector diagram for 0090.g1
+   :caption: Hoche (1866, p. 72): Codex G scholia on superparticular and superpartient species. (Interactive Vector)
+
+
 καὶ ἐκ τῶν ὀκταπλασίων οἱ ἐπόγδοοι· ξδ η α
 
 | ξδ οβ πα·

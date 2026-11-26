@@ -19,6 +19,24 @@ Chapter 9: Square Numbers and Odd-Number Gnomons — Greek (Hoche 1866)
 .. folio:: hoche_1866:0108
    :page: p. 90
 
+.. picture:: 0108.g2.png
+   :alt: Archival scan crop for 0108.g2
+   :caption: Hoche (1866, p. 90): Codex G circle-chain diagram of triangular generation. (Archival Witness)
+
+.. picture:: 0108.g2.svg
+   :alt: Calibrated vector diagram for 0108.g2
+   :caption: Hoche (1866, p. 90): Codex G circle-chain diagram of triangular generation. (Interactive Vector)
+
+
+.. picture:: 0108.g1.png
+   :alt: Archival scan crop for 0108.g1
+   :caption: Hoche (1866, p. 90): Square alpha-pebble arrays (1, 4, 9, 16, 25). (Archival Witness)
+
+.. picture:: 0108.g1.svg
+   :alt: Calibrated vector diagram for 0108.g1
+   :caption: Hoche (1866, p. 90): Square alpha-pebble arrays (1, 4, 9, 16, 25). (Interactive Vector)
+
+
 θ. Τετράγωνος δέ ἐστιν ἀριθμὸς ὁ συνεχὴς τούτῳ καὶ μηκέτι τρεῖς, ὡς ὁ πρόσθεν, ἀλλὰ τέσσαρας ἐν τῇ καταγραφῇ γωνίας ἀποδιδούς, ἐν ἰσοπλεύρῳ μέντοι καὶ αὐτὸς σχηματισμῷ, οἷον
 
 α, δ, θ, ιϚ, κε, λϚ, μθ, ξδ, πα, ρ·
