@@ -17,6 +17,15 @@ Chapter 26: Musical Consonances & Philolaus's Cube as Geometric Harmony
 .. folio:: introductio_arithmetica:0293
    :page: p. 277
 
+.. picture:: 0293.g1.png
+   :alt: Archival scan crop for 0293.g1
+   :caption: D'Ooge (1926, p. 277): Musical proportion arcs for series 2, 3, 6. (Archival Witness)
+
+.. picture:: 0293.g1.svg
+   :alt: Calibrated vector diagram for 0293.g1
+   :caption: D'Ooge (1926, p. 277): Musical proportion arcs for series 2, 3, 6. (Interactive Vector)
+
+
 **1.** We already recognized, in our earlier division of what exists, that relation belongs peculiarly to harmonic theory; yet the musical ratios of the concords in harmony are likewise discovered preeminently in this very mean.
 Most elementary among these is the fourth (*diatessaron*), in the superparticular ratio of :math:`4 : 3`, appearing as term to term in the double-extreme example, or as difference to difference in the triple-extreme example—these being the differences of :math:`6` with :math:`2` and again of :math:`6` with :math:`3`.
 

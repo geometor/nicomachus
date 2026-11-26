@@ -30,6 +30,15 @@ Chapter 13: Solid Pyramidal Numbers on Polygonal Bases
 .. folio:: introductio_arithmetica:0266
    :page: p. 250
 
+.. picture:: 0266.g1.png
+   :alt: Archival scan crop for 0266.g1
+   :caption: D'Ooge (1926, p. 250): Codex G pyramids on square, triangular, and pentagonal bases. (Archival Witness)
+
+.. picture:: 0266.g1.svg
+   :alt: Calibrated vector diagram for 0266.g1
+   :caption: D'Ooge (1926, p. 250): Codex G pyramids on square, triangular, and pentagonal bases. (Interactive Vector)
+
+
 In the exact same fashion, when these plane polygonal numbers themselves are stacked one upon another and built up in layers, the pyramids akin to each kind are born: that on a triangular base from the triangles themselves, that on a square base from the squares, that on a pentagonal base from the pentagons, that on a hexagonal base from the hexagons, and thus through the whole series.
 
 **5.** Accordingly, the orderly pyramids on a triangular base are these: 1, 4, 10, 20, 35, 56, 84, and so forth; their generation comes from heaping the triangles upon one another—first 1, then 1 + 3, then 1 + 3 + 6, then adding 10, then 15 with the preceding, then 21 upon these, then 28, and onward without end. Clearly the greatest number is thought of as lowest, since it serves as the base; the one immediately smaller sits above it, and the next above that, until unity stands at the summit and tapers the pyramid's completion, as it were, into a single point.

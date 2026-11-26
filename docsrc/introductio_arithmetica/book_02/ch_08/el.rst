@@ -19,6 +19,15 @@ Chapter 8: Triangular Numbers and Natural-Number Gnomons — Greek (Hoche 1866)
 .. folio:: hoche_1866:0105
    :page: p. 87
 
+.. picture:: 0105.g1.png
+   :alt: Archival scan crop for 0105.g1
+   :caption: Hoche (1866, p. 87): Manuscript polygonal figures (alpha-pebble lattices). (Archival Witness)
+
+.. picture:: 0105.g1.svg
+   :alt: Calibrated vector diagram for 0105.g1
+   :caption: Hoche (1866, p. 87): Manuscript polygonal figures (alpha-pebble lattices). (Interactive Vector)
+
+
 η. Τρίγωνος μὲν οὖν ἐστιν ἀριθμὸς ὁ διαλυόμενος
 
 .. _hoche-el-p-88:

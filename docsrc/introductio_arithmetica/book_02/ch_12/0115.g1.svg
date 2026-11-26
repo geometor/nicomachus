@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="euclid-graphic" data-graphic-id="0115.g1" data-folio="0115" data-graphic="g1" width="708" height="208" viewBox="0 0 708 208" role="img">
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M 0 -4.5 L 0 0 L 0 4.5" stroke="var(--geom-assert)" stroke-width="1.6" stroke-linecap="round" fill="none"/>
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M -2 -4.5 L -2 0 L -2 4.5" stroke="var(--geom-assert)" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+      <path d="M 2 -4.5 L 2 0 L 2 4.5" stroke="var(--geom-assert)" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M -3.5 -4.5 L -3.5 0 L -3.5 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+      <path d="M 0 -4.5 L 0 0 L 0 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+      <path d="M 3.5 -4.5 L 3.5 0 L 3.5 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+    </marker>
+  </defs>
+  <style>
+    .euclid-graphic {
+      --geom-fg: #1c1917;
+      --geom-bg: #faf8f5;
+      --geom-muted: #78716c;
+      --geom-accent: #b45309;
+      --geom-assert: #15803d;
+      --geom-grid: #d6d3d1;
+      font-family: "Gentium Plus", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+    }
+    @media (prefers-color-scheme: dark) {
+      .euclid-graphic {
+        --geom-fg: #e8e2d5;
+        --geom-bg: #1c1c21;
+        --geom-muted: #a8a195;
+        --geom-accent: #e2b553;
+        --geom-assert: #78c491;
+        --geom-grid: #44403c;
+      }
+    }
+    .euclid-graphic .geom-stroke { stroke: var(--geom-fg); stroke-width: 1.5; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .euclid-graphic .geom-grid { stroke: var(--geom-grid); stroke-width: 1.0; fill: none; }
+    .euclid-graphic .geom-dash { stroke: var(--geom-muted); stroke-width: 1.2; stroke-dasharray: 4 3; fill: none; }
+    .euclid-graphic .geom-arc { stroke: var(--geom-accent); stroke-width: 1.6; fill: none; }
+    .euclid-graphic .geom-overlay { stroke: var(--geom-assert); stroke-width: 2.2; fill: none; opacity: 0; }
+    .euclid-graphic .geom-pt { fill: var(--geom-accent); stroke: var(--geom-fg); stroke-width: 0.9; }
+    .euclid-graphic .geom-lbl { fill: var(--geom-fg); font-size: 13px; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-lbl-sm { fill: var(--geom-muted); font-size: 11px; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-lbl-b { fill: var(--geom-fg); font-size: 13px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-alpha { fill: var(--geom-accent); font-size: 14px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+  </style>
+  <g id="elements">
+    <path d="M 24.00 44.00 L 321.00 44.00 L 618.00 44.00" class="geom-stroke" data-ref="/ T L /"/>
+    <path d="M 618.00 44.00 L 618.00 114.00 L 618.00 184.00" class="geom-stroke" data-ref="/ T R /"/>
+    <path d="M 618.00 184.00 L 321.00 184.00 L 24.00 184.00" class="geom-stroke" data-ref="/ B R /"/>
+    <path d="M 24.00 184.00 L 24.00 114.00 L 24.00 44.00" class="geom-stroke" data-ref="/ B L /"/>
+    <path d="M 24.00 72.00 L 321.00 72.00 L 618.00 72.00" class="geom-grid"/>
+    <path d="M 24.00 100.00 L 321.00 100.00 L 618.00 100.00" class="geom-grid"/>
+    <path d="M 24.00 128.00 L 321.00 128.00 L 618.00 128.00" class="geom-grid"/>
+    <path d="M 24.00 156.00 L 321.00 156.00 L 618.00 156.00" class="geom-grid"/>
+    <path d="M 78.00 44.00 L 78.00 114.00 L 78.00 184.00" class="geom-grid"/>
+    <path d="M 132.00 44.00 L 132.00 114.00 L 132.00 184.00" class="geom-grid"/>
+    <path d="M 186.00 44.00 L 186.00 114.00 L 186.00 184.00" class="geom-grid"/>
+    <path d="M 240.00 44.00 L 240.00 114.00 L 240.00 184.00" class="geom-grid"/>
+    <path d="M 294.00 44.00 L 294.00 114.00 L 294.00 184.00" class="geom-grid"/>
+    <path d="M 348.00 44.00 L 348.00 114.00 L 348.00 184.00" class="geom-grid"/>
+    <path d="M 402.00 44.00 L 402.00 114.00 L 402.00 184.00" class="geom-grid"/>
+    <path d="M 456.00 44.00 L 456.00 114.00 L 456.00 184.00" class="geom-grid"/>
+    <path d="M 510.00 44.00 L 510.00 114.00 L 510.00 184.00" class="geom-grid"/>
+    <path d="M 564.00 44.00 L 564.00 114.00 L 564.00 184.00" class="geom-grid"/>
+  </g>
+  <g id="graphics">
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+  </g>
+  <g id="points">
+    <circle cx="24.00" cy="44.00" r="3.0" class="geom-pt" data-ref="TL"/>
+    <circle cx="618.00" cy="44.00" r="3.0" class="geom-pt" data-ref="TR"/>
+    <circle cx="618.00" cy="184.00" r="3.0" class="geom-pt" data-ref="BR"/>
+    <circle cx="24.00" cy="184.00" r="3.0" class="geom-pt" data-ref="BL"/>
+  </g>
+  <g id="labels">
+    <text x="321.00" y="20.00" class="geom-lbl-b">μῆκος καὶ πλάτος</text>
+    <text x="51.00" y="58.00" class="geom-lbl" data-ref="R1C1">τρίγωνοι</text>
+    <text x="105.00" y="58.00" class="geom-lbl" data-ref="R1C2">α</text>
+    <text x="159.00" y="58.00" class="geom-lbl" data-ref="R1C3">γ</text>
+    <text x="213.00" y="58.00" class="geom-lbl" data-ref="R1C4">ϛ</text>
+    <text x="267.00" y="58.00" class="geom-lbl" data-ref="R1C5">ι</text>
+    <text x="321.00" y="58.00" class="geom-lbl" data-ref="R1C6">ιε</text>
+    <text x="375.00" y="58.00" class="geom-lbl" data-ref="R1C7">κα</text>
+    <text x="429.00" y="58.00" class="geom-lbl" data-ref="R1C8">κη</text>
+    <text x="483.00" y="58.00" class="geom-lbl" data-ref="R1C9">λϛ</text>
+    <text x="537.00" y="58.00" class="geom-lbl" data-ref="R1C10">με</text>
+    <text x="591.00" y="58.00" class="geom-lbl" data-ref="R1C11">νε</text>
+    <text x="51.00" y="86.00" class="geom-lbl" data-ref="R2C1">τετράγωνοι</text>
+    <text x="105.00" y="86.00" class="geom-lbl" data-ref="R2C2">α</text>
+    <text x="159.00" y="86.00" class="geom-lbl" data-ref="R2C3">δ</text>
+    <text x="213.00" y="86.00" class="geom-lbl" data-ref="R2C4">θ</text>
+    <text x="267.00" y="86.00" class="geom-lbl" data-ref="R2C5">ιϛ</text>
+    <text x="321.00" y="86.00" class="geom-lbl" data-ref="R2C6">κε</text>
+    <text x="375.00" y="86.00" class="geom-lbl" data-ref="R2C7">λϛ</text>
+    <text x="429.00" y="86.00" class="geom-lbl" data-ref="R2C8">μθ</text>
+    <text x="483.00" y="86.00" class="geom-lbl" data-ref="R2C9">ξδ</text>
+    <text x="537.00" y="86.00" class="geom-lbl" data-ref="R2C10">πα</text>
+    <text x="591.00" y="86.00" class="geom-lbl" data-ref="R2C11">ρ</text>
+    <text x="51.00" y="114.00" class="geom-lbl" data-ref="R3C1">πεντάγωνοι</text>
+    <text x="105.00" y="114.00" class="geom-lbl" data-ref="R3C2">α</text>
+    <text x="159.00" y="114.00" class="geom-lbl" data-ref="R3C3">ε</text>
+    <text x="213.00" y="114.00" class="geom-lbl" data-ref="R3C4">ιβ</text>
+    <text x="267.00" y="114.00" class="geom-lbl" data-ref="R3C5">κβ</text>
+    <text x="321.00" y="114.00" class="geom-lbl" data-ref="R3C6">λε</text>
+    <text x="375.00" y="114.00" class="geom-lbl" data-ref="R3C7">να</text>
+    <text x="429.00" y="114.00" class="geom-lbl" data-ref="R3C8">ο</text>
+    <text x="483.00" y="114.00" class="geom-lbl" data-ref="R3C9">ϟβ</text>
+    <text x="537.00" y="114.00" class="geom-lbl" data-ref="R3C10">ριζ</text>
+    <text x="591.00" y="114.00" class="geom-lbl" data-ref="R3C11">ρμε</text>
+    <text x="51.00" y="142.00" class="geom-lbl" data-ref="R4C1">ἑξάγωνοι</text>
+    <text x="105.00" y="142.00" class="geom-lbl" data-ref="R4C2">α</text>
+    <text x="159.00" y="142.00" class="geom-lbl" data-ref="R4C3">ϛ</text>
+    <text x="213.00" y="142.00" class="geom-lbl" data-ref="R4C4">ιε</text>
+    <text x="267.00" y="142.00" class="geom-lbl" data-ref="R4C5">κη</text>
+    <text x="321.00" y="142.00" class="geom-lbl" data-ref="R4C6">με</text>
+    <text x="375.00" y="142.00" class="geom-lbl" data-ref="R4C7">ξϛ</text>
+    <text x="429.00" y="142.00" class="geom-lbl" data-ref="R4C8">ϟα</text>
+    <text x="483.00" y="142.00" class="geom-lbl" data-ref="R4C9">ρκ</text>
+    <text x="537.00" y="142.00" class="geom-lbl" data-ref="R4C10">ρνγ</text>
+    <text x="591.00" y="142.00" class="geom-lbl" data-ref="R4C11">ρϟ</text>
+    <text x="51.00" y="170.00" class="geom-lbl" data-ref="R5C1">ἑπτάγωνοι</text>
+    <text x="105.00" y="170.00" class="geom-lbl" data-ref="R5C2">α</text>
+    <text x="159.00" y="170.00" class="geom-lbl" data-ref="R5C3">ζ</text>
+    <text x="213.00" y="170.00" class="geom-lbl" data-ref="R5C4">ιη</text>
+    <text x="267.00" y="170.00" class="geom-lbl" data-ref="R5C5">λδ</text>
+    <text x="321.00" y="170.00" class="geom-lbl" data-ref="R5C6">νε</text>
+    <text x="375.00" y="170.00" class="geom-lbl" data-ref="R5C7">πα</text>
+    <text x="429.00" y="170.00" class="geom-lbl" data-ref="R5C8">ριβ</text>
+    <text x="483.00" y="170.00" class="geom-lbl" data-ref="R5C9">ρμη</text>
+    <text x="537.00" y="170.00" class="geom-lbl" data-ref="R5C10">ρπθ</text>
+    <text x="591.00" y="170.00" class="geom-lbl" data-ref="R5C11">σλε</text>
+    <text x="663.00" y="114.00" class="geom-lbl-sm">βάθος</text>
+  </g>
+</svg>

@@ -19,6 +19,15 @@ Chapter 4: Triple Ratio Diagram and Natural Order of Multiples — Greek (Hoche 
 .. folio:: hoche_1866:0096
    :page: p. 78
 
+.. picture:: 0096.g1.png
+   :alt: Archival scan crop for 0096.g1
+   :caption: Hoche (1866, p. 78): Diagram of Triples (Τριπλασίων διάγραμμα). (Archival Witness)
+
+.. picture:: 0096.g1.svg
+   :alt: Calibrated vector diagram for 0096.g1
+   :caption: Hoche (1866, p. 78): Diagram of Triples (Τριπλασίων διάγραμμα). (Interactive Vector)
+
+
 δ. Τριπλασίου δὲ ὑπόδειγμα παραπλήσιον διαγράφειν δεῖ·
 
 .. list-table:: Τριπλασίων διάγραμμα (κατὰ μὲν τὸ πλάτος τριπλάσιον · κατὰ δὲ τὸ βάθος ἐπίτριτον · κατὰ δὲ τὴν ὑποτείνουσαν τετραπλάσιον)

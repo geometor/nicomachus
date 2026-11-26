@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="euclid-graphic" data-graphic-id="0260.g2" data-folio="0260" data-graphic="g2" width="600" height="176" viewBox="0 0 600 176" role="img">
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M 0 -4.5 L 0 0 L 0 4.5" stroke="var(--geom-assert)" stroke-width="1.6" stroke-linecap="round" fill="none"/>
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M -2 -4.5 L -2 0 L -2 4.5" stroke="var(--geom-assert)" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+      <path d="M 2 -4.5 L 2 0 L 2 4.5" stroke="var(--geom-assert)" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto">
+      <path d="M -3.5 -4.5 L -3.5 0 L -3.5 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+      <path d="M 0 -4.5 L 0 0 L 0 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+      <path d="M 3.5 -4.5 L 3.5 0 L 3.5 4.5" stroke="var(--geom-assert)" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+    </marker>
+  </defs>
+  <style>
+    .euclid-graphic {
+      --geom-fg: #1c1917;
+      --geom-bg: #faf8f5;
+      --geom-muted: #78716c;
+      --geom-accent: #b45309;
+      --geom-assert: #15803d;
+      --geom-grid: #d6d3d1;
+      font-family: "Gentium Plus", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+    }
+    @media (prefers-color-scheme: dark) {
+      .euclid-graphic {
+        --geom-fg: #e8e2d5;
+        --geom-bg: #1c1c21;
+        --geom-muted: #a8a195;
+        --geom-accent: #e2b553;
+        --geom-assert: #78c491;
+        --geom-grid: #44403c;
+      }
+    }
+    .euclid-graphic .geom-stroke { stroke: var(--geom-fg); stroke-width: 1.5; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .euclid-graphic .geom-grid { stroke: var(--geom-grid); stroke-width: 1.0; fill: none; }
+    .euclid-graphic .geom-dash { stroke: var(--geom-muted); stroke-width: 1.2; stroke-dasharray: 4 3; fill: none; }
+    .euclid-graphic .geom-arc { stroke: var(--geom-accent); stroke-width: 1.6; fill: none; }
+    .euclid-graphic .geom-overlay { stroke: var(--geom-assert); stroke-width: 2.2; fill: none; opacity: 0; }
+    .euclid-graphic .geom-pt { fill: var(--geom-accent); stroke: var(--geom-fg); stroke-width: 0.9; }
+    .euclid-graphic .geom-lbl { fill: var(--geom-fg); font-size: 13px; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-lbl-sm { fill: var(--geom-muted); font-size: 11px; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-lbl-b { fill: var(--geom-fg); font-size: 13px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+    .euclid-graphic .geom-alpha { fill: var(--geom-accent); font-size: 14px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
+  </style>
+  <g id="elements">
+    <path d="M 225.00 72.00 L 233.56 78.22 L 242.12 84.44" class="geom-stroke"/>
+    <path d="M 242.12 84.44 L 238.85 94.50 L 235.58 104.56" class="geom-stroke"/>
+    <path d="M 235.58 104.56 L 225.00 104.56 L 214.42 104.56" class="geom-stroke"/>
+    <path d="M 214.42 104.56 L 211.15 94.50 L 207.88 84.44" class="geom-stroke"/>
+    <path d="M 370.00 72.00 L 378.56 78.22 L 387.12 84.44" class="geom-stroke"/>
+    <path d="M 387.12 84.44 L 383.85 94.50 L 380.58 104.56" class="geom-stroke"/>
+    <path d="M 380.58 104.56 L 370.00 104.56 L 359.42 104.56" class="geom-stroke"/>
+    <path d="M 359.42 104.56 L 356.15 94.50 L 352.88 84.44" class="geom-stroke"/>
+    <path d="M 370.00 54.00 L 387.12 66.44 L 404.24 78.88" class="geom-stroke"/>
+    <path d="M 404.24 78.88 L 397.70 99.00 L 391.16 119.12" class="geom-stroke"/>
+    <path d="M 391.16 119.12 L 370.00 119.12 L 348.84 119.12" class="geom-stroke"/>
+    <path d="M 348.84 119.12 L 342.30 99.00 L 335.76 78.88" class="geom-stroke"/>
+    <path d="M 515.00 72.00 L 523.56 78.22 L 532.12 84.44" class="geom-stroke"/>
+    <path d="M 532.12 84.44 L 528.85 94.50 L 525.58 104.56" class="geom-stroke"/>
+    <path d="M 525.58 104.56 L 515.00 104.56 L 504.42 104.56" class="geom-stroke"/>
+    <path d="M 504.42 104.56 L 501.15 94.50 L 497.88 84.44" class="geom-stroke"/>
+    <path d="M 515.00 54.00 L 532.12 66.44 L 549.24 78.88" class="geom-stroke"/>
+    <path d="M 549.24 78.88 L 542.70 99.00 L 536.16 119.12" class="geom-stroke"/>
+    <path d="M 536.16 119.12 L 515.00 119.12 L 493.84 119.12" class="geom-stroke"/>
+    <path d="M 493.84 119.12 L 487.30 99.00 L 480.76 78.88" class="geom-stroke"/>
+    <path d="M 515.00 36.00 L 540.68 54.66 L 566.36 73.31" class="geom-stroke"/>
+    <path d="M 566.36 73.31 L 556.55 103.50 L 546.74 133.69" class="geom-stroke"/>
+    <path d="M 546.74 133.69 L 515.00 133.69 L 483.26 133.69" class="geom-stroke"/>
+    <path d="M 483.26 133.69 L 473.45 103.50 L 463.64 73.31" class="geom-stroke"/>
+  </g>
+  <g id="graphics">
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+  </g>
+  <g id="points">
+    <circle cx="80.00" cy="90.00" r="2.5" class="geom-pt" data-ref="P1C"/>
+    <circle cx="225.00" cy="90.00" r="2.5" class="geom-pt" data-ref="P2C"/>
+    <circle cx="225.00" cy="72.00" r="2.2" class="geom-pt" data-ref="P2R2V0S0"/>
+    <circle cx="242.12" cy="84.44" r="2.2" class="geom-pt" data-ref="P2R2V0S1"/>
+    <circle cx="242.12" cy="84.44" r="2.2" class="geom-pt" data-ref="P2R2V1S0"/>
+    <circle cx="235.58" cy="104.56" r="2.2" class="geom-pt" data-ref="P2R2V1S1"/>
+    <circle cx="235.58" cy="104.56" r="2.2" class="geom-pt" data-ref="P2R2V2S0"/>
+    <circle cx="214.42" cy="104.56" r="2.2" class="geom-pt" data-ref="P2R2V2S1"/>
+    <circle cx="214.42" cy="104.56" r="2.2" class="geom-pt" data-ref="P2R2V3S0"/>
+    <circle cx="207.88" cy="84.44" r="2.2" class="geom-pt" data-ref="P2R2V3S1"/>
+    <circle cx="370.00" cy="90.00" r="2.5" class="geom-pt" data-ref="P3C"/>
+    <circle cx="370.00" cy="72.00" r="2.2" class="geom-pt" data-ref="P3R2V0S0"/>
+    <circle cx="387.12" cy="84.44" r="2.2" class="geom-pt" data-ref="P3R2V0S1"/>
+    <circle cx="387.12" cy="84.44" r="2.2" class="geom-pt" data-ref="P3R2V1S0"/>
+    <circle cx="380.58" cy="104.56" r="2.2" class="geom-pt" data-ref="P3R2V1S1"/>
+    <circle cx="380.58" cy="104.56" r="2.2" class="geom-pt" data-ref="P3R2V2S0"/>
+    <circle cx="359.42" cy="104.56" r="2.2" class="geom-pt" data-ref="P3R2V2S1"/>
+    <circle cx="359.42" cy="104.56" r="2.2" class="geom-pt" data-ref="P3R2V3S0"/>
+    <circle cx="352.88" cy="84.44" r="2.2" class="geom-pt" data-ref="P3R2V3S1"/>
+    <circle cx="370.00" cy="54.00" r="2.2" class="geom-pt" data-ref="P3R3V0S0"/>
+    <circle cx="387.12" cy="66.44" r="2.2" class="geom-pt" data-ref="P3R3V0S1"/>
+    <circle cx="404.24" cy="78.88" r="2.2" class="geom-pt" data-ref="P3R3V0S2"/>
+    <circle cx="404.24" cy="78.88" r="2.2" class="geom-pt" data-ref="P3R3V1S0"/>
+    <circle cx="397.70" cy="99.00" r="2.2" class="geom-pt" data-ref="P3R3V1S1"/>
+    <circle cx="391.16" cy="119.12" r="2.2" class="geom-pt" data-ref="P3R3V1S2"/>
+    <circle cx="391.16" cy="119.12" r="2.2" class="geom-pt" data-ref="P3R3V2S0"/>
+    <circle cx="370.00" cy="119.12" r="2.2" class="geom-pt" data-ref="P3R3V2S1"/>
+    <circle cx="348.84" cy="119.12" r="2.2" class="geom-pt" data-ref="P3R3V2S2"/>
+    <circle cx="348.84" cy="119.12" r="2.2" class="geom-pt" data-ref="P3R3V3S0"/>
+    <circle cx="342.30" cy="99.00" r="2.2" class="geom-pt" data-ref="P3R3V3S1"/>
+    <circle cx="335.76" cy="78.88" r="2.2" class="geom-pt" data-ref="P3R3V3S2"/>
+    <circle cx="515.00" cy="90.00" r="2.5" class="geom-pt" data-ref="P4C"/>
+    <circle cx="515.00" cy="72.00" r="2.2" class="geom-pt" data-ref="P4R2V0S0"/>
+    <circle cx="532.12" cy="84.44" r="2.2" class="geom-pt" data-ref="P4R2V0S1"/>
+    <circle cx="532.12" cy="84.44" r="2.2" class="geom-pt" data-ref="P4R2V1S0"/>
+    <circle cx="525.58" cy="104.56" r="2.2" class="geom-pt" data-ref="P4R2V1S1"/>
+    <circle cx="525.58" cy="104.56" r="2.2" class="geom-pt" data-ref="P4R2V2S0"/>
+    <circle cx="504.42" cy="104.56" r="2.2" class="geom-pt" data-ref="P4R2V2S1"/>
+    <circle cx="504.42" cy="104.56" r="2.2" class="geom-pt" data-ref="P4R2V3S0"/>
+    <circle cx="497.88" cy="84.44" r="2.2" class="geom-pt" data-ref="P4R2V3S1"/>
+    <circle cx="515.00" cy="54.00" r="2.2" class="geom-pt" data-ref="P4R3V0S0"/>
+    <circle cx="532.12" cy="66.44" r="2.2" class="geom-pt" data-ref="P4R3V0S1"/>
+    <circle cx="549.24" cy="78.88" r="2.2" class="geom-pt" data-ref="P4R3V0S2"/>
+    <circle cx="549.24" cy="78.88" r="2.2" class="geom-pt" data-ref="P4R3V1S0"/>
+    <circle cx="542.70" cy="99.00" r="2.2" class="geom-pt" data-ref="P4R3V1S1"/>
+    <circle cx="536.16" cy="119.12" r="2.2" class="geom-pt" data-ref="P4R3V1S2"/>
+    <circle cx="536.16" cy="119.12" r="2.2" class="geom-pt" data-ref="P4R3V2S0"/>
+    <circle cx="515.00" cy="119.12" r="2.2" class="geom-pt" data-ref="P4R3V2S1"/>
+    <circle cx="493.84" cy="119.12" r="2.2" class="geom-pt" data-ref="P4R3V2S2"/>
+    <circle cx="493.84" cy="119.12" r="2.2" class="geom-pt" data-ref="P4R3V3S0"/>
+    <circle cx="487.30" cy="99.00" r="2.2" class="geom-pt" data-ref="P4R3V3S1"/>
+    <circle cx="480.76" cy="78.88" r="2.2" class="geom-pt" data-ref="P4R3V3S2"/>
+    <circle cx="515.00" cy="36.00" r="2.2" class="geom-pt" data-ref="P4R4V0S0"/>
+    <circle cx="532.12" cy="48.44" r="2.2" class="geom-pt" data-ref="P4R4V0S1"/>
+    <circle cx="549.24" cy="60.88" r="2.2" class="geom-pt" data-ref="P4R4V0S2"/>
+    <circle cx="566.36" cy="73.31" r="2.2" class="geom-pt" data-ref="P4R4V0S3"/>
+    <circle cx="566.36" cy="73.31" r="2.2" class="geom-pt" data-ref="P4R4V1S0"/>
+    <circle cx="559.82" cy="93.44" r="2.2" class="geom-pt" data-ref="P4R4V1S1"/>
+    <circle cx="553.28" cy="113.56" r="2.2" class="geom-pt" data-ref="P4R4V1S2"/>
+    <circle cx="546.74" cy="133.69" r="2.2" class="geom-pt" data-ref="P4R4V1S3"/>
+    <circle cx="546.74" cy="133.69" r="2.2" class="geom-pt" data-ref="P4R4V2S0"/>
+    <circle cx="525.58" cy="133.69" r="2.2" class="geom-pt" data-ref="P4R4V2S1"/>
+    <circle cx="504.42" cy="133.69" r="2.2" class="geom-pt" data-ref="P4R4V2S2"/>
+    <circle cx="483.26" cy="133.69" r="2.2" class="geom-pt" data-ref="P4R4V2S3"/>
+    <circle cx="483.26" cy="133.69" r="2.2" class="geom-pt" data-ref="P4R4V3S0"/>
+    <circle cx="476.72" cy="113.56" r="2.2" class="geom-pt" data-ref="P4R4V3S1"/>
+    <circle cx="470.18" cy="93.44" r="2.2" class="geom-pt" data-ref="P4R4V3S2"/>
+    <circle cx="463.64" cy="73.31" r="2.2" class="geom-pt" data-ref="P4R4V3S3"/>
+  </g>
+  <g id="labels">
+    <text x="80.00" y="20.00" class="geom-lbl-b">(1)</text>
+    <text x="80.00" y="155.00" class="geom-lbl-b">1</text>
+    <text x="225.00" y="20.00" class="geom-lbl-b">(2)</text>
+    <text x="225.00" y="155.00" class="geom-lbl-b">5</text>
+    <text x="370.00" y="20.00" class="geom-lbl-b">(3)</text>
+    <text x="370.00" y="155.00" class="geom-lbl-b">12</text>
+    <text x="515.00" y="20.00" class="geom-lbl-b">(4)</text>
+    <text x="515.00" y="155.00" class="geom-lbl-b">22</text>
+  </g>
+</svg>

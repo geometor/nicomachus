@@ -30,6 +30,15 @@ Their figures will be orderly, at once triangular and equilateral; and advancing
 .. folio:: introductio_arithmetica:0258
    :page: p. 242
 
+.. picture:: 0258.g1.png
+   :alt: Archival scan crop for 0258.g1
+   :caption: D'Ooge (1926, p. 242): Triangular alpha-pebble arrays (Sides 5, 6, 7). (Archival Witness)
+
+.. picture:: 0258.g1.svg
+   :alt: Calibrated vector diagram for 0258.g1
+   :caption: D'Ooge (1926, p. 242): Triangular alpha-pebble arrays (Sides 5, 6, 7). (Interactive Vector)
+
+
 a triangle.
 Next, piling on :math:`3`, spreading it into units, and adding gives :math:`6`, the second actual triangle, and shapes it too; again, :math:`4` following by nature, accumulated and written underneath in units, yields :math:`10` and shapes a triangle; then :math:`5`, then :math:`6`, then :math:`7`, and all that follow—so that harmoniously each side has as many units as numbers from the natural row were combined to compose it:
 

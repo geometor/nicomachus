@@ -37,6 +37,15 @@ Again, any triangle joined to any square figure makes a pentagon, for example, t
 .. folio:: introductio_arithmetica:0264
    :page: p. 248
 
+.. picture:: 0264.g1.png
+   :alt: Archival scan crop for 0264.g1
+   :caption: D'Ooge (1926, p. 248): Parallel rows of polygonal numbers (Triangles–Heptagons). (Archival Witness)
+
+.. picture:: 0264.g1.svg
+   :alt: Calibrated vector diagram for 0264.g1
+   :caption: D'Ooge (1926, p. 248): Parallel rows of polygonal numbers (Triangles–Heptagons). (Interactive Vector)
+
+
 the same order, they will produce the hexagonals in due order, and again the same triangles with the latter will make the heptagonals in order, the octagonals after the heptagonals, and so on to infinity.
 
 **4.** To remind us, let us set forth rows of the polygonals, written in parallel lines, as follows: The first row, triangles, the next squares, after them pentagonals, then hexagonals, then heptagonals, then if one wishes the succeeding polygonals.

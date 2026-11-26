@@ -26,6 +26,15 @@ Since :math:`2` is first after unity, it will originate only one sesquialter, :m
 .. folio:: introductio_arithmetica:0249
    :page: p. 233
 
+.. picture:: 0249.g1.png
+   :alt: Archival scan crop for 0249.g1
+   :caption: D'Ooge (1926, p. 233): Diagram of Doubles (breadth, depth, hypotenuse). (Archival Witness)
+
+.. picture:: 0249.g1.svg
+   :alt: Calibrated vector diagram for 0249.g1
+   :caption: D'Ooge (1926, p. 233): Diagram of Doubles (breadth, depth, hypotenuse). (Interactive Vector)
+
+
 .. list-table:: Diagram of Doubles (Double along the breadth · Sesquialter along the depth · Triple along the hypotenuse)
    :widths: 14 14 14 14 14 14 16
 

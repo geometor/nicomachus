@@ -52,6 +52,15 @@ and onward as far as you wish.
 .. folio:: introductio_arithmetica:0216
    :page: p. 200
 
+.. picture:: 0216.g1.png
+   :alt: Archival scan crop for 0216.g1
+   :caption: D'Ooge (1926, p. 200): Table of odd-times even numbers (Breadth × Length). (Archival Witness)
+
+.. picture:: 0216.g1.svg
+   :alt: Calibrated vector diagram for 0216.g1
+   :caption: D'Ooge (1926, p. 200): Table of odd-times even numbers (Breadth × Length). (Interactive Vector)
+
+
 taking the second number of the same row, multiply those same terms from the top as far as you have them and record the results; then again with the third number multiply the same terms from the top—and as far as you advance, no others will be generated for you except the odd-times even numbers.
 
 **9.** By way of example, let us take the first number of the row of odds and multiply by it all the terms of the other row in order:
