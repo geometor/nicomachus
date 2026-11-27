@@ -34,31 +34,3 @@ Chapters
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_01/index
-   ch_02/index
-   ch_03/index
-   ch_04/index
-   ch_05/index
-   ch_06/index
-   ch_07/index
-   ch_08/index
-   ch_09/index
-   ch_10/index
-   ch_11/index
-   ch_12/index
-   ch_13/index
-   ch_14/index
-   ch_15/index
-   ch_16/index
-   ch_17/index
-   ch_18/index
-   ch_19/index
-   ch_20/index
-   ch_21/index
-   ch_22/index
-   ch_23/index
