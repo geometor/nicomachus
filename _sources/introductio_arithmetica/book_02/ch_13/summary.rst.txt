@@ -23,4 +23,4 @@ Nicomachus introduces three-dimensional solid numbers (*stereoi*) through equila
 
 1. **Three Dimensions (II.13.1–2)**: Adding depth/height to length and breadth yields solid numbers, exemplified first by pyramids tapering from polygonal bases to an apex.
 2. **Geometric Analogy (II.13.3)**: Raising edges equal to the base sides from each vertex to a common apex forms a regular tetrahedron on a triangle, a square pyramid on a square, and higher polygonal pyramids in general.
-3. **Tetrahedral Numbers (II.13.4–5)**: Summing consecutive triangular numbers $T_1 + \dots + T_n$ yields the tetrahedral series $1, 4, 10, 20, 35, 56, 84, \dots$, with the largest base at the bottom and $1$ as the apex point.
+3. **Tetrahedral Numbers (II.13.4–5)**: Summing consecutive triangular numbers :math:`T_1 + \dots + T_n` yields the tetrahedral series :math:`1, 4, 10, 20, 35, 56, 84, \dots`, with the largest base at the bottom and :math:`1` as the apex point.

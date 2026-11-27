@@ -26,5 +26,5 @@ Archival Witnesses & Apparatus
 Mathematical & Historical Notes
 -------------------------------
 
-* **Hypsicles's Theorem**: As D'Ooge notes (p. 246 n. 2), Diophantus (*De Polygonis Numeris*, Prop. IV) attributes this general gnomon-difference rule ($d = s - 2$) to Hypsicles of Alexandria (c. 180 BCE) in a lost definition (*en horōi*).
-* **Manuscript Diagrams (Codex G)**: Hoche's critical apparatus (pp. 94–95) reproduces the marginal pebble diagrams from Codex Gottingensis ($G$) illustrating the hexagonal number $15$ ($1 + 5 + 9$), the derivation of heptagonals ($7, 18, 34, 55$) by marking positions $1, 6, 11, 16, 21$ along the natural number line, and the alpha-pebble heptagon and octagon.
+* **Hypsicles's Theorem**: As D'Ooge notes (p. 246 n. 2), Diophantus (*De Polygonis Numeris*, Prop. IV) attributes this general gnomon-difference rule (:math:`d = s - 2`) to Hypsicles of Alexandria (c. 180 BCE) in a lost definition (*en horōi*).
+* **Manuscript Diagrams (Codex G)**: Hoche's critical apparatus (pp. 94–95) reproduces the marginal pebble diagrams from Codex Gottingensis (:math:`G`) illustrating the hexagonal number :math:`15` (:math:`1 + 5 + 9`), the derivation of heptagonals (:math:`7, 18, 34, 55`) by marking positions :math:`1, 6, 11, 16, 21` along the natural number line, and the alpha-pebble heptagon and octagon.

@@ -26,5 +26,5 @@ Archival Witnesses & Apparatus
 Mathematical & Philological Notes
 ---------------------------------
 
-* **Base-10 Automorphic Powers**: Nicomachus's *circular* ($1, 25, 36$) and *spherical/recurrent* (*apokatastatikoi*, $1, 125, 216, 625, 1296$) numbers reflect the idempotent units of $\mathbb{Z}/10\mathbb{Z}$: $x^k \equiv x \pmod{10}$ for all $k \ge 1$ holds uniquely for $x \in \{0, 1, 5, 6\}$ (ignoring $0$, which Greeks did not treat as a number).
+* **Base-10 Automorphic Powers**: Nicomachus's *circular* (:math:`1, 25, 36`) and *spherical/recurrent* (*apokatastatikoi*, :math:`1, 125, 216, 625, 1296`) numbers reflect the idempotent units of :math:`\mathbb{Z}/10\mathbb{Z}`: :math:`x^k \equiv x \pmod{10}` for all :math:`k \ge 1` holds uniquely for :math:`x \in \{0, 1, 5, 6\}` (ignoring :math:`0`, which Greeks did not treat as a number).
 * **Textual Note (II.17.6–7)**: Notice Hoche's text moves directly from the odd/even row contrast into bricks (*plinthides*) and beams (*dokides*) at p. 110; D'Ooge p. 257 notes the thematic transition back to solid classification before returning to Same and Other in Ch. 18.

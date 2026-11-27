@@ -26,5 +26,5 @@ Archival Witnesses & Apparatus
 Mathematical & Textual Notes
 ----------------------------
 
-* **Algebraic Verification**: Writing $P(s, n) = T_n + (s - 3)T_{n-1} = \frac{n(n+1)}{2} + (s - 3)\frac{n(n-1)}{2}$ immediately yields $\frac{n}{2}[2 + (s - 2)(n - 1)]$, matching the gnomon summation of Chapter 11.
-* **Table Textual Note (Hoche p. 97)**: In the synoptic polygonal table (`hoche_1866:0115`), Hoche prints ``κη`` ($28$) for the fourth hexagonal number and ``ϙβ``, ``ϙα``, ``ρϙ`` using koppa ($92, 91, 190$). Notice D'Ooge p. 249 n. 1 observes that Ast suspected ``καὶ κατὰ πλάτος`` in II.12.8 as an interpolation, though Hoche retains it from the manuscript tradition.
+* **Algebraic Verification**: Writing :math:`P(s, n) = T_n + (s - 3)T_{n-1} = \frac{n(n+1)}{2} + (s - 3)\frac{n(n-1)}{2}` immediately yields :math:`\frac{n}{2}[2 + (s - 2)(n - 1)]`, matching the gnomon summation of Chapter 11.
+* **Table Textual Note (Hoche p. 97)**: In the synoptic polygonal table (`hoche_1866:0115`), Hoche prints ``κη`` (:math:`28`) for the fourth hexagonal number and ``ϙβ``, ``ϙα``, ``ρϙ`` using koppa (:math:`92, 91, 190`). Notice D'Ooge p. 249 n. 1 observes that Ast suspected ``καὶ κατὰ πλάτος`` in II.12.8 as an interpolation, though Hoche retains it from the manuscript tradition.

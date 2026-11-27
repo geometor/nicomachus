@@ -27,6 +27,6 @@ Archival Witnesses & Apparatus
 Mathematical & Historical Notes
 -------------------------------
 
-* **Philolaus's Cube as Geometric Harmony**: A cube has :math:`F = 6` faces, :math:`V = 8` vertices, and :math:`E = 12` edges, satisfying Euler's polyhedral invariant $V - E + F = 8 - 12 + 6 = 2$ and the harmonic proportion $\frac{1}{6} + \frac{1}{12} = \frac{2}{8} \iff H(6, 12) = 8$.
-* **Octahedral Dual**: Dually, the regular octahedron has $V = 6, F = 8, E = 12$, preserving the identical harmonic triple $(6, 8, 12)$.
-* **Difference Consonances**: In $(3, 4, 6)$, differences are $1, 2, 3$: $6:2 = 3:1$ (twelfth) and $4:1 = 4:1$ (double octave). In $(2, 3, 6)$, differences are $1, 3, 4$: $3:1$ (twelfth) and $4:1$ (double octave).
+* **Philolaus's Cube as Geometric Harmony**: A cube has :math:`F = 6` faces, :math:`V = 8` vertices, and :math:`E = 12` edges, satisfying Euler's polyhedral invariant :math:`V - E + F = 8 - 12 + 6 = 2` and the harmonic proportion :math:`\frac{1}{6} + \frac{1}{12} = \frac{2}{8} \iff H(6, 12) = 8`.
+* **Octahedral Dual**: Dually, the regular octahedron has :math:`V = 6, F = 8, E = 12`, preserving the identical harmonic triple :math:`(6, 8, 12)`.
+* **Difference Consonances**: In :math:`(3, 4, 6)`, differences are :math:`1, 2, 3`: :math:`6:2 = 3:1` (twelfth) and :math:`4:1 = 4:1` (double octave). In :math:`(2, 3, 6)`, differences are :math:`1, 3, 4`: :math:`3:1` (twelfth) and :math:`4:1` (double octave).

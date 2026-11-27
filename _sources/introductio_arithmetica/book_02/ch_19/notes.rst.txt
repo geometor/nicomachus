@@ -27,4 +27,4 @@ Philological & Mathematical Notes
 ---------------------------------
 
 * **Philolaus on Harmony (II.19.1)**: Nicomachus's definition *harmonia polymigeōn henōsis kai dicha phroneontōn symphronēsis* echoes :person:`Philolaus <philolaus>` fr. B10 (cf. Theon of Smyrna p. 12 Hiller).
-* **Algebraic Identities (II.19.4)**: With $S_n = n^2$ and $H_n = n(n+1)$: (i) $S_n + S_{n+1} + 2H_n = n^2 + (n+1)^2 + 2n(n+1) = (2n+1)^2$; (ii) $S_n + H_n = n(2n+1) = T_{2n}$, and $H_n + S_{n+1} = (n+1)(2n+1) = T_{2n+1}$ (starting at $1+2=T_2$).
+* **Algebraic Identities (II.19.4)**: With :math:`S_n = n^2` and :math:`H_n = n(n+1)`: (i) :math:`S_n + S_{n+1} + 2H_n = n^2 + (n+1)^2 + 2n(n+1) = (2n+1)^2`; (ii) :math:`S_n + H_n = n(2n+1) = T_{2n}`, and :math:`H_n + S_{n+1} = (n+1)(2n+1) = T_{2n+1}` (starting at :math:`1+2=T_2`).

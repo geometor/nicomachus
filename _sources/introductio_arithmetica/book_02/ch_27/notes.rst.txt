@@ -27,6 +27,6 @@ Archival Witnesses & Apparatus
 Mathematical & Historical Notes
 -------------------------------
 
-* **Canon & Monochord Analogy**: Nicomachus compares holding the extremes fixed while sliding the mean ($25 \to 20 \to 16$ between $10$ and $40$, or $25 \to 15 \to 9$ between $5$ and $45$) to moving the *hypagogeus* (bridge) on a monochord or opening different holes on an *aulos* (flute).
-* **Constructive Formulas (II.27.6)**: Writing $a < c$, Nicomachus states $A = \frac{a+c}{2} = a + \frac{c-a}{2}$, $G = \sqrt{ac}$, and $H = a + \frac{a(c-a)}{a+c} = \frac{2ac}{a+c}$.
-* **Geometric Realization**: Compare ``geometor.nicomachus.construct_three_classical_means_model``, where :g:`OR = A <three-classical-means-semicircle:OR>`, :g:`QS = G <three-classical-means-semicircle:QS>`, and :g:`SF = H <three-classical-means-semicircle:SF>` satisfy $A \ge G \ge H$ and $A \cdot H = G^2$.
+* **Canon & Monochord Analogy**: Nicomachus compares holding the extremes fixed while sliding the mean (:math:`25 \to 20 \to 16` between :math:`10` and :math:`40`, or :math:`25 \to 15 \to 9` between :math:`5` and :math:`45`) to moving the *hypagogeus* (bridge) on a monochord or opening different holes on an *aulos* (flute).
+* **Constructive Formulas (II.27.6)**: Writing :math:`a < c`, Nicomachus states :math:`A = \frac{a+c}{2} = a + \frac{c-a}{2}`, :math:`G = \sqrt{ac}`, and :math:`H = a + \frac{a(c-a)}{a+c} = \frac{2ac}{a+c}`.
+* **Geometric Realization**: Compare ``geometor.nicomachus.construct_three_classical_means_model``, where :g:`OR = A <three-classical-means-semicircle:OR>`, :g:`QS = G <three-classical-means-semicircle:QS>`, and :g:`SF = H <three-classical-means-semicircle:SF>` satisfy :math:`A \ge G \ge H` and :math:`A \cdot H = G^2`.

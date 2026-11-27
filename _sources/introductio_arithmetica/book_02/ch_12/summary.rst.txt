@@ -21,6 +21,6 @@ Overview
 
 Nicomachus demonstrates that the :g:`triangle is the elementary principle of all polygonal numbers <polygonal-alpha-gnomons:DECOMP>`, mirroring the geometric triangulation of polygons by diagonals:
 
-1. **Squares as Sums of Consecutive Triangles (II.12.1–2)**: Every square $S_n = n^2$ resolves into two consecutive triangular numbers, $S_n = T_n + T_{n-1}$ (e.g. $4 = 3 + 1$, $9 = 6 + 3$, $16 = 10 + 6$).
-2. **Higher Polygons by Triangular Addition (II.12.2–3, 5–7)**: Adjoining $T_{n-1}$ to $S_n$ yields the $n$-th pentagon $P(5, n) = S_n + T_{n-1}$; adjoining $T_{n-1}$ to $P(s, n)$ yields $P(s+1, n) = P(s, n) + T_{n-1} = T_n + (s - 3)T_{n-1}$.
+1. **Squares as Sums of Consecutive Triangles (II.12.1–2)**: Every square :math:`S_n = n^2` resolves into two consecutive triangular numbers, :math:`S_n = T_n + T_{n-1}` (e.g. :math:`4 = 3 + 1`, :math:`9 = 6 + 3`, :math:`16 = 10 + 6`).
+2. **Higher Polygons by Triangular Addition (II.12.2–3, 5–7)**: Adjoining :math:`T_{n-1}` to :math:`S_n` yields the :math:`n`-th pentagon :math:`P(5, n) = S_n + T_{n-1}`; adjoining :math:`T_{n-1}` to :math:`P(s, n)` yields :math:`P(s+1, n) = P(s, n) + T_{n-1} = T_n + (s - 3)T_{n-1}`.
 3. **Synoptic Polygonal Table (II.12.4, 8)**: Arranging triangular through heptagonal series in parallel rows exhibits consecutive triangles as both vertical and diagonal-step differences.

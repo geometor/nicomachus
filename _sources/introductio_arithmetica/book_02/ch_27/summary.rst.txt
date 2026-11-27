@@ -22,6 +22,6 @@ Overview
 
 Nicomachus compares shifting the mean between fixed numerical extremes to moving the bridge on a monochord or changing fingerings on a flute:
 
-1. **Even Extremes ($10, 40$) (II.27.2–4)**: Inserting $25$ yields the arithmetic mean; $20$ yields the geometric mean; $16$ yields the harmonic mean.
-2. **Odd Extremes ($5, 45$) (II.27.5)**: Inserting $25$ yields the arithmetic mean; $15$ yields the geometric mean; $9$ yields the harmonic mean.
-3. **Constructive Algorithms (II.27.6)**: $A = \frac{a+c}{2} = a + \frac{c-a}{2}$; $G = \sqrt{ac}$; and $H = a + \frac{a(c-a)}{a+c}$.
+1. **Even Extremes** (:math:`10, 40`) (**II.27.2–4**): Inserting :math:`25` yields the arithmetic mean; :math:`20` yields the geometric mean; :math:`16` yields the harmonic mean.
+2. **Odd Extremes** (:math:`5, 45`) (**II.27.5**): Inserting :math:`25` yields the arithmetic mean; :math:`15` yields the geometric mean; :math:`9` yields the harmonic mean.
+3. **Constructive Algorithms (II.27.6)**: :math:`A = \frac{a+c}{2} = a + \frac{c-a}{2}`; :math:`G = \sqrt{ac}`; and :math:`H = a + \frac{a(c-a)}{a+c}`.
