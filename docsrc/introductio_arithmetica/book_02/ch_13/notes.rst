@@ -26,5 +26,5 @@ Archival Witnesses & Apparatus
 Mathematical & Textual Notes
 ----------------------------
 
-* **Closed Form for Tetrahedral Numbers**: Summing $T_k = \frac{k(k+1)}{2}$ from $k=1$ to $n$ gives $\operatorname{Pyr}(3, n) = \frac{n(n+1)(n+2)}{6} = \binom{n+2}{3}$.
-* **Equilateral Edges in Geometry**: Nicomachus's geometric description constructs lateral faces as equilateral triangles equal to the base; note that in Euclidean 3-space this closes into a regular polyhedron only for $s=3,4,5$ (and $s=4,5$ yield Johnson solids $J_1, J_2$ rather than flat caps when $s \ge 6$).
+* **Closed Form for Tetrahedral Numbers**: Summing :math:`T_k = \frac{k(k+1)}{2}` from :math:`k=1` to :math:`n` gives :math:`\operatorname{Pyr}(3, n) = \frac{n(n+1)(n+2)}{6} = \binom{n+2}{3}`.
+* **Equilateral Edges in Geometry**: Nicomachus's geometric description constructs lateral faces as equilateral triangles equal to the base; note that in Euclidean 3-space this closes into a regular polyhedron only for :math:`s=3,4,5` (and :math:`s=4,5` yield Johnson solids :math:`J_1, J_2` rather than flat caps when :math:`s \ge 6`).

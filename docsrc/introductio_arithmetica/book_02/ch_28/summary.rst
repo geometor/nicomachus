@@ -20,9 +20,9 @@ Chapter 28: The Seven Additional Means Completing the Ten Proportions — Summar
 Overview
 --------
 
-Completing the Pythagorean decad of proportions, Nicomachus defines seven additional means for $a < b < c$ alongside the three classical ones:
+Completing the Pythagorean decad of proportions, Nicomachus defines seven additional means for :math:`a < b < c` alongside the three classical ones:
 
-* **1–3 (Classical)**: Arithmetic ($1,2,3$), Geometric ($1,2,4$), Harmonic ($3,4,6$).
-* **4 (Subcontrary to Harmonic)**: $c : a = (b - a) : (c - b)$, giving $bc + ca = 2ab$ ($3, 5, 6$).
-* **5–6 (Subcontraries to Geometric)**: 5th $b : a = (b - a) : (c - b)$ ($2, 4, 5$); 6th $c : b = (b - a) : (c - b)$ ($1, 4, 6$).
-* **7–10 (Four Modern Means)**: 7th $c : a = (c - a) : (b - a)$ ($6, 8, 9$); 8th $c : a = (c - a) : (c - b)$ ($6, 7, 9$); 9th $b : a = (c - a) : (b - a)$ ($4, 6, 7$); 10th $b : a = (c - a) : (c - b) \iff a + b = c$ ($3, 5, 8$).
+* **1–3 (Classical)**: Arithmetic (:math:`1,2,3`), Geometric (:math:`1,2,4`), Harmonic (:math:`3,4,6`).
+* **4 (Subcontrary to Harmonic)**: :math:`c : a = (b - a) : (c - b)`, giving :math:`bc + ca = 2ab` (:math:`3, 5, 6`).
+* **5–6 (Subcontraries to Geometric)**: 5th :math:`b : a = (b - a) : (c - b)` (:math:`2, 4, 5`); 6th :math:`c : b = (b - a) : (c - b)` (:math:`1, 4, 6`).
+* **7–10 (Four Modern Means)**: 7th :math:`c : a = (c - a) : (b - a)` (:math:`6, 8, 9`); 8th :math:`c : a = (c - a) : (c - b)` (:math:`6, 7, 9`); 9th :math:`b : a = (c - a) : (b - a)` (:math:`4, 6, 7`); 10th :math:`b : a = (c - a) : (c - b) \iff a + b = c` (:math:`3, 5, 8`).

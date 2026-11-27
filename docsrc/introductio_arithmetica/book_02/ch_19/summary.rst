@@ -19,8 +19,8 @@ Chapter 19: Alternating Weave & Harmonic Identities of Squares and Oblongs — S
 Overview
 --------
 
-Nicomachus weaves the rows of squares $S_n = n^2$ and heteromecics $H_n = n(n+1)$ into an :g:`alternating sequence <heteromecic-same-other:WEAVE>` demonstrating four harmonic identities:
+Nicomachus weaves the rows of squares :math:`S_n = n^2` and heteromecics :math:`H_n = n(n+1)` into an :g:`alternating sequence <heteromecic-same-other:WEAVE>` demonstrating four harmonic identities:
 
-1. **Paired Superparticulars (II.19.2–3)**: $H_n : S_n = S_{n+1} : H_n = (n+1) : n$, with differences $H_n - S_n = n$ and $S_{n+1} - H_n = n + 1$.
-2. **Geometric Mean Triads (II.19.4)**: In $(S_n, H_n, S_{n+1})$, $S_n \cdot S_{n+1} = H_n^2$, and $S_n + 2H_n + S_{n+1} = (2n+1)^2$.
-3. **Generation of Triangles (II.19.4)**: Summing adjacent interleaved terms ($1+2=3, 2+4=6, 4+6=10, \dots$) produces the triangular numbers $T_{2n}$ and $T_{2n-1}$, proving Same and Other precede even the triangle.
+1. **Paired Superparticulars (II.19.2–3)**: :math:`H_n : S_n = S_{n+1} : H_n = (n+1) : n`, with differences :math:`H_n - S_n = n` and :math:`S_{n+1} - H_n = n + 1`.
+2. **Geometric Mean Triads (II.19.4)**: In :math:`(S_n, H_n, S_{n+1})`, :math:`S_n \cdot S_{n+1} = H_n^2`, and :math:`S_n + 2H_n + S_{n+1} = (2n+1)^2`.
+3. **Generation of Triangles (II.19.4)**: Summing adjacent interleaved terms (:math:`1+2=3, 2+4=6, 4+6=10, \dots`) produces the triangular numbers :math:`T_{2n}` and :math:`T_{2n-1}`, proving Same and Other precede even the triangle.

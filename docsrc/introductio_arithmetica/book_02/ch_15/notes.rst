@@ -26,5 +26,5 @@ Archival Witnesses & Apparatus
 Mathematical & Textual Notes
 ----------------------------
 
-* **Euler Characteristic of the Cube**: Nicomachus's explicit tally—$F = 6$ faces, $E = 12$ edges, $V = 8$ solid angles—anticipates the combinatorial invariants of the cube ($V - E + F = 2$) and lays the groundwork for the harmonic reading of the cube in II.29 ($6 : 8 :: 9 : 12$, where $6, 8, 12$ are the faces, vertices, and edges).
+* **Euler Characteristic of the Cube**: Nicomachus's explicit tally—:math:`F = 6` faces, :math:`E = 12` edges, :math:`V = 8` solid angles—anticipates the combinatorial invariants of the cube (:math:`V - E + F = 2`) and lays the groundwork for the harmonic reading of the cube in II.29 (:math:`6 : 8 :: 9 : 12`, where :math:`6, 8, 12` are the faces, vertices, and edges).
 * **Chapter Structure**: Notice that beams, bricks, wedges, sphericals, and parallelepipeds are announced in II.15.1 and systematically defined across Chapters 16–17.

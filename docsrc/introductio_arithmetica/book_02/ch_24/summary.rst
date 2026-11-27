@@ -20,7 +20,7 @@ Chapter 24: The Geometric Proportion, Platonic Solid Bonding & Square Difference
 Overview
 --------
 
-Nicomachus examines the geometric :term:`proportion <analogia>` ($c : b = b : a$), characterized by equal quality of ratio rather than equal quantity of difference:
+Nicomachus examines the geometric :term:`proportion <analogia>` (:math:`c : b = b : a`), characterized by equal quality of ratio rather than equal quantity of difference:
 
-1. **Ratio-Preserving Differences & Extreme-Product Law (II.24.1–3)**: Consecutive differences stand in the same ratio as the terms themselves ($(c - b) : (b - a) = c : b = b : a$). In continuous form, $b^2 = ac$; in disjunct form ($a : b = c : d$), $ad = bc$. On :g:`semicircle PR <three-classical-means-semicircle:SEMICIRC>`, :g:`ordinate QS <three-classical-means-semicircle:QS>` realizes $G = \sqrt{ac}$.
-2. **Platonic Solid Bonding (II.24.5)**: Plane squares ($a^2, b^2$) admit a single geometric mean ($ab$), whereas cubes ($a^3, b^3$) require two means ($a^2 b, ab^2$), illuminating :person:`Plato's <plato>` *Timaeus* 31b–32b and the nuptial passage in *Republic* 546b–c.
+1. **Ratio-Preserving Differences & Extreme-Product Law (II.24.1–3)**: Consecutive differences stand in the same ratio as the terms themselves (:math:`(c - b) : (b - a) = c : b = b : a`). In continuous form, :math:`b^2 = ac`; in disjunct form (:math:`a : b = c : d`), :math:`ad = bc`. On :g:`semicircle PR <three-classical-means-semicircle:SEMICIRC>`, :g:`ordinate QS <three-classical-means-semicircle:QS>` realizes :math:`G = \sqrt{ac}`.
+2. **Platonic Solid Bonding (II.24.5)**: Plane squares (:math:`a^2, b^2`) admit a single geometric mean (:math:`ab`), whereas cubes (:math:`a^3, b^3`) require two means (:math:`a^2 b, ab^2`), illuminating :person:`Plato's <plato>` *Timaeus* 31b–32b and the nuptial passage in *Republic* 546b–c.

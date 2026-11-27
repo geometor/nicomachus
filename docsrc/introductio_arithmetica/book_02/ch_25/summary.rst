@@ -20,8 +20,8 @@ Chapter 25: The Harmonic Proportion (Subcontrary) & Extreme-Product Law — Summ
 Overview
 --------
 
-Nicomachus defines the :term:`harmonic proportion <harmonike>` for $a < b < c$ by the ratio condition $c : a = (c - b) : (b - a)$ (exemplified by $3, 4, 6$ and $2, 3, 6$) and proves four characteristic laws:
+Nicomachus defines the :term:`harmonic proportion <harmonike>` for :math:`a < b < c` by the ratio condition :math:`c : a = (c - b) : (b - a)` (exemplified by :math:`3, 4, 6` and :math:`2, 3, 6`) and proves four characteristic laws:
 
-1. **Subcontrary Ratio Ordering (II.25.2)**: Ratios among greater terms exceed those among lesser terms ($6:4 > 4:3$), reversing the arithmetic ordering.
-2. **Equal Fractional Parts of Extremes (II.25.3)**: $b$ exceeds $a$ and falls short of $c$ by the same fraction of $a$ and $c$ respectively ($\frac{b - a}{a} = \frac{c - b}{c}$).
-3. **Extreme-Product Identity (II.25.4)**: $(a + c)b = 2ac$, equivalent to $b = \frac{2ac}{a+c}$, realized as :g:`radial segment SF = H <three-classical-means-semicircle:SF>`.
+1. **Subcontrary Ratio Ordering (II.25.2)**: Ratios among greater terms exceed those among lesser terms (:math:`6:4 > 4:3`), reversing the arithmetic ordering.
+2. **Equal Fractional Parts of Extremes (II.25.3)**: :math:`b` exceeds :math:`a` and falls short of :math:`c` by the same fraction of :math:`a` and :math:`c` respectively (:math:`\frac{b - a}{a} = \frac{c - b}{c}`).
+3. **Extreme-Product Identity (II.25.4)**: :math:`(a + c)b = 2ac`, equivalent to :math:`b = \frac{2ac}{a+c}`, realized as :g:`radial segment SF = H <three-classical-means-semicircle:SF>`.

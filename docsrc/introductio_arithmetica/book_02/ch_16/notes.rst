@@ -27,4 +27,4 @@ Mathematical & Philological Notes
 ---------------------------------
 
 * **The Six Orientations (*Hex Peristaseis*)**: Right/left, up/down, front/back (cf. Aristotle *Physics* IV.1 and Nicomachus I.17/II.16)—representing the six faces/directions of an orthogonal solid.
-* **Parallelepiped Construction**: Whereas Euclid (*Elements* XI) uses *parallelepipedon* generally for any hexahedron with parallel opposite faces, Nicomachus restricts the term here to solids of form $n \times n \times (n+1)$ or $n \times (n+1) \times (n+1)$ whose faces include heteromecic rectangles (see II.17.6 for *plinthides* and *dokides*).
+* **Parallelepiped Construction**: Whereas Euclid (*Elements* XI) uses *parallelepipedon* generally for any hexahedron with parallel opposite faces, Nicomachus restricts the term here to solids of form :math:`n \times n \times (n+1)` or :math:`n \times (n+1) \times (n+1)` whose faces include heteromecic rectangles (see II.17.6 for *plinthides* and *dokides*).

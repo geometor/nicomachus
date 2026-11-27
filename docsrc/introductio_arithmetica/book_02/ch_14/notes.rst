@@ -26,5 +26,5 @@ Archival Witnesses & Apparatus
 Mathematical & Textual Notes
 ----------------------------
 
-* **Square Pyramidal Formula**: Summing $\sum_{k=1}^n k^2 = \frac{n(n+1)(2n+1)}{6}$ gives $1, 5, 14, 30, 55, 91, \dots$; more generally, $\operatorname{Pyr}(s, n) = \frac{n(n+1)[(s-2)n + 5 - s]}{6}$.
-* **Terminology (*Kolouros*)**: Greek *kolouros* ("dock-tailed", i.e. truncated) denotes a frustum stopping at an actual polygon $P(s, r+1)$ rather than $1$; a $k$-truncated pyramid of height $n-k$ equals $\operatorname{Pyr}(s, n) - \operatorname{Pyr}(s, k)$.
+* **Square Pyramidal Formula**: Summing :math:`\sum_{k=1}^n k^2 = \frac{n(n+1)(2n+1)}{6}` gives :math:`1, 5, 14, 30, 55, 91, \dots`; more generally, :math:`\operatorname{Pyr}(s, n) = \frac{n(n+1)[(s-2)n + 5 - s]}{6}`.
+* **Terminology (*Kolouros*)**: Greek *kolouros* ("dock-tailed", i.e. truncated) denotes a frustum stopping at an actual polygon :math:`P(s, r+1)` rather than :math:`1`; a :math:`k`-truncated pyramid of height :math:`n-k` equals :math:`\operatorname{Pyr}(s, n) - \operatorname{Pyr}(s, k)`.

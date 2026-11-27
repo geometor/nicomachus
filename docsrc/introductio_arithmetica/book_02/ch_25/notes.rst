@@ -27,6 +27,6 @@ Archival Witnesses & Apparatus
 Mathematical & Historical Notes
 -------------------------------
 
-* **Algebraic Formulation**: Setting $\frac{c - b}{b - a} = \frac{c}{a}$ gives $a(c - b) = c(b - a) \implies 2ac = b(a + c)$, whence $b = \frac{2ac}{a + c}$ (or $\frac{1}{b} - \frac{1}{c} = \frac{1}{a} - \frac{1}{b}$).
+* **Algebraic Formulation**: Setting :math:`\frac{c - b}{b - a} = \frac{c}{a}` gives :math:`a(c - b) = c(b - a) \implies 2ac = b(a + c)`, whence :math:`b = \frac{2ac}{a + c}` (or :math:`\frac{1}{b} - \frac{1}{c} = \frac{1}{a} - \frac{1}{b}`).
 * **Subcontrary Origin**: :person:`Archytas <archytas>` (Fr. B2) and :person:`Iamblichus <iamblichus>` report that the third mean was originally called *subcontrary* (*hypenantia*) before :person:`Archytas <archytas>` and :person:`Hippasus <hippasus>` named it *harmonic*.
-* **Geometric Realization**: On :g:`semicircle PR <three-classical-means-semicircle:SEMICIRC>` ($a=6, c=12$), right-triangle similarity $\triangle SQF \sim \triangle OQS$ yields :g:`SF = H = 8 <three-classical-means-semicircle:SF>` with $Q(S, F) = 64$.
+* **Geometric Realization**: On :g:`semicircle PR <three-classical-means-semicircle:SEMICIRC>` (:math:`a=6, c=12`), right-triangle similarity :math:`\triangle SQF \sim \triangle OQS` yields :g:`SF = H = 8 <three-classical-means-semicircle:SF>` with :math:`Q(S, F) = 64`.
