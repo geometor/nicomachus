@@ -1,4 +1,5 @@
 :type: person
+:card_ref: catalog:people/philoponus
 :layout: book
 :death_year: 570
 :death_label: 570

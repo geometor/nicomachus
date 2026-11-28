@@ -1,4 +1,5 @@
 :type: person
+:card_ref: fibonacci:index
 :layout: book
 :lifespan: Fibonacci
 :site_url: https://geometor.github.io/fibonacci/

@@ -3,7 +3,7 @@
 :death_year: 1956
 :death_label: 1956
 :lifespan: 1884–1963 / 1878–1956
-:excerpt: - Greek / Latin: | Role**: Co-authors of Studies in Greek Arithmetic (1926)
+:description: Completed and annotated D'Ooge's 1926 Michigan edition with comprehensive philological, mathematical, and historical studies on Greek arithmetic, sources of Nicomachus, and medieval reception.
 
 .. _person-karpinski:
 

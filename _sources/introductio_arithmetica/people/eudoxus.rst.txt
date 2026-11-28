@@ -1,4 +1,5 @@
 :type: person
+:card_ref: catalog:people/eudoxus
 :layout: book
 :death_year: -337
 :death_label: 337 BC

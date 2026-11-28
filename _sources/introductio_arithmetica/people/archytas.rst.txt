@@ -1,4 +1,5 @@
 :type: person
+:card_ref: catalog:people/archytas
 :layout: book
 :death_year: -347
 :death_label: 347 BC

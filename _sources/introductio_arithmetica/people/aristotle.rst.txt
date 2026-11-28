@@ -1,4 +1,5 @@
 :type: person
+:card_ref: aristotle:index
 :layout: book
 :death_year: -322
 :death_label: 322 BC

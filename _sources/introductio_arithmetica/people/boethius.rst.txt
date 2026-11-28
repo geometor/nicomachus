@@ -1,4 +1,5 @@
 :type: person
+:card_ref: catalog:people/boethius
 :layout: book
 :death_year: 524
 :death_label: 524

@@ -1,4 +1,5 @@
 :type: person
+:card_ref: plato:index
 :layout: book
 :death_year: -348
 :death_label: 348 BC
