@@ -1,4 +1,5 @@
 :type: person
+:card_ref: proclus:index
 :layout: book
 :death_year: 485
 :death_label: 485

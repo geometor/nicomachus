@@ -1,4 +1,5 @@
 :type: person
+:card_ref: catalog:people/pythagoras
 :layout: book
 :death_year: -495
 :death_label: 495 BC

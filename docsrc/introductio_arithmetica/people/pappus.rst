@@ -1,4 +1,5 @@
 :type: person
+:card_ref: pappus:index
 :layout: book
 :death_year: 320
 :death_label: 320

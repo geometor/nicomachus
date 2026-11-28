@@ -1,4 +1,5 @@
 :type: person
+:card_ref: catalog:people/eratosthenes
 :layout: book
 :death_year: -194
 :death_label: 194 BC

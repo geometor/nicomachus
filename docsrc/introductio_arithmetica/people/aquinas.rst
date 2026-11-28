@@ -1,4 +1,5 @@
 :type: person
+:card_ref: aquinas:index
 :layout: book
 :death_year: 1274
 :death_label: 1274
